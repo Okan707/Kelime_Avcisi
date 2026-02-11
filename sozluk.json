@@ -1,0 +1,6551 @@
+{
+    "4_harf": [
+        {
+            "kelime": "RÜYA",
+            "tanim": "Düş, uykuda görülen hayal.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÇİLE",
+            "tanim": "Zahmet, eziyet. Büyük sıkıntı veya dervişlerin sabır sınavı.",
+            "harf": 4
+        },
+        {
+            "kelime": "EMEK",
+            "tanim": "Bir iş için harcanan güç. Başarıya ulaşmak için dökülen alın teri.",
+            "harf": 4
+        },
+        {
+            "kelime": "EZEL",
+            "tanim": "Başlangıcı olmayan geçmiş. Zamanın en başı, öncesi olmayan.",
+            "harf": 4
+        },
+        {
+            "kelime": "ŞEVK",
+            "tanim": "İstek, heves, neşe. Bir işi yaparken duyulan büyük heyecan.",
+            "harf": 4
+        },
+        {
+            "kelime": "VEFA",
+            "tanim": "Sözünde durma, bağlılık. Dostluğu unutmamak ve sevgiye sadık kalmak.",
+            "harf": 4
+        },
+        {
+            "kelime": "AZİM",
+            "tanim": "Kararlılık. Engeller karşısında yılmamak, kararlı olmak.",
+            "harf": 4
+        },
+        {
+            "kelime": "BAKİ",
+            "tanim": "Sürekli, sonsuz. Hiç bitmeyen, sonsuza kadar kalan.",
+            "harf": 4
+        },
+        {
+            "kelime": "GAYE",
+            "tanim": "Amaç, hedef. Ulaşmak istediğimiz temel nokta.",
+            "harf": 4
+        },
+        {
+            "kelime": "KAFİ",
+            "tanim": "Yeterli. Bir şeyin tam kararında, yeterli olması.",
+            "harf": 4
+        },
+        {
+            "kelime": "MANA",
+            "tanim": "Anlam, iç yüz. Kelimelerin veya olayların taşıdığı öz.",
+            "harf": 4
+        },
+        {
+            "kelime": "ARİF",
+            "tanim": "Anlayışlı, sezgili. Çabuk anlayan, sezgisi güçlü olan kişi.",
+            "harf": 4
+        },
+        {
+            "kelime": "BEKA",
+            "tanim": "Kalıcılık. Varlığın sürdürülmesi, devamlılık.",
+            "harf": 4
+        },
+        {
+            "kelime": "ETİK",
+            "tanim": "Ahlaki değerler. Toplumda doğru davranma kuralları.",
+            "harf": 4
+        },
+        {
+            "kelime": "EVLA",
+            "tanim": "Daha uygun, daha iyi. İki seçenekten daha öncelikli olan.",
+            "harf": 4
+        },
+        {
+            "kelime": "FAAL",
+            "tanim": "Çalışkan, işleyen. Sürekli hareket halinde olan, aktif.",
+            "harf": 4
+        },
+        {
+            "kelime": "İFŞA",
+            "tanim": "Açığa çıkarma. Bir gizli bilgiyi veya sırrı yaymak.",
+            "harf": 4
+        },
+        {
+            "kelime": "ABES",
+            "tanim": "Saçma, anlamsız. Mantığa uymayan, garip durum.",
+            "harf": 4
+        },
+        {
+            "kelime": "ADİL",
+            "tanim": "Adaletli. Hak yemeyen, her şeyi hakkaniyetle yapan.",
+            "harf": 4
+        },
+        {
+            "kelime": "AMAÇ",
+            "tanim": "Hedef, maksat. Ulaşılmak istenen sonuç.",
+            "harf": 4
+        },
+        {
+            "kelime": "ANAÇ",
+            "tanim": "Şefkatli, anne gibi. Başkalarını koruyup kollayan, yardımsever.",
+            "harf": 4
+        },
+        {
+            "kelime": "ATİK",
+            "tanim": "Çabuk davranan, çevik. Hareketlerinde çok hızlı olan.",
+            "harf": 4
+        },
+        {
+            "kelime": "BEİS",
+            "tanim": "Sakınca, engel. Bir işin yapılmasında görülen mahzur.",
+            "harf": 4
+        },
+        {
+            "kelime": "DERS",
+            "tanim": "Öğretilen bilgi. Okulda öğretmenimizden öğrendiğimiz konu.",
+            "harf": 4
+        },
+        {
+            "kelime": "DONE",
+            "tanim": "Veri, bilgi. Bir sonuca varmak için kullanılan ipucu veya veri.",
+            "harf": 4
+        },
+        {
+            "kelime": "EBRU",
+            "tanim": "Kâğıt süsleme sanatı. Su üzerine boyalarla yapılan geleneksel sanat.",
+            "harf": 4
+        },
+        {
+            "kelime": "EFOR",
+            "tanim": "Çaba, gayret. Fiziksel veya zihinsel olarak harcanan güç.",
+            "harf": 4
+        },
+        {
+            "kelime": "FARK",
+            "tanim": "Ayrım. İki şey arasındaki benzemezlik.",
+            "harf": 4
+        },
+        {
+            "kelime": "FERT",
+            "tanim": "Birey, kişi. Toplumu oluşturan tek bir insan.",
+            "harf": 4
+        },
+        {
+            "kelime": "FİİL",
+            "tanim": "Eylem. İş, oluş veya hareket bildiren kelime.",
+            "harf": 4
+        },
+        {
+            "kelime": "GAZİ",
+            "tanim": "Savaştan dönen kahraman. Vatur savunmasında yaralanan onurlu kişi.",
+            "harf": 4
+        },
+        {
+            "kelime": "GRUP",
+            "tanim": "Küme, topluluk. Bir araya gelmiş insan veya nesne topluluğu.",
+            "harf": 4
+        },
+        {
+            "kelime": "İHYA",
+            "tanim": "Canlandırma. Bir şeyi yeniden eski güzel haline getirme.",
+            "harf": 4
+        },
+        {
+            "kelime": "İMGE",
+            "tanim": "Zihinsel tasarım, hayal. Zihnimizde canlandırdığımız sembolik görüntü.",
+            "harf": 4
+        },
+        {
+            "kelime": "İMZA",
+            "tanim": "Onay işareti. Belgelere attığımız kişisel işaret.",
+            "harf": 4
+        },
+        {
+            "kelime": "İSİM",
+            "tanim": "Ad. Varlıkları tanımamıza yarayan kelime.",
+            "harf": 4
+        },
+        {
+            "kelime": "JEST",
+            "tanim": "Anlamlı el/baş hareketi. Duyguları ifade eden el ve kol hareketleri.",
+            "harf": 4
+        },
+        {
+            "kelime": "KANI",
+            "tanim": "İnanç, görüş. Bir olay hakkındaki kişisel düşüncemiz.",
+            "harf": 4
+        },
+        {
+            "kelime": "KART",
+            "tanim": "Tazeliğini yitirmiş. Gençliği geçmiş veya artık taze olmayan sebze.",
+            "harf": 4
+        },
+        {
+            "kelime": "KONU",
+            "tanim": "Üzerinde konuşulan şey. Bir kitabın veya dersin ele aldığı mesele.",
+            "harf": 4
+        },
+        {
+            "kelime": "META",
+            "tanim": "Ticari mal. Alınıp satılabilen eşya veya ürün.",
+            "harf": 4
+        },
+        {
+            "kelime": "NAİF",
+            "tanim": "Saf, sade, doğal. Çok temiz kalpli ve hassas ruhlu kişi.",
+            "harf": 4
+        },
+        {
+            "kelime": "OLGU",
+            "tanim": "Vakıa, sonuç. Gerçekleşen, varlığı kanıtlanmış olay.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÖDÜN",
+            "tanim": "Taviz. Anlaşmak için kendi isteğinden vazgeçmek.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÖZGÜ",
+            "tanim": "Birine has. Sadece belirli bir kişiye veya gruba ait olan.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÖZNE",
+            "tanim": "İşi yapan kişi. Cümlede eylemi gerçekleştiren temel öğe.",
+            "harf": 4
+        },
+        {
+            "kelime": "SALT",
+            "tanim": "Yalnızca, mutlak. İçine başka şey karışmamış, sade ve tek.",
+            "harf": 4
+        },
+        {
+            "kelime": "SERA",
+            "tanim": "Bitki yetiştirme alanı. Kışın sebze yetiştirilen cam/naylon kaplı yer.",
+            "harf": 4
+        },
+        {
+            "kelime": "SIZI",
+            "tanim": "Hafif ağrı. İnce ince duyulan, sürekli olmayan acı.",
+            "harf": 4
+        },
+        {
+            "kelime": "YETİ",
+            "tanim": "Kabiliyet, güç. Bir işi yapabilme becerisi veya gücü.",
+            "harf": 4
+        },
+        {
+            "kelime": "ZEKİ",
+            "tanim": "Kavrayışlı, akıllı. Zihnini çok iyi kullanan, akıllı çocuk.",
+            "harf": 4
+        },
+        {
+            "kelime": "AÇIK",
+            "tanim": "Engelsiz, kapalı olmayan, hür.",
+            "harf": 4
+        },
+        {
+            "kelime": "ADET",
+            "tanim": "Sayı; görenek, alışkanlık.",
+            "harf": 4
+        },
+        {
+            "kelime": "AHIR",
+            "tanim": "Evcil büyükbaş hayvanların barındığı yer.",
+            "harf": 4
+        },
+        {
+            "kelime": "AKIN",
+            "tanim": "Düşman topraklarına yapılan toplu saldırı.",
+            "harf": 4
+        },
+        {
+            "kelime": "AKIL",
+            "tanim": "Düşünme, anlama ve kavrama gücü.",
+            "harf": 4
+        },
+        {
+            "kelime": "ALAN",
+            "tanim": "Düz ve açık yer, meydan.",
+            "harf": 4
+        },
+        {
+            "kelime": "ALİM",
+            "tanim": "Bilgin, çok okumuş kimse.",
+            "harf": 4
+        },
+        {
+            "kelime": "ALTI",
+            "tanim": "Beşten sonra gelen sayı.",
+            "harf": 4
+        },
+        {
+            "kelime": "AMCA",
+            "tanim": "Babanın erkek kardeşi.",
+            "harf": 4
+        },
+        {
+            "kelime": "ANNE",
+            "tanim": "Çocuğu olan kadın, valide.",
+            "harf": 4
+        },
+        {
+            "kelime": "ARAÇ",
+            "tanim": "Bir iş yapmakta kullanılan vasıta.",
+            "harf": 4
+        },
+        {
+            "kelime": "ARKA",
+            "tanim": "Geri, bir şeyin ters tarafı.",
+            "harf": 4
+        },
+        {
+            "kelime": "ARMA",
+            "tanim": "Bir devletin veya ailenin simgesi.",
+            "harf": 4
+        },
+        {
+            "kelime": "ARPA",
+            "tanim": "Hayvan yemi olarak kullanılan bir tahıl.",
+            "harf": 4
+        },
+        {
+            "kelime": "ARSA",
+            "tanim": "Üzerine bina yapılabilen toprak parçası.",
+            "harf": 4
+        },
+        {
+            "kelime": "ASIL",
+            "tanim": "Kök, temel, gerçek.",
+            "harf": 4
+        },
+        {
+            "kelime": "ASLA",
+            "tanim": "Hiçbir zaman.",
+            "harf": 4
+        },
+        {
+            "kelime": "ASMA",
+            "tanim": "Üzüm veren bitki.",
+            "harf": 4
+        },
+        {
+            "kelime": "AŞIK",
+            "tanim": "Birine vurgun olan kimse; halk ozanı.",
+            "harf": 4
+        },
+        {
+            "kelime": "ATAÇ",
+            "tanim": "Kâğıtları birbirine tutturmaya yarayan tel.",
+            "harf": 4
+        },
+        {
+            "kelime": "ATEŞ",
+            "tanim": "Yanıcı maddelerin yanmasıyla oluşan ısı ve ışık.",
+            "harf": 4
+        },
+        {
+            "kelime": "ATIL",
+            "tanim": "İşsiz, güçsüz, tembel.",
+            "harf": 4
+        },
+        {
+            "kelime": "AVLU",
+            "tanim": "Bir yapının ortasında kalan üstü açık yer.",
+            "harf": 4
+        },
+        {
+            "kelime": "AYAK",
+            "tanim": "Vücudun yere basan bölümü.",
+            "harf": 4
+        },
+        {
+            "kelime": "AYAZ",
+            "tanim": "Duru ve soğuk hava.",
+            "harf": 4
+        },
+        {
+            "kelime": "AYNA",
+            "tanim": "Görüntü veren cam yüzey.",
+            "harf": 4
+        },
+        {
+            "kelime": "AYRI",
+            "tanim": "Başka, farklı, bitişik olmayan.",
+            "harf": 4
+        },
+        {
+            "kelime": "AZİM",
+            "tanim": "Bir işteki engelleri yenme kararlılığı.",
+            "harf": 4
+        },
+        {
+            "kelime": "AZİZ",
+            "tanim": "Kutsal, sevgili, değerli.",
+            "harf": 4
+        },
+        {
+            "kelime": "BABA",
+            "tanim": "Çocuğu olan erkek, peder.",
+            "harf": 4
+        },
+        {
+            "kelime": "BAĞA",
+            "tanim": "Kaplumbağa ve kurbağa kabuğu.",
+            "harf": 4
+        },
+        {
+            "kelime": "BAKİ",
+            "tanim": "Güneşe göre konum.",
+            "harf": 4
+        },
+        {
+            "kelime": "BALA",
+            "tanim": "Yavru, çocuk.",
+            "harf": 4
+        },
+        {
+            "kelime": "BANT",
+            "tanim": "Yapıştırmaya yarayan şerit.",
+            "harf": 4
+        },
+        {
+            "kelime": "BARİ",
+            "tanim": "Duvar, engel.",
+            "harf": 4
+        },
+        {
+            "kelime": "BAZI",
+            "tanim": "Birtakım, kimi.",
+            "harf": 4
+        },
+        {
+            "kelime": "BEBE",
+            "tanim": "Küçük çocuk, bebek.",
+            "harf": 4
+        },
+        {
+            "kelime": "BENT",
+            "tanim": "Su biriktirmek için yapılan engel.",
+            "harf": 4
+        },
+        {
+            "kelime": "BERE",
+            "tanim": "Başa giyilen yumuşak başlık.",
+            "harf": 4
+        },
+        {
+            "kelime": "BİAT",
+            "tanim": "Egemenliği kabul etme.",
+            "harf": 4
+        },
+        {
+            "kelime": "BİNA",
+            "tanim": "Yapı, inşaat.",
+            "harf": 4
+        },
+        {
+            "kelime": "BLOK",
+            "tanim": "Kocaman ve ağır kitle.",
+            "harf": 4
+        },
+        {
+            "kelime": "BOYU",
+            "tanim": "Uzunluk, endam.",
+            "harf": 4
+        },
+        {
+            "kelime": "BUĞU",
+            "tanim": "Buhar, suyun gaz hâli.",
+            "harf": 4
+        },
+        {
+            "kelime": "BURA",
+            "tanim": "Bu yer.",
+            "harf": 4
+        },
+        {
+            "kelime": "BURÇ",
+            "tanim": "Kale duvarındaki yüksek çıkıntı.",
+            "harf": 4
+        },
+        {
+            "kelime": "CAMİ",
+            "tanim": "Müslümanların ibadet yeri.",
+            "harf": 4
+        },
+        {
+            "kelime": "CANİ",
+            "tanim": "Hayat, ruh.",
+            "harf": 4
+        },
+        {
+            "kelime": "CEFA",
+            "tanim": "Eziyet, sıkıntı.",
+            "harf": 4
+        },
+        {
+            "kelime": "CEZA",
+            "tanim": "Suç karşılığı verilen yaptırım.",
+            "harf": 4
+        },
+        {
+            "kelime": "CIVI",
+            "tanim": "Akışkan, sulu.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÇABA",
+            "tanim": "Gayret, emek.",
+            "harf": 4
+        },
+        {
+            "kelime": "CADI",
+            "tanim": "Büyücü.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÇARK",
+            "tanim": "Dönen makine parçası.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÇATI",
+            "tanim": "Bir yapının en üst örtüsü.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÇİZİ",
+            "tanim": "Çizgi, işaret.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÇİVİ",
+            "tanim": "Bir şeyi tutturmaya yarayan metal.",
+            "harf": 4
+        },
+        {
+            "kelime": "DAHİ",
+            "tanim": "Bile, da/de bağlacı gibi.",
+            "harf": 4
+        },
+        {
+            "kelime": "DAHİ",
+            "tanim": "Üstün zekâlı kimse.",
+            "harf": 4
+        },
+        {
+            "kelime": "DAL",
+            "tanim": "Ağaç kolu, şube.",
+            "harf": 3
+        },
+        {
+            "kelime": "DANA",
+            "tanim": "Sığır yavrusu.",
+            "harf": 4
+        },
+        {
+            "kelime": "DANS",
+            "tanim": "Müzik eşliğinde yapılan ritmik hareketler.",
+            "harf": 4
+        },
+        {
+            "kelime": "DARI",
+            "tanim": "Mısır veya benzeri tahıl.",
+            "harf": 4
+        },
+        {
+            "kelime": "DEBİ",
+            "tanim": "Akış hızı.",
+            "harf": 4
+        },
+        {
+            "kelime": "DEDE",
+            "tanim": "Babanın veya annenin babası.",
+            "harf": 4
+        },
+        {
+            "kelime": "DERE",
+            "tanim": "Akarsu, küçük nehir.",
+            "harf": 4
+        },
+        {
+            "kelime": "DEVE",
+            "tanim": "Yük taşıyan hörgüçlü hayvan.",
+            "harf": 4
+        },
+        {
+            "kelime": "DİLE",
+            "tanim": "İstemek, arzu etmek.",
+            "harf": 4
+        },
+        {
+            "kelime": "DİNİ",
+            "tanim": "İnançla ilgili.",
+            "harf": 4
+        },
+        {
+            "kelime": "DİZİ",
+            "tanim": "Sıralanmış şeyler bütünü.",
+            "harf": 4
+        },
+        {
+            "kelime": "DOĞA",
+            "tanim": "Tabiat, kendiliğinden var olan dünya.",
+            "harf": 4
+        },
+        {
+            "kelime": "DOLU",
+            "tanim": "İçi boş olmayan; bir yağış türü.",
+            "harf": 4
+        },
+        {
+            "kelime": "DOST",
+            "tanim": "Sevilen ve güvenilen kimse.",
+            "harf": 4
+        },
+        {
+            "kelime": "DÖRT",
+            "tanim": "Üçten sonra gelen sayı.",
+            "harf": 4
+        },
+        {
+            "kelime": "DURU",
+            "tanim": "Temiz, pırıl pırıl.",
+            "harf": 4
+        },
+        {
+            "kelime": "DÜET",
+            "tanim": "İki kişinin birlikte şarkı söylemesi.",
+            "harf": 4
+        },
+        {
+            "kelime": "EBAT",
+            "tanim": "Boyutlar.",
+            "harf": 4
+        },
+        {
+            "kelime": "EDEP",
+            "tanim": "Terbiye, ahlak.",
+            "harf": 4
+        },
+        {
+            "kelime": "EDER",
+            "tanim": "Fiyat, değer.",
+            "harf": 4
+        },
+        {
+            "kelime": "EKME",
+            "tanim": "Tohumu toprağa koyma.",
+            "harf": 4
+        },
+        {
+            "kelime": "ELEM",
+            "tanim": "Keder, acı, üzüntü.",
+            "harf": 4
+        },
+        {
+            "kelime": "ELLİ",
+            "tanim": "Kırk dokuzdan sonra gelen sayı.",
+            "harf": 4
+        },
+        {
+            "kelime": "ELMA",
+            "tanim": "Bir meyve türü.",
+            "harf": 4
+        },
+        {
+            "kelime": "EMEL",
+            "tanim": "Ulaşılmak istenen güçlü arzu, ülkü.",
+            "harf": 4
+        },
+        {
+            "kelime": "EMİN",
+            "tanim": "Güvenilir, şüphesi olmayan.",
+            "harf": 4
+        },
+        {
+            "kelime": "EMİR",
+            "tanim": "Buyruk, talimat.",
+            "harf": 4
+        },
+        {
+            "kelime": "ENEK",
+            "tanim": "Zar, tohum.",
+            "harf": 4
+        },
+        {
+            "kelime": "ERİK",
+            "tanim": "Bir meyve türü.",
+            "harf": 4
+        },
+        {
+            "kelime": "ERİN",
+            "tanim": "Olgunlaşmış.",
+            "harf": 4
+        },
+        {
+            "kelime": "ERKE",
+            "tanim": "Enerji, güç.",
+            "harf": 4
+        },
+        {
+            "kelime": "ESER",
+            "tanim": "Yapıt, ortaya konan ürün.",
+            "harf": 4
+        },
+        {
+            "kelime": "ESKİ",
+            "tanim": "Yeni olmayan, yıpranmış.",
+            "harf": 4
+        },
+        {
+            "kelime": "ETİK",
+            "tanim": "Ahlaki.",
+            "harf": 4
+        },
+        {
+            "kelime": "ETKİ",
+            "tanim": "Tesir.",
+            "harf": 4
+        },
+        {
+            "kelime": "EVET",
+            "tanim": "Onaylama sözü.",
+            "harf": 4
+        },
+        {
+            "kelime": "EVRE",
+            "tanim": "Aşama, safha.",
+            "harf": 4
+        },
+        {
+            "kelime": "EZAN",
+            "tanim": "Namaz vaktini bildiren çağrı.",
+            "harf": 4
+        },
+        {
+            "kelime": "FAKS",
+            "tanim": "Belgegeçer.",
+            "harf": 4
+        },
+        {
+            "kelime": "FARE",
+            "tanim": "Kemirgen bir hayvan.",
+            "harf": 4
+        },
+        {
+            "kelime": "FEDA",
+            "tanim": "Kurban etme, vazgeçme.",
+            "harf": 4
+        },
+        {
+            "kelime": "FENA",
+            "tanim": "Kötü.",
+            "harf": 4
+        },
+        {
+            "kelime": "FİLM",
+            "tanim": "Sinema eseri.",
+            "harf": 4
+        },
+        {
+            "kelime": "FİNO",
+            "tanim": "Bir köpek türü.",
+            "harf": 4
+        },
+        {
+            "kelime": "FULE",
+            "tanim": "Adım genişliği.",
+            "harf": 4
+        },
+        {
+            "kelime": "GECE",
+            "tanim": "Gün batımından ağarmasına kadar olan süre.",
+            "harf": 4
+        },
+        {
+            "kelime": "GEZİ",
+            "tanim": "Gezmek amacıyla yapılan yolculuk.",
+            "harf": 4
+        },
+        {
+            "kelime": "GİBİ",
+            "tanim": "Benzerlik bildiren edat.",
+            "harf": 4
+        },
+        {
+            "kelime": "GÖÇ",
+            "tanim": "Yer değiştirme.",
+            "harf": 3
+        },
+        {
+            "kelime": "GÖMÜ",
+            "tanim": "Toprak altına saklanmış değerli şeyler.",
+            "harf": 4
+        },
+        {
+            "kelime": "GÖRE",
+            "tanim": "Uygun olarak, nazaran.",
+            "harf": 4
+        },
+        {
+            "kelime": "GÖZÜ",
+            "tanim": "Görme organı.",
+            "harf": 4
+        },
+        {
+            "kelime": "GRAF",
+            "tanim": "Çizge.",
+            "harf": 4
+        },
+        {
+            "kelime": "GÜC",
+            "tanim": "Kuvvet, derman.",
+            "harf": 3
+        },
+        {
+            "kelime": "GÜL",
+            "tanim": "Çiçek türü; gülmek eylemi.",
+            "harf": 3
+        },
+        {
+            "kelime": "HADİ",
+            "tanim": "Haydi.",
+            "harf": 4
+        },
+        {
+            "kelime": "HALA",
+            "tanim": "Babanın kız kardeşi.",
+            "harf": 4
+        },
+        {
+            "kelime": "HALK",
+            "tanim": "Aynı ülkede yaşayan insan topluluğu.",
+            "harf": 4
+        },
+        {
+            "kelime": "HANE",
+            "tanim": "Ev, konut.",
+            "harf": 4
+        },
+        {
+            "kelime": "HARP",
+            "tanim": "Savaş.",
+            "harf": 4
+        },
+        {
+            "kelime": "HATA",
+            "tanim": "Yanlışlık, kusur.",
+            "harf": 4
+        },
+        {
+            "kelime": "HAVA",
+            "tanim": "Atmosfer; gökyüzü.",
+            "harf": 4
+        },
+        {
+            "kelime": "HAZE",
+            "tanim": "Kısım, parça.",
+            "harf": 4
+        },
+        {
+            "kelime": "HECE",
+            "tanim": "Ses topluluğu, kelime parçası.",
+            "harf": 4
+        },
+        {
+            "kelime": "HİLE",
+            "tanim": "Aldatma, oyun.",
+            "harf": 4
+        },
+        {
+            "kelime": "HOCA",
+            "tanim": "Öğretmen, bilgin.",
+            "harf": 4
+        },
+        {
+            "kelime": "HÜDA",
+            "tanim": "Tanrı, yaratıcı.",
+            "harf": 4
+        },
+        {
+            "kelime": "HULU",
+            "tanim": "Huy, tabiat.",
+            "harf": 4
+        },
+        {
+            "kelime": "IŞIK",
+            "tanim": "Aydınlık veren enerji.",
+            "harf": 4
+        },
+        {
+            "kelime": "ILIK",
+            "tanim": "Sıcağa yakın.",
+            "harf": 4
+        },
+        {
+            "kelime": "İLİM",
+            "tanim": "Bilim.",
+            "harf": 4
+        },
+        {
+            "kelime": "İLGİ",
+            "tanim": "Alaka, yakınlık.",
+            "harf": 4
+        },
+        {
+            "kelime": "İMLA",
+            "tanim": "Yazım kuralları.",
+            "harf": 4
+        },
+        {
+            "kelime": "İNCE",
+            "tanim": "Zayıf, narin, dar.",
+            "harf": 4
+        },
+        {
+            "kelime": "İNEK",
+            "tanim": "Süt veren dişi sığır.",
+            "harf": 4
+        },
+        {
+            "kelime": "İSİM",
+            "tanim": "Ad.",
+            "harf": 4
+        },
+        {
+            "kelime": "İTFA",
+            "tanim": "Söndürme.",
+            "harf": 4
+        },
+        {
+            "kelime": "İZLE",
+            "tanim": "Takip etmek.",
+            "harf": 4
+        },
+        {
+            "kelime": "İZİN",
+            "tanim": "İzinli olarak.",
+            "harf": 4
+        },
+        {
+            "kelime": "KAFE",
+            "tanim": "Kahvehane.",
+            "harf": 4
+        },
+        {
+            "kelime": "KALE",
+            "tanim": "Savunma amaçlı yapı.",
+            "harf": 4
+        },
+        {
+            "kelime": "KALP",
+            "tanim": "Yürek.",
+            "harf": 4
+        },
+        {
+            "kelime": "KAMU",
+            "tanim": "Halk, amme.",
+            "harf": 4
+        },
+        {
+            "kelime": "KARA",
+            "tanim": "Siyah; toprak parçası.",
+            "harf": 4
+        },
+        {
+            "kelime": "KASA",
+            "tanim": "Para veya eşya saklanan kutu.",
+            "harf": 4
+        },
+        {
+            "kelime": "KATI",
+            "tanim": "Sert, yumuşak olmayan.",
+            "harf": 4
+        },
+        {
+            "kelime": "KAZA",
+            "tanim": "Beklenmedik olay.",
+            "harf": 4
+        },
+        {
+            "kelime": "KEDİ",
+            "tanim": "Evcil bir hayvan.",
+            "harf": 4
+        },
+        {
+            "kelime": "KEFE",
+            "tanim": "Terazi gözü.",
+            "harf": 4
+        },
+        {
+            "kelime": "KESE",
+            "tanim": "Para torbası.",
+            "harf": 4
+        },
+        {
+            "kelime": "KISA",
+            "tanim": "Boyu az olan.",
+            "harf": 4
+        },
+        {
+            "kelime": "KIYI",
+            "tanim": "Sahil, kenar.",
+            "harf": 4
+        },
+        {
+            "kelime": "KİRA",
+            "tanim": "Kullanım bedeli.",
+            "harf": 4
+        },
+        {
+            "kelime": "KİŞİ",
+            "tanim": "Şahıs, kimse.",
+            "harf": 4
+        },
+        {
+            "kelime": "KOZA",
+            "tanim": "İpek böceğinin kabuğu.",
+            "harf": 4
+        },
+        {
+            "kelime": "KULA",
+            "tanim": "Sarıya çalan at rengi.",
+            "harf": 4
+        },
+        {
+            "kelime": "KUMA",
+            "tanim": "Kum ile ilgili.",
+            "harf": 4
+        },
+        {
+            "kelime": "KURU",
+            "tanim": "Islak olmayan.",
+            "harf": 4
+        },
+        {
+            "kelime": "KUŞ",
+            "tanim": "Uçan hayvan.",
+            "harf": 3
+        },
+        {
+            "kelime": "KUTU",
+            "tanim": "Eşya koymaya yarayan kap.",
+            "harf": 4
+        },
+        {
+            "kelime": "KUZU",
+            "tanim": "Koyun yavrusu.",
+            "harf": 4
+        },
+        {
+            "kelime": "KÜME",
+            "tanim": "Grup, topluluk.",
+            "harf": 4
+        },
+        {
+            "kelime": "KÜRE",
+            "tanim": "Yuvarlak nesne.",
+            "harf": 4
+        },
+        {
+            "kelime": "LAİK",
+            "tanim": "Din ve devlet işlerinin ayrılığı.",
+            "harf": 4
+        },
+        {
+            "kelime": "LALE",
+            "tanim": "Bir çiçek türü.",
+            "harf": 4
+        },
+        {
+            "kelime": "MAÇ",
+            "tanim": "Karşılaşma, müsabaka.",
+            "harf": 3
+        },
+        {
+            "kelime": "MANİ",
+            "tanim": "Engel; bir halk edebiyatı türü.",
+            "harf": 4
+        },
+        {
+            "kelime": "MARŞ",
+            "tanim": "Müzikli milli parça.",
+            "harf": 4
+        },
+        {
+            "kelime": "MASA",
+            "tanim": "Üzerinde iş yapılan mobilya.",
+            "harf": 4
+        },
+        {
+            "kelime": "MAVİ",
+            "tanim": "Gökyüzü rengi.",
+            "harf": 4
+        },
+        {
+            "kelime": "MAYA",
+            "tanim": "Mayalanmayı sağlayan madde.",
+            "harf": 4
+        },
+        {
+            "kelime": "MELE",
+            "tanim": "Koyun sesi.",
+            "harf": 4
+        },
+        {
+            "kelime": "MERA",
+            "tanim": "Hayvan otlatılan yer.",
+            "harf": 4
+        },
+        {
+            "kelime": "MERT",
+            "tanim": "Sözünün eri, yiğit.",
+            "harf": 4
+        },
+        {
+            "kelime": "MEŞE",
+            "tanim": "Bir ağaç türü.",
+            "harf": 4
+        },
+        {
+            "kelime": "MİRA",
+            "tanim": "Ölçme çubuğu.",
+            "harf": 4
+        },
+        {
+            "kelime": "MODU",
+            "tanim": "Durumu, biçimi.",
+            "harf": 4
+        },
+        {
+            "kelime": "MÜZE",
+            "tanim": "Eserlerin sergilendiği yer.",
+            "harf": 4
+        },
+        {
+            "kelime": "NAAŞ",
+            "tanim": "Ölü vücudu.",
+            "harf": 4
+        },
+        {
+            "kelime": "NENE",
+            "tanim": "Büyükanne.",
+            "harf": 4
+        },
+        {
+            "kelime": "NEŞE",
+            "tanim": "Sevinç, şenlik.",
+            "harf": 4
+        },
+        {
+            "kelime": "NİCE",
+            "tanim": "Pek çok.",
+            "harf": 4
+        },
+        {
+            "kelime": "NİNE",
+            "tanim": "Büyükanne.",
+            "harf": 4
+        },
+        {
+            "kelime": "NOT",
+            "tanim": "Kısa yazı; başarı puanı.",
+            "harf": 3
+        },
+        {
+            "kelime": "OCAK",
+            "tanim": "Ateş yakılan yer; yılın ilk ayı.",
+            "harf": 4
+        },
+        {
+            "kelime": "OKUL",
+            "tanim": "Eğitim kurumu.",
+            "harf": 4
+        },
+        {
+            "kelime": "OKUR",
+            "tanim": "Kitap okuyan kimse.",
+            "harf": 4
+        },
+        {
+            "kelime": "OLAY",
+            "tanim": "Gerçekleşen durum, hadise.",
+            "harf": 4
+        },
+        {
+            "kelime": "ORDU",
+            "tanim": "Askeri güç.",
+            "harf": 4
+        },
+        {
+            "kelime": "ORTA",
+            "tanim": "İki uç arasındaki yer.",
+            "harf": 4
+        },
+        {
+            "kelime": "OYUN",
+            "tanim": "Eğlence amaçlı etkinlik.",
+            "harf": 4
+        },
+        {
+            "kelime": "OZAN",
+            "tanim": "Halk şairi.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÖMÜR",
+            "tanim": "Hayat süresi.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÖYKÜ",
+            "tanim": "Hikâye.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÖZEL",
+            "tanim": "Has, şahsi.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÖZEN",
+            "tanim": "Dikkat, ihtimam.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÖZET",
+            "tanim": "Kısa ve öz anlatım.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÖZGE",
+            "tanim": "Başka, farklı.",
+            "harf": 4
+        },
+        {
+            "kelime": "PAŞA",
+            "tanim": "Yüksek rütbeli asker.",
+            "harf": 4
+        },
+        {
+            "kelime": "PANO",
+            "tanim": "Duyuru tahtası.",
+            "harf": 4
+        },
+        {
+            "kelime": "PARA",
+            "tanim": "Değişim aracı olan ödeme birimi.",
+            "harf": 4
+        },
+        {
+            "kelime": "PARK",
+            "tanim": "Dinlenme ve oyun alanı.",
+            "harf": 4
+        },
+        {
+            "kelime": "PİRİ",
+            "tanim": "Işıltı.",
+            "harf": 4
+        },
+        {
+            "kelime": "PLAN",
+            "tanim": "Önceden hazırlanan taslak.",
+            "harf": 4
+        },
+        {
+            "kelime": "PUAN",
+            "tanim": "Değer birimi.",
+            "harf": 4
+        },
+        {
+            "kelime": "RAF",
+            "tanim": "Eşya konulan bölme.",
+            "harf": 3
+        },
+        {
+            "kelime": "RENK",
+            "tanim": "Işığın yansımasıyla oluşan çeşitlilik.",
+            "harf": 4
+        },
+        {
+            "kelime": "ROTA",
+            "tanim": "Gidilecek yol.",
+            "harf": 4
+        },
+        {
+            "kelime": "RUH",
+            "tanim": "Can, öz.",
+            "harf": 3
+        },
+        {
+            "kelime": "SAAT",
+            "tanim": "Zaman ölçme aracı.",
+            "harf": 4
+        },
+        {
+            "kelime": "SADE",
+            "tanim": "Yalın, gösterişsiz.",
+            "harf": 4
+        },
+        {
+            "kelime": "SAYI",
+            "tanim": "Nicelik bildiren birim.",
+            "harf": 4
+        },
+        {
+            "kelime": "SES",
+            "tanim": "Duyulan titreşim.",
+            "harf": 3
+        },
+        {
+            "kelime": "SILA",
+            "tanim": "Gurbetteki kişinin memleketi.",
+            "harf": 4
+        },
+        {
+            "kelime": "SİTE",
+            "tanim": "İnternet sayfası; yerleşim yeri.",
+            "harf": 4
+        },
+        {
+            "kelime": "SLOG",
+            "tanim": "Slogan (kısaltılmış).",
+            "harf": 4
+        },
+        {
+            "kelime": "SULU",
+            "tanim": "Su içeren.",
+            "harf": 4
+        },
+        {
+            "kelime": "SÜRE",
+            "tanim": "Zaman dilimi.",
+            "harf": 4
+        },
+        {
+            "kelime": "SÜRÜ",
+            "tanim": "Hayvan topluluğu.",
+            "harf": 4
+        },
+        {
+            "kelime": "ŞAKA",
+            "tanim": "Güldürmek için yapılan hareket.",
+            "harf": 4
+        },
+        {
+            "kelime": "ŞİİR",
+            "tanim": "Dizelerden oluşan edebi eser.",
+            "harf": 4
+        },
+        {
+            "kelime": "ŞUBE",
+            "tanim": "Kol, bölüm.",
+            "harf": 4
+        },
+        {
+            "kelime": "TAT",
+            "tanim": "Lezzet.",
+            "harf": 3
+        },
+        {
+            "kelime": "TAKV",
+            "tanim": "Takvim (kısaltılmış).",
+            "harf": 4
+        },
+        {
+            "kelime": "TAPU",
+            "tanim": "Mülkiyet belgesi.",
+            "harf": 4
+        },
+        {
+            "kelime": "TAVA",
+            "tanim": "Pişirme kabı.",
+            "harf": 4
+        },
+        {
+            "kelime": "TAZE",
+            "tanim": "Bayat olmayan.",
+            "harf": 4
+        },
+        {
+            "kelime": "TEMA",
+            "tanim": "Konu, ana düşünce.",
+            "harf": 4
+        },
+        {
+            "kelime": "UMUT",
+            "tanim": "Beklenti, ümit.",
+            "harf": 4
+        },
+        {
+            "kelime": "UYUM",
+            "tanim": "Ahenk.",
+            "harf": 4
+        },
+        {
+            "kelime": "UZAK",
+            "tanim": "Irak.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÜLKE",
+            "tanim": "Vatan, memleket.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÜLKÜ",
+            "tanim": "İdeal, hedef.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÜNLÜ",
+            "tanim": "Meşhur; sesli harf.",
+            "harf": 4
+        },
+        {
+            "kelime": "YAĞI",
+            "tanim": "Düşman.",
+            "harf": 4
+        },
+        {
+            "kelime": "YARA",
+            "tanim": "Vücuttaki hasar.",
+            "harf": 4
+        },
+        {
+            "kelime": "YAZI",
+            "tanim": "Metin; yazma işi.",
+            "harf": 4
+        },
+        {
+            "kelime": "YELE",
+            "tanim": "Atın boynundaki uzun tüyler.",
+            "harf": 4
+        },
+        {
+            "kelime": "YENİ",
+            "tanim": "Eski olmayan.",
+            "harf": 4
+        },
+        {
+            "kelime": "YIĞI",
+            "tanim": "Küme (yığın).",
+            "harf": 4
+        },
+        {
+            "kelime": "YÖRE",
+            "tanim": "Bölge, civar.",
+            "harf": 4
+        },
+        {
+            "kelime": "YÜCE",
+            "tanim": "Ulu, yüksek.",
+            "harf": 4
+        },
+        {
+            "kelime": "ZİYA",
+            "tanim": "Işık, aydınlık.",
+            "harf": 4
+        },
+        {
+            "kelime": "DRAM",
+            "tanim": "Acıklı olay; tiyatro türü.",
+            "harf": 4
+        },
+        {
+            "kelime": "İVME",
+            "tanim": "Hızlanma derecesi.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÖBÜR",
+            "tanim": "Diğeri.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÖFKE",
+            "tanim": "Kızgınlık.",
+            "harf": 4
+        },
+        {
+            "kelime": "ÜRÜN",
+            "tanim": "Mahsul.",
+            "harf": 4
+        }
+    ],
+    "5_harf": [
+        {
+            "kelime": "SAĞLI",
+            "tanim": "Sağ taraf; esenlik.",
+            "harf": 5
+        },
+        {
+            "kelime": "ŞEKİL",
+            "tanim": "Biçim, form.",
+            "harf": 5
+        },
+        {
+            "kelime": "TIPKI",
+            "tanim": "Aynen.",
+            "harf": 5
+        },
+        {
+            "kelime": "GİZEM",
+            "tanim": "Sır, aklın erişemediği veya çözülemiyen şey.",
+            "harf": 5
+        },
+        {
+            "kelime": "GÖNÜL",
+            "tanim": "Sevgi, istek, düşünüşün kalpteki kaynağı. İnsanın iç dünyası, sevginin ve duyguların merkezi sayılan yer.",
+            "harf": 5
+        },
+        {
+            "kelime": "AHENK",
+            "tanim": "Uyum, düzen, intizam. Parçaların birbirine uyum sağlaması, düzenli bir bütün oluşturması.",
+            "harf": 5
+        },
+        {
+            "kelime": "CANAN",
+            "tanim": "Sevgili, gönül verilen. Gönülden sevilen kişi, sevgili.",
+            "harf": 5
+        },
+        {
+            "kelime": "DERYA",
+            "tanim": "Deniz, engin bilgi sahibi. Çok büyük su kütlesi veya çok bilgili kişileri tanımlamak için kullanılan kelime.",
+            "harf": 5
+        },
+        {
+            "kelime": "EFSUN",
+            "tanim": "Büyü, sihir, çekicilik. İnsanı kendine hayran bırakan sihirli bir çekicilik.",
+            "harf": 5
+        },
+        {
+            "kelime": "ENDAM",
+            "tanim": "Vücut yapısı, boy bos. Bir kişinin dış görünüşündeki boy ve vücut yapısının uyumu.",
+            "harf": 5
+        },
+        {
+            "kelime": "ERDEM",
+            "tanim": "Fazilet, ruhsal olgunluk, iyilik. İnsanın ruhsal olarak olgunlaşması ve hep iyiyi yapmaya çalışması.",
+            "harf": 5
+        },
+        {
+            "kelime": "FİRAK",
+            "tanim": "Ayrılık acısı. Sevilen birinden uzak kalmanın verdiği derin üzüntü.",
+            "harf": 5
+        },
+        {
+            "kelime": "HAYAL",
+            "tanim": "Zihinde canlandırılan şey, düş. Gerçekte olmayan ama zihnimizde canlandırdığımız görüntüler veya istekler.",
+            "harf": 5
+        },
+        {
+            "kelime": "HAZAN",
+            "tanim": "Sonbahar, dökülme mevsimi. Yaprakların döküldüğü, sarardığı mevsim; sonbahar.",
+            "harf": 5
+        },
+        {
+            "kelime": "HÜLYA",
+            "tanim": "Tatlı düş, kuruntu. Gerçekleşmesi istenen çok tatlı ve güzel düşler.",
+            "harf": 5
+        },
+        {
+            "kelime": "HÜZÜN",
+            "tanim": "Gönül üzgünlüğü, keder. İnsanın içini kaplayan derin keder ve üzüntü duygusu.",
+            "harf": 5
+        },
+        {
+            "kelime": "İKBAL",
+            "tanim": "Baht açıklığı, yüksek makam. İşlerin yolunda gitmesi, geleceğin parlak ve şanslı olması.",
+            "harf": 5
+        },
+        {
+            "kelime": "İLHAM",
+            "tanim": "Esin, kalbe doğan mana. Bir sanatçının yaratıcılığını harekete geçiren içsel güç veya duygu.",
+            "harf": 5
+        },
+        {
+            "kelime": "İNSAF",
+            "tanim": "Vicdana dayalı adalet, merhamet. Karşımızdakine acıma ve vicdanlı davranma duygusu.",
+            "harf": 5
+        },
+        {
+            "kelime": "KADİM",
+            "tanim": "Çok eski, başlangıcı bilinmeyen. Zamanın çok öncesinden gelen, eskimeyen ve değerli olan.",
+            "harf": 5
+        },
+        {
+            "kelime": "KEDER",
+            "tanim": "Acı, üzüntü, dert. İnsanı derinden sarsan büyük dert veya üzüntü.",
+            "harf": 5
+        },
+        {
+            "kelime": "LATİF",
+            "tanim": "Hoş, nazik, yumuşak. Güzelliğiyle göze ve ruha hoş gelen, nazik davranış veya söz.",
+            "harf": 5
+        },
+        {
+            "kelime": "MELAL",
+            "tanim": "Bıkkınlık, hüzünlü can sıkıntısı. İnsanın içindeki hüzünlü yorgunluk ve can sıkıntısı.",
+            "harf": 5
+        },
+        {
+            "kelime": "NİMET",
+            "tanim": "İyilik, lütuf, yiyecek. Bize sunulan her türlü iyilik, şükredilmesi gereken imkanlar.",
+            "harf": 5
+        },
+        {
+            "kelime": "SİTEM",
+            "tanim": "Kırgınlığı nazikçe belirtme. Sevilen birine karşı duyulan kırgınlığın yumuşak bir dille anlatılması.",
+            "harf": 5
+        },
+        {
+            "kelime": "VAKAR",
+            "tanim": "Ağırbaşlılık. İnsanın duruşundaki asalet ve ağırbaşlı sükûnet.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZEHİR",
+            "tanim": "Ağı. Vücuda zarar veren veya mecazen çok ağır gelen acı söz.",
+            "harf": 5
+        },
+        {
+            "kelime": "AHVAL",
+            "tanim": "Haller, durumlar. İçinde bulunulan şartlar veya yaşanan olayların genel durumu.",
+            "harf": 5
+        },
+        {
+            "kelime": "AKİDE",
+            "tanim": "İnanç, bağlılık. Bir şeye gönülden inanma; ayrıca geleneksel bir şekerleme türü.",
+            "harf": 5
+        },
+        {
+            "kelime": "ARİFE",
+            "tanim": "Bayramdan önceki gün. Önemli bir günün veya olayın hemen öncesindeki bekleyiş süresi.",
+            "harf": 5
+        },
+        {
+            "kelime": "ASUDE",
+            "tanim": "Rahat, huzurlu. Sessiz, gürültüden uzak ve huzur veren sakin yer veya durum.",
+            "harf": 5
+        },
+        {
+            "kelime": "AŞİNA",
+            "tanim": "Bildik, tanıdık. Bir şeyi veya birini önceden tanıyor, biliyor olma durumu.",
+            "harf": 5
+        },
+        {
+            "kelime": "AVARE",
+            "tanim": "Başıboş, serseri. Boş gezen, belirli bir amacı olmayan kişi.",
+            "harf": 5
+        },
+        {
+            "kelime": "BARİZ",
+            "tanim": "Açık, göze çarpan. Herkes tarafından kolayca fark edilebilen net durum.",
+            "harf": 5
+        },
+        {
+            "kelime": "BEHER",
+            "tanim": "Her bir. Bir bütünün içindeki parçaların her birini ifade eden söz.",
+            "harf": 5
+        },
+        {
+            "kelime": "BELAG",
+            "tanim": "Güzel söz söyleme. Sözü etkili ve kurallarına uygun biçimde ifade etme sanatı.",
+            "harf": 5
+        },
+        {
+            "kelime": "BELİĞ",
+            "tanim": "Açık, düzgün (söz). Anlatımı çok etkileyici ve düzgün olan konuşma veya yazı.",
+            "harf": 5
+        },
+        {
+            "kelime": "BİÇİM",
+            "tanim": "Şekil, tarz. Varlıkların dış görünüşü veya bir işin yapılış yöntemi.",
+            "harf": 5
+        },
+        {
+            "kelime": "CEMAL",
+            "tanim": "Yüz güzelliği. Yüzdeki nur ve güzellik; bakıldığında huzur veren görünüş.",
+            "harf": 5
+        },
+        {
+            "kelime": "CEPHE",
+            "tanim": "Bir yapının ön tarafı veya savaş alanı. Savaşın sürdüğü yer veya bir binanın bakış yönü.",
+            "harf": 5
+        },
+        {
+            "kelime": "CÜMLE",
+            "tanim": "Yargı bildiren kelimeler dizisi. Duygularımızı veya düşüncelerimizi tam olarak anlatan söz dizisi.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇARIK",
+            "tanim": "Deriden yapılan bir tür ayakkabı. Eskiden giyilen, deriden yapılmış basit ayak kabı.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇEŞİT",
+            "tanim": "Tür, öbek. Aynı türden olan şeylerin farklı kısımları veya örnekleri.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇEŞNİ",
+            "tanim": "Tat, çeşit. Yemeğe veya hayata farklılık katan lezzet, hoş özellik.",
+            "harf": 5
+        },
+        {
+            "kelime": "DEYİM",
+            "tanim": "Kalıplaşmış söz öbeği. Kelimelerin gerçek anlamından uzaklaşarak oluşturduğu özel anlatım.",
+            "harf": 5
+        },
+        {
+            "kelime": "DİMAĞ",
+            "tanim": "Bilinç, zihin. İnsanın düşünme yetisi ve zihni.",
+            "harf": 5
+        },
+        {
+            "kelime": "EBLEH",
+            "tanim": "Ahmak, akılsız. Akıl yürütmede yetersiz kalan veya çok sar davranan kimse.",
+            "harf": 5
+        },
+        {
+            "kelime": "FİKİR",
+            "tanim": "Düşünce. Zihnimizde oluşan ve ifade edilen her türlü düşünce.",
+            "harf": 5
+        },
+        {
+            "kelime": "HAZİN",
+            "tanim": "Dokunaklı, acıklı. İnsanı duygulandıran, hüzün veren üzücü olay veya durum.",
+            "harf": 5
+        },
+        {
+            "kelime": "İDRAK",
+            "tanim": "Anlama, kavrama. Bir gerçeği veya bilgiyi zihinle tam olarak çözme.",
+            "harf": 5
+        },
+        {
+            "kelime": "KADER",
+            "tanim": "Alın yazısı. Hayat boyu yaşanacak olayların önceden belirlenmiş olması.",
+            "harf": 5
+        },
+        {
+            "kelime": "LÜTUF",
+            "tanim": "İyilik, bağış. Beklenmedik bir anda gelen büyük iyilik veya hoşgörü.",
+            "harf": 5
+        },
+        {
+            "kelime": "NAZAR",
+            "tanim": "Bakış, göz atma. Dikkatli bir bakış veya halk inancına göre göze gelme.",
+            "harf": 5
+        },
+        {
+            "kelime": "YERİN",
+            "tanim": "Hüzün, üzüntü. İnsanın içini sızlatan derin hüzün hali.",
+            "harf": 5
+        },
+        {
+            "kelime": "ABİDE",
+            "tanim": "Anıt, eser. Önemli bir olayı veya kişiyi simgeleyen tarihi yapı.",
+            "harf": 5
+        },
+        {
+            "kelime": "AMADE",
+            "tanim": "Hazır, emre hazır. Bir görev veya hizmet için her an hazır bekleyen.",
+            "harf": 5
+        },
+        {
+            "kelime": "BİLGE",
+            "tanim": "Bilgili ve görmüş geçirmiş. Bilgisini hayat tecrübesiyle birleştirmiş saygın kişi.",
+            "harf": 5
+        },
+        {
+            "kelime": "EBEDİ",
+            "tanim": "Sonsuz, ölümsüz. Zamanın ötesine geçen ve hiç bitmeyecek olan.",
+            "harf": 5
+        },
+        {
+            "kelime": "İRFAN",
+            "tanim": "Bilme, anlama, kültür. Sezgi ve tecrübe ile kazanılan derin kavrayış.",
+            "harf": 5
+        },
+        {
+            "kelime": "İSRAF",
+            "tanim": "Gereksiz harcama. Zamanı, parayı veya emeği boş yere tüketmek.",
+            "harf": 5
+        },
+        {
+            "kelime": "SELAM",
+            "tanim": "Esenlik dileme. İnsanlar arasında barış ve güveni başlatan söz.",
+            "harf": 5
+        },
+        {
+            "kelime": "ABİDE",
+            "tanim": "Önemli bir olayı veya kişiyi yaşatmak için yapılan anıt.",
+            "harf": 5
+        },
+        {
+            "kelime": "ACELE",
+            "tanim": "Hızlı yapılması gereken, çabukluk isteyen iş.",
+            "harf": 5
+        },
+        {
+            "kelime": "ADALE",
+            "tanim": "Vücuttaki kas dokusu.",
+            "harf": 5
+        },
+        {
+            "kelime": "ADRES",
+            "tanim": "Bir yerin bulunmasını sağlayan bilgiler.",
+            "harf": 5
+        },
+        {
+            "kelime": "AFİŞE",
+            "tanim": "Duyurmak, ilan etmek.",
+            "harf": 5
+        },
+        {
+            "kelime": "AHALİ",
+            "tanim": "Bir yerde yaşayan halk, topluluk.",
+            "harf": 5
+        },
+        {
+            "kelime": "AHİZE",
+            "tanim": "Telefonun ses alıp veren parçası.",
+            "harf": 5
+        },
+        {
+            "kelime": "AJANS",
+            "tanim": "Haber toplama ve yayma kuruluşu.",
+            "harf": 5
+        },
+        {
+            "kelime": "AKORT",
+            "tanim": "Müzik aletlerinin ses düzenini ayarlama.",
+            "harf": 5
+        },
+        {
+            "kelime": "AKTÖR",
+            "tanim": "Erkek oyuncu.",
+            "harf": 5
+        },
+        {
+            "kelime": "ALAKA",
+            "tanim": "İlgi, bağlantı.",
+            "harf": 5
+        },
+        {
+            "kelime": "ALARM",
+            "tanim": "Tehlike anında verilen uyarı sinyali.",
+            "harf": 5
+        },
+        {
+            "kelime": "ALBÜM",
+            "tanim": "Fotoğraf veya pul saklanan ciltli defter.",
+            "harf": 5
+        },
+        {
+            "kelime": "ALENİ",
+            "tanim": "Açıkça yapılan, gizli olmayan.",
+            "harf": 5
+        },
+        {
+            "kelime": "ALEYH",
+            "tanim": "Bir şeyin veya birinin karşıtı olma durumu.",
+            "harf": 5
+        },
+        {
+            "kelime": "ALKIŞ",
+            "tanim": "Beğeniyi belirtmek için elleri birbirine vurma.",
+            "harf": 5
+        },
+        {
+            "kelime": "ALMAN",
+            "tanim": "Almanya halkından olan kimse.",
+            "harf": 5
+        },
+        {
+            "kelime": "ALTIN",
+            "tanim": "Değerli bir metal, sarı renkli maden.",
+            "harf": 5
+        },
+        {
+            "kelime": "AMBAR",
+            "tanim": "Eşya veya tahıl saklanan depo.",
+            "harf": 5
+        },
+        {
+            "kelime": "AMİGO",
+            "tanim": "Taraftarları coşturan kişi.",
+            "harf": 5
+        },
+        {
+            "kelime": "AMPUL",
+            "tanim": "Işık veren cam şişe.",
+            "harf": 5
+        },
+        {
+            "kelime": "ANLAM",
+            "tanim": "Bir kelimenin zihinde uyandırdığı kavram.",
+            "harf": 5
+        },
+        {
+            "kelime": "ANTRE",
+            "tanim": "Giriş yeri, hol.",
+            "harf": 5
+        },
+        {
+            "kelime": "APARK",
+            "tanim": "Yanaşmak (gemiler için).",
+            "harf": 5
+        },
+        {
+            "kelime": "ARAZİ",
+            "tanim": "Yeryüzü parçası, toprak.",
+            "harf": 5
+        },
+        {
+            "kelime": "ARİFE",
+            "tanim": "Önemli bir günden önceki gün.",
+            "harf": 5
+        },
+        {
+            "kelime": "ARŞİV",
+            "tanim": "Belgelerin saklandığı yer.",
+            "harf": 5
+        },
+        {
+            "kelime": "ASLAN",
+            "tanim": "Güçlü bir yırtıcı hayvan.",
+            "harf": 5
+        },
+        {
+            "kelime": "ATLET",
+            "tanim": "Sporcu; kolsuz iç çamaşırı.",
+            "harf": 5
+        },
+        {
+            "kelime": "AVİZE",
+            "tanim": "Tavana asılan süslü aydınlatma aracı.",
+            "harf": 5
+        },
+        {
+            "kelime": "AYLIK",
+            "tanim": "Bir ay süren veya ayda bir ödenen para.",
+            "harf": 5
+        },
+        {
+            "kelime": "AYRAN",
+            "tanim": "Yoğurt ve sudan yapılan içecek.",
+            "harf": 5
+        },
+        {
+            "kelime": "AYRIM",
+            "tanim": "Farklılık, başkalık.",
+            "harf": 5
+        },
+        {
+            "kelime": "BAHAR",
+            "tanim": "Yaz ve kış arasındaki mevsim.",
+            "harf": 5
+        },
+        {
+            "kelime": "BAHÇE",
+            "tanim": "Bitki yetiştirilen alan.",
+            "harf": 5
+        },
+        {
+            "kelime": "BAKIR",
+            "tanim": "Kızıl renkli bir maden.",
+            "harf": 5
+        },
+        {
+            "kelime": "BAKIŞ",
+            "tanim": "Bakma işi veya biçimi.",
+            "harf": 5
+        },
+        {
+            "kelime": "BALON",
+            "tanim": "İçi hava veya gazla şişirilmiş araç.",
+            "harf": 5
+        },
+        {
+            "kelime": "BALTA",
+            "tanim": "Ağaç kesmeye yarayan araç.",
+            "harf": 5
+        },
+        {
+            "kelime": "BANYO",
+            "tanim": "Yıkanma yeri.",
+            "harf": 5
+        },
+        {
+            "kelime": "BARIŞ",
+            "tanim": "Savaşın sona ermesi, huzur.",
+            "harf": 5
+        },
+        {
+            "kelime": "BASIN",
+            "tanim": "Gazete ve dergi yayınlarının tümü.",
+            "harf": 5
+        },
+        {
+            "kelime": "BAŞKA",
+            "tanim": "Ayrı, özge, farklı.",
+            "harf": 5
+        },
+        {
+            "kelime": "BAŞLI",
+            "tanim": "Başı olan; önemli.",
+            "harf": 5
+        },
+        {
+            "kelime": "BATIK",
+            "tanim": "Suya gömülmüş olan.",
+            "harf": 5
+        },
+        {
+            "kelime": "BEDEN",
+            "tanim": "Vücut, gövde.",
+            "harf": 5
+        },
+        {
+            "kelime": "BEKÇİ",
+            "tanim": "Bir şeyi korumakla görevli kimse.",
+            "harf": 5
+        },
+        {
+            "kelime": "BELGE",
+            "tanim": "Bir gerçeği ispatlayan yazı.",
+            "harf": 5
+        },
+        {
+            "kelime": "BELKİ",
+            "tanim": "Muhtemelen, ihtimal dahilinde.",
+            "harf": 5
+        },
+        {
+            "kelime": "BELLİ",
+            "tanim": "Anlaşılır, açık olan.",
+            "harf": 5
+        },
+        {
+            "kelime": "BENCE",
+            "tanim": "Benim görüşüme göre.",
+            "harf": 5
+        },
+        {
+            "kelime": "BEYAZ",
+            "tanim": "Ak renk.",
+            "harf": 5
+        },
+        {
+            "kelime": "BEYİN",
+            "tanim": "Merkezi sinir sistemi organı.",
+            "harf": 5
+        },
+        {
+            "kelime": "BİÇİM",
+            "tanim": "Şekil, tarz.",
+            "harf": 5
+        },
+        {
+            "kelime": "BİLGİ",
+            "tanim": "Öğrenilen şey, malumat.",
+            "harf": 5
+        },
+        {
+            "kelime": "BİLİM",
+            "tanim": "Düzenli ve yöntemli bilgi.",
+            "harf": 5
+        },
+        {
+            "kelime": "BİREY",
+            "tanim": "Toplumu oluşturan her bir kişi.",
+            "harf": 5
+        },
+        {
+            "kelime": "BİRIM",
+            "tanim": "Ölçü temel parçası.",
+            "harf": 5
+        },
+        {
+            "kelime": "BİTKİ",
+            "tanim": "Toprağa kök salan canlı.",
+            "harf": 5
+        },
+        {
+            "kelime": "BOĞAZ",
+            "tanim": "Boyun ön kısmı; dar geçit.",
+            "harf": 5
+        },
+        {
+            "kelime": "BOLCA",
+            "tanim": "Miktarı çok olan.",
+            "harf": 5
+        },
+        {
+            "kelime": "BÖLGE",
+            "tanim": "Yeryüzü parçası, yöre.",
+            "harf": 5
+        },
+        {
+            "kelime": "BÖLÜM",
+            "tanim": "Bir bütünün parçalarından her biri.",
+            "harf": 5
+        },
+        {
+            "kelime": "BÜTÇE",
+            "tanim": "Gelir ve gider tablosu.",
+            "harf": 5
+        },
+        {
+            "kelime": "BÜTÜN",
+            "tanim": "Tam, eksiksiz.",
+            "harf": 5
+        },
+        {
+            "kelime": "BÜYÜK",
+            "tanim": "Küçük olmayan, iri.",
+            "harf": 5
+        },
+        {
+            "kelime": "CADDE",
+            "tanim": "Geniş yol.",
+            "harf": 5
+        },
+        {
+            "kelime": "CAMİİ",
+            "tanim": "Toplayan, içine alan.",
+            "harf": 5
+        },
+        {
+            "kelime": "CANLI",
+            "tanim": "Hayatı olan, diri.",
+            "harf": 5
+        },
+        {
+            "kelime": "CEVAP",
+            "tanim": "Yanıt.",
+            "harf": 5
+        },
+        {
+            "kelime": "CEVİZ",
+            "tanim": "Sert kabuklu bir yemiş.",
+            "harf": 5
+        },
+        {
+            "kelime": "CİHAZ",
+            "tanim": "Aygıt, düzenek.",
+            "harf": 5
+        },
+        {
+            "kelime": "CİVAR",
+            "tanim": "Yakın yerler, çevre.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇALGI",
+            "tanim": "Müzik aleti.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇALIŞ",
+            "tanim": "Çaba gösterme.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇANTA",
+            "tanim": "Eşya taşımaya yarayan kap.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇATIŞ",
+            "tanim": "Zıt düşme, mücadele.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇEHRE",
+            "tanim": "Yüz, görünüş.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇEKİM",
+            "tanim": "Çekme işi; görüntü alma.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇELİK",
+            "tanim": "Sert bir metal alaşımı.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇEVRE",
+            "tanim": "Etraf, kuşatan alan.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇEYİZ",
+            "tanim": "Gelin için hazırlanan eşya.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇİÇEK",
+            "tanim": "Bitkinin renkli bölümü.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇİZGİ",
+            "tanim": "İnce uzun işaret.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇİZME",
+            "tanim": "Uzun konçlu ayakkabı.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇOCUK",
+            "tanim": "Küçük yaştaki insan.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÇÜNKÜ",
+            "tanim": "Zira, şundan dolayı.",
+            "harf": 5
+        },
+        {
+            "kelime": "DAİRE",
+            "tanim": "Çembersel alan; apartman katı.",
+            "harf": 5
+        },
+        {
+            "kelime": "DALGA",
+            "tanim": "Su yüzeyindeki hareket.",
+            "harf": 5
+        },
+        {
+            "kelime": "DAVET",
+            "tanim": "Çağrı.",
+            "harf": 5
+        },
+        {
+            "kelime": "DENİZ",
+            "tanim": "Büyük su kütlesi.",
+            "harf": 5
+        },
+        {
+            "kelime": "DERGİ",
+            "tanim": "Süreli yayın.",
+            "harf": 5
+        },
+        {
+            "kelime": "DERİN",
+            "tanim": "Dibi yüzeyinden uzak olan.",
+            "harf": 5
+        },
+        {
+            "kelime": "DEYİM",
+            "tanim": "Kalıplaşmış söz grubu.",
+            "harf": 5
+        },
+        {
+            "kelime": "DİLEK",
+            "tanim": "Arzu, istek.",
+            "harf": 5
+        },
+        {
+            "kelime": "DİREK",
+            "tanim": "Sütun, destek çubuğu.",
+            "harf": 5
+        },
+        {
+            "kelime": "DİZGİ",
+            "tanim": "Sıralama işi.",
+            "harf": 5
+        },
+        {
+            "kelime": "DOĞRU",
+            "tanim": "Gerçek; eğri olmayan.",
+            "harf": 5
+        },
+        {
+            "kelime": "DOLAP",
+            "tanim": "Eşya konulan mobilya.",
+            "harf": 5
+        },
+        {
+            "kelime": "DÖNEM",
+            "tanim": "Belli bir zaman dilimi.",
+            "harf": 5
+        },
+        {
+            "kelime": "DURAK",
+            "tanim": "Taşıtların durduğu yer.",
+            "harf": 5
+        },
+        {
+            "kelime": "DURUM",
+            "tanim": "Hâl, vaziyet.",
+            "harf": 5
+        },
+        {
+            "kelime": "DUYGU",
+            "tanim": "His.",
+            "harf": 5
+        },
+        {
+            "kelime": "DÜNYA",
+            "tanim": "Yeryüzü, alem.",
+            "harf": 5
+        },
+        {
+            "kelime": "DÜŞÜN",
+            "tanim": "Fikir, zihin faaliyeti.",
+            "harf": 5
+        },
+        {
+            "kelime": "DÜZEY",
+            "tanim": "Seviye.",
+            "harf": 5
+        },
+        {
+            "kelime": "EDEBİ",
+            "tanim": "Edebiyatla ilgili.",
+            "harf": 5
+        },
+        {
+            "kelime": "EKRAN",
+            "tanim": "Görüntü yüzeyi.",
+            "harf": 5
+        },
+        {
+            "kelime": "EKSİK",
+            "tanim": "Tam olmayan.",
+            "harf": 5
+        },
+        {
+            "kelime": "ELMAS",
+            "tanim": "Değerli bir taş.",
+            "harf": 5
+        },
+        {
+            "kelime": "EMARE",
+            "tanim": "Belirti, iz.",
+            "harf": 5
+        },
+        {
+            "kelime": "ERZAK",
+            "tanim": "Yiyeceklerin bütünü.",
+            "harf": 5
+        },
+        {
+            "kelime": "ESNEK",
+            "tanim": "Bükülebilen.",
+            "harf": 5
+        },
+        {
+            "kelime": "EŞSİZ",
+            "tanim": "Benzersiz, tek.",
+            "harf": 5
+        },
+        {
+            "kelime": "ETKİN",
+            "tanim": "Aktif, faal.",
+            "harf": 5
+        },
+        {
+            "kelime": "EVRAK",
+            "tanim": "Belgeler, kâğıtlar.",
+            "harf": 5
+        },
+        {
+            "kelime": "EYLEM",
+            "tanim": "Fiil, hareket.",
+            "harf": 5
+        },
+        {
+            "kelime": "FENER",
+            "tanim": "Aydınlatma aracı.",
+            "harf": 5
+        },
+        {
+            "kelime": "FIKRA",
+            "tanim": "Güldürücü kısa hikâye.",
+            "harf": 5
+        },
+        {
+            "kelime": "FİDAN",
+            "tanim": "Genç ağaç.",
+            "harf": 5
+        },
+        {
+            "kelime": "FİGÜR",
+            "tanim": "Resim veya heykelde biçim.",
+            "harf": 5
+        },
+        {
+            "kelime": "FİKİR",
+            "tanim": "Düşünce.",
+            "harf": 5
+        },
+        {
+            "kelime": "FİYAT",
+            "tanim": "Değer, eder.",
+            "harf": 5
+        },
+        {
+            "kelime": "FORMU",
+            "tanim": "Biçimi, belgesi.",
+            "harf": 5
+        },
+        {
+            "kelime": "FUNDA",
+            "tanim": "Çalı türü bitki.",
+            "harf": 5
+        },
+        {
+            "kelime": "GALİP",
+            "tanim": "Yenen, kazanan.",
+            "harf": 5
+        },
+        {
+            "kelime": "GARİP",
+            "tanim": "Tuhaf; kimsesiz.",
+            "harf": 5
+        },
+        {
+            "kelime": "GEÇİT",
+            "tanim": "Geçilecek yer.",
+            "harf": 5
+        },
+        {
+            "kelime": "GELEN",
+            "tanim": "Varış yapan.",
+            "harf": 5
+        },
+        {
+            "kelime": "GELİR",
+            "tanim": "Kazanç.",
+            "harf": 5
+        },
+        {
+            "kelime": "GENEL",
+            "tanim": "Bütünü kapsayan.",
+            "harf": 5
+        },
+        {
+            "kelime": "GEREÇ",
+            "tanim": "Malzeme.",
+            "harf": 5
+        },
+        {
+            "kelime": "GÖVDE",
+            "tanim": "Vücudun ana kısmı; ağaç sapı.",
+            "harf": 5
+        },
+        {
+            "kelime": "GÖREV",
+            "tanim": "Vazife.",
+            "harf": 5
+        },
+        {
+            "kelime": "GÖZCÜ",
+            "tanim": "Gözleyen kimse.",
+            "harf": 5
+        },
+        {
+            "kelime": "GURUR",
+            "tanim": "Övünç, öz saygı.",
+            "harf": 5
+        },
+        {
+            "kelime": "GÜBRE",
+            "tanim": "Toprağı verimli kılan madde.",
+            "harf": 5
+        },
+        {
+            "kelime": "GÜÇLÜ",
+            "tanim": "Kuvvetli.",
+            "harf": 5
+        },
+        {
+            "kelime": "GÜLÜŞ",
+            "tanim": "Gülme biçimi.",
+            "harf": 5
+        },
+        {
+            "kelime": "GÜMÜŞ",
+            "tanim": "Değerli bir maden.",
+            "harf": 5
+        },
+        {
+            "kelime": "GÜNCE",
+            "tanim": "Günlük.",
+            "harf": 5
+        },
+        {
+            "kelime": "GÜNEŞ",
+            "tanim": "Isı ve ışık kaynağı yıldız.",
+            "harf": 5
+        },
+        {
+            "kelime": "GÜNEY",
+            "tanim": "Bir ana yön.",
+            "harf": 5
+        },
+        {
+            "kelime": "GÜVEN",
+            "tanim": "İnanma duygusu.",
+            "harf": 5
+        },
+        {
+            "kelime": "HABER",
+            "tanim": "Bilgi, ileti.",
+            "harf": 5
+        },
+        {
+            "kelime": "HADİSE",
+            "tanim": "Olay.",
+            "harf": 6
+        },
+        {
+            "kelime": "HAFIZ",
+            "tanim": "Zihin, bellek; ezberleyen.",
+            "harf": 5
+        },
+        {
+            "kelime": "HAFTA",
+            "tanim": "Yedi günlük süre.",
+            "harf": 5
+        },
+        {
+            "kelime": "HAKİM",
+            "tanim": "Yargıç; egemen olan.",
+            "harf": 5
+        },
+        {
+            "kelime": "HALAT",
+            "tanim": "Kalın ip.",
+            "harf": 5
+        },
+        {
+            "kelime": "HALİS",
+            "tanim": "Saf, temiz.",
+            "harf": 5
+        },
+        {
+            "kelime": "HAMLE",
+            "tanim": "Atılım, hareket.",
+            "harf": 5
+        },
+        {
+            "kelime": "HANIM",
+            "tanim": "Kadın.",
+            "harf": 5
+        },
+        {
+            "kelime": "HAPİS",
+            "tanim": "Tutukluluk.",
+            "harf": 5
+        },
+        {
+            "kelime": "HASTA",
+            "tanim": "Sağlığı bozuk olan.",
+            "harf": 5
+        },
+        {
+            "kelime": "HATIR",
+            "tanim": "Gönül; hafıza.",
+            "harf": 5
+        },
+        {
+            "kelime": "HAYAT",
+            "tanim": "Yaşam.",
+            "harf": 5
+        },
+        {
+            "kelime": "HAYIR",
+            "tanim": "İyilik; yok anlamında kelime.",
+            "harf": 5
+        },
+        {
+            "kelime": "HAZIR",
+            "tanim": "Tamamlanmış, amade.",
+            "harf": 5
+        },
+        {
+            "kelime": "HEDEF",
+            "tanim": "Amaç, gaye.",
+            "harf": 5
+        },
+        {
+            "kelime": "HELAL",
+            "tanim": "Dinen uygun olan.",
+            "harf": 5
+        },
+        {
+            "kelime": "HEMEN",
+            "tanim": "Çabucak, o anda.",
+            "harf": 5
+        },
+        {
+            "kelime": "HENÜZ",
+            "tanim": "Daha şimdi, yeni.",
+            "harf": 5
+        },
+        {
+            "kelime": "HEYBE",
+            "tanim": "Omuz çantası.",
+            "harf": 5
+        },
+        {
+            "kelime": "HEYET",
+            "tanim": "Kurul, topluluk.",
+            "harf": 5
+        },
+        {
+            "kelime": "HIRKA",
+            "tanim": "Örme giysi.",
+            "harf": 5
+        },
+        {
+            "kelime": "HIZLA",
+            "tanim": "Süratle.",
+            "harf": 5
+        },
+        {
+            "kelime": "HİCİV",
+            "tanim": "Yergi.",
+            "harf": 5
+        },
+        {
+            "kelime": "HİDAT",
+            "tanim": "Hidayet (kısaltılmış metin kullanımı).",
+            "harf": 5
+        },
+        {
+            "kelime": "HİKEM",
+            "tanim": "Hikmetler.",
+            "harf": 5
+        },
+        {
+            "kelime": "HİSAR",
+            "tanim": "Kale, kale suru.",
+            "harf": 5
+        },
+        {
+            "kelime": "HİTAP",
+            "tanim": "Seslenme.",
+            "harf": 5
+        },
+        {
+            "kelime": "HİZİP",
+            "tanim": "Grup, fırka.",
+            "harf": 5
+        },
+        {
+            "kelime": "HUKUK",
+            "tanim": "Haklar ve yasalar bütünü.",
+            "harf": 5
+        },
+        {
+            "kelime": "HULUS",
+            "tanim": "İçtenlik.",
+            "harf": 5
+        },
+        {
+            "kelime": "HUZUR",
+            "tanim": "Rahatlık, dirlik.",
+            "harf": 5
+        },
+        {
+            "kelime": "HÜNER",
+            "tanim": "Beceri, marifet.",
+            "harf": 5
+        },
+        {
+            "kelime": "İBARE",
+            "tanim": "Söz dizisi.",
+            "harf": 5
+        },
+        {
+            "kelime": "İDEAL",
+            "tanim": "Ülkü, amaç.",
+            "harf": 5
+        },
+        {
+            "kelime": "İDRAK",
+            "tanim": "Anlama, kavrama.",
+            "harf": 5
+        },
+        {
+            "kelime": "İFADE",
+            "tanim": "Anlatım.",
+            "harf": 5
+        },
+        {
+            "kelime": "İHLAS",
+            "tanim": "Samimiyet.",
+            "harf": 5
+        },
+        {
+            "kelime": "İHMAL",
+            "tanim": "Gerekeni yapmama.",
+            "harf": 5
+        },
+        {
+            "kelime": "İKLİM",
+            "tanim": "Hava olayları ortalaması.",
+            "harf": 5
+        },
+        {
+            "kelime": "İKRAM",
+            "tanim": "Sunu, ağırlama.",
+            "harf": 5
+        },
+        {
+            "kelime": "İLAHİ",
+            "tanim": "Tanrı ile ilgili.",
+            "harf": 5
+        },
+        {
+            "kelime": "İLHAM",
+            "tanim": "Esin.",
+            "harf": 5
+        },
+        {
+            "kelime": "İMKAN",
+            "tanim": "Olanak.",
+            "harf": 5
+        },
+        {
+            "kelime": "İNANÇ",
+            "tanim": "İnanılan şey.",
+            "harf": 5
+        },
+        {
+            "kelime": "İNCİR",
+            "tanim": "Bir meyve türü.",
+            "harf": 5
+        },
+        {
+            "kelime": "İNFAZ",
+            "tanim": "Uygulama.",
+            "harf": 5
+        },
+        {
+            "kelime": "İNSAN",
+            "tanim": "Adem evladı.",
+            "harf": 5
+        },
+        {
+            "kelime": "İRADE",
+            "tanim": "İstenç, karar gücü.",
+            "harf": 5
+        },
+        {
+            "kelime": "İSPAT",
+            "tanim": "Kanıtlama.",
+            "harf": 5
+        },
+        {
+            "kelime": "İSTEK",
+            "tanim": "Arzu.",
+            "harf": 5
+        },
+        {
+            "kelime": "İSYAN",
+            "tanim": "Başkaldırı.",
+            "harf": 5
+        },
+        {
+            "kelime": "İŞLEM",
+            "tanim": "Yapılan iş, süreç.",
+            "harf": 5
+        },
+        {
+            "kelime": "İŞTAH",
+            "tanim": "Yemek yeme arzusu.",
+            "harf": 5
+        },
+        {
+            "kelime": "İTHAF",
+            "tanim": "Sunma, armağan etme.",
+            "harf": 5
+        },
+        {
+            "kelime": "İTİNA",
+            "tanim": "Özen.",
+            "harf": 5
+        },
+        {
+            "kelime": "İZLEK",
+            "tanim": "Takip edilen yol.",
+            "harf": 5
+        },
+        {
+            "kelime": "İZLEM",
+            "tanim": "İzleme işi.",
+            "harf": 5
+        },
+        {
+            "kelime": "KABUL",
+            "tanim": "Onaylama.",
+            "harf": 5
+        },
+        {
+            "kelime": "KAĞIT",
+            "tanim": "Yazı yazılan malzeme.",
+            "harf": 5
+        },
+        {
+            "kelime": "KAHIR",
+            "tanim": "Üzüntü, sıkıntı.",
+            "harf": 5
+        },
+        {
+            "kelime": "KALEM",
+            "tanim": "Yazma aracı.",
+            "harf": 5
+        },
+        {
+            "kelime": "KALIN",
+            "tanim": "İnce olmayan.",
+            "harf": 5
+        },
+        {
+            "kelime": "KALIP",
+            "tanim": "Biçim veren kap.",
+            "harf": 5
+        },
+        {
+            "kelime": "KAMIŞ",
+            "tanim": "Sazlık bitkisi.",
+            "harf": 5
+        },
+        {
+            "kelime": "KANAL",
+            "tanim": "Yol, ark.",
+            "harf": 5
+        },
+        {
+            "kelime": "KANUN",
+            "tanim": "Yasa.",
+            "harf": 5
+        },
+        {
+            "kelime": "KAPAK",
+            "tanim": "Örtü parçası.",
+            "harf": 5
+        },
+        {
+            "kelime": "KARAR",
+            "tanim": "Hüküm.",
+            "harf": 5
+        },
+        {
+            "kelime": "KARGA",
+            "tanim": "Bir kuş türü.",
+            "harf": 5
+        },
+        {
+            "kelime": "KARŞI",
+            "tanim": "Zıt taraf.",
+            "harf": 5
+        },
+        {
+            "kelime": "KASET",
+            "tanim": "Ses kayıt aracı.",
+            "harf": 5
+        },
+        {
+            "kelime": "KAŞİF",
+            "tanim": "Keşfeden kişi.",
+            "harf": 5
+        },
+        {
+            "kelime": "KATKI",
+            "tanim": "Yardım, ekleme.",
+            "harf": 5
+        },
+        {
+            "kelime": "KAYGI",
+            "tanim": "Endişe.",
+            "harf": 5
+        },
+        {
+            "kelime": "KAYIP",
+            "tanim": "Yitirme.",
+            "harf": 5
+        },
+        {
+            "kelime": "KAYIT",
+            "tanim": "Yazma, tescil.",
+            "harf": 5
+        },
+        {
+            "kelime": "KEBAP",
+            "tanim": "Ateşte pişen et.",
+            "harf": 5
+        },
+        {
+            "kelime": "KEFİL",
+            "tanim": "Sorumluluğu üstlenen.",
+            "harf": 5
+        },
+        {
+            "kelime": "KENDİ",
+            "tanim": "Zat, şahıs.",
+            "harf": 5
+        },
+        {
+            "kelime": "KESİN",
+            "tanim": "Şüphe olmayan.",
+            "harf": 5
+        },
+        {
+            "kelime": "KESİT",
+            "tanim": "Parça, görünüş.",
+            "harf": 5
+        },
+        {
+            "kelime": "KEYİF",
+            "tanim": "Neşe, rahat.",
+            "harf": 5
+        },
+        {
+            "kelime": "KILIÇ",
+            "tanim": "Kesici silah.",
+            "harf": 5
+        },
+        {
+            "kelime": "KISIM",
+            "tanim": "Bölüm, parça.",
+            "harf": 5
+        },
+        {
+            "kelime": "KİBAR",
+            "tanim": "Nazik.",
+            "harf": 5
+        },
+        {
+            "kelime": "KİLİM",
+            "tanim": "Dokuma yaygı.",
+            "harf": 5
+        },
+        {
+            "kelime": "KİMSE",
+            "tanim": "Herhangi biri.",
+            "harf": 5
+        },
+        {
+            "kelime": "KİTAP",
+            "tanim": "Okunan ciltli eser.",
+            "harf": 5
+        },
+        {
+            "kelime": "KODLA",
+            "tanim": "Şifrelemek.",
+            "harf": 5
+        },
+        {
+            "kelime": "KOMŞU",
+            "tanim": "Yakın oturan.",
+            "harf": 5
+        },
+        {
+            "kelime": "KONAK",
+            "tanim": "Büyük ev.",
+            "harf": 5
+        },
+        {
+            "kelime": "KONUŞ",
+            "tanim": "Söz söyleme.",
+            "harf": 5
+        },
+        {
+            "kelime": "KOPYA",
+            "tanim": "Örnek, taklit.",
+            "harf": 5
+        },
+        {
+            "kelime": "KORKU",
+            "tanim": "Ürperti.",
+            "harf": 5
+        },
+        {
+            "kelime": "KOŞUL",
+            "tanim": "Şart.",
+            "harf": 5
+        },
+        {
+            "kelime": "KÖPEK",
+            "tanim": "Sadık bir hayvan.",
+            "harf": 5
+        },
+        {
+            "kelime": "KÖPRÜ",
+            "tanim": "Geçit sağlayan yapı.",
+            "harf": 5
+        },
+        {
+            "kelime": "KÖRPE",
+            "tanim": "Taze.",
+            "harf": 5
+        },
+        {
+            "kelime": "KÖYLÜ",
+            "tanim": "Köyde yaşayan.",
+            "harf": 5
+        },
+        {
+            "kelime": "KURAL",
+            "tanim": "Kaide.",
+            "harf": 5
+        },
+        {
+            "kelime": "KURAM",
+            "tanim": "Teori.",
+            "harf": 5
+        },
+        {
+            "kelime": "KURGU",
+            "tanim": "Hayali yapı.",
+            "harf": 5
+        },
+        {
+            "kelime": "KURUM",
+            "tanim": "Kuruluş.",
+            "harf": 5
+        },
+        {
+            "kelime": "KURYE",
+            "tanim": "İleti taşıyan.",
+            "harf": 5
+        },
+        {
+            "kelime": "KUŞAK",
+            "tanim": "Nesil.",
+            "harf": 5
+        },
+        {
+            "kelime": "KUTLU",
+            "tanim": "Mübarek.",
+            "harf": 5
+        },
+        {
+            "kelime": "KUZEY",
+            "tanim": "Bir ana yön.",
+            "harf": 5
+        },
+        {
+            "kelime": "KÜÇÜK",
+            "tanim": "Ufak.",
+            "harf": 5
+        },
+        {
+            "kelime": "KÜLAH",
+            "tanim": "Külah biçimli başlık.",
+            "harf": 5
+        },
+        {
+            "kelime": "KÜNYE",
+            "tanim": "Kimlik bilgisi.",
+            "harf": 5
+        },
+        {
+            "kelime": "KÜREK",
+            "tanim": "Kazma veya çekme aracı.",
+            "harf": 5
+        },
+        {
+            "kelime": "KÜTLE",
+            "tanim": "Yığın.",
+            "harf": 5
+        },
+        {
+            "kelime": "LAKAP",
+            "tanim": "Takma ad.",
+            "harf": 5
+        },
+        {
+            "kelime": "LAMBA",
+            "tanim": "Işık aracı.",
+            "harf": 5
+        },
+        {
+            "kelime": "LATİN",
+            "tanim": "Bir dil ve kültür grubu.",
+            "harf": 5
+        },
+        {
+            "kelime": "LEVHA",
+            "tanim": "Tabela, plaka.",
+            "harf": 5
+        },
+        {
+            "kelime": "LİMİT",
+            "tanim": "Sınır.",
+            "harf": 5
+        },
+        {
+            "kelime": "LİSTE",
+            "tanim": "Dizelge.",
+            "harf": 5
+        },
+        {
+            "kelime": "LOKMA",
+            "tanim": "Bir yudum yiyecek.",
+            "harf": 5
+        },
+        {
+            "kelime": "MADEN",
+            "tanim": "Yer altı kaynağı.",
+            "harf": 5
+        },
+        {
+            "kelime": "MARAL",
+            "tanim": "Dişi geyik.",
+            "harf": 5
+        },
+        {
+            "kelime": "MARTA",
+            "tanim": "Mart ayı ile ilgili.",
+            "harf": 5
+        },
+        {
+            "kelime": "MASAL",
+            "tanim": "Olağanüstü hikâye.",
+            "harf": 5
+        },
+        {
+            "kelime": "MASKE",
+            "tanim": "Yüz örtüsü.",
+            "harf": 5
+        },
+        {
+            "kelime": "MAVİŞ",
+            "tanim": "Mavi gözlü.",
+            "harf": 5
+        },
+        {
+            "kelime": "MEDYA",
+            "tanim": "İletişim araçları.",
+            "harf": 5
+        },
+        {
+            "kelime": "MEKAN",
+            "tanim": "Yer.",
+            "harf": 5
+        },
+        {
+            "kelime": "MELEK",
+            "tanim": "Nurani varlık.",
+            "harf": 5
+        },
+        {
+            "kelime": "MERAK",
+            "tanim": "Öğrenme isteği.",
+            "harf": 5
+        },
+        {
+            "kelime": "MESAJ",
+            "tanim": "İleti.",
+            "harf": 5
+        },
+        {
+            "kelime": "METİN",
+            "tanim": "Yazı.",
+            "harf": 5
+        },
+        {
+            "kelime": "METOT",
+            "tanim": "Yöntem.",
+            "harf": 5
+        },
+        {
+            "kelime": "MISRA",
+            "tanim": "Dize.",
+            "harf": 5
+        },
+        {
+            "kelime": "MİRAS",
+            "tanim": "Kalan mal.",
+            "harf": 5
+        },
+        {
+            "kelime": "MİZAN",
+            "tanim": "Ölçü, denge.",
+            "harf": 5
+        },
+        {
+            "kelime": "MOBİL",
+            "tanim": "Hareketli.",
+            "harf": 5
+        },
+        {
+            "kelime": "MODEL",
+            "tanim": "Örnek.",
+            "harf": 5
+        },
+        {
+            "kelime": "MOTOR",
+            "tanim": "Güç kaynağı.",
+            "harf": 5
+        },
+        {
+            "kelime": "MÜJDE",
+            "tanim": "İyi haber.",
+            "harf": 5
+        },
+        {
+            "kelime": "MÜRIT",
+            "tanim": "İzleyen.",
+            "harf": 5
+        },
+        {
+            "kelime": "MÜZİK",
+            "tanim": "Ses sanatı.",
+            "harf": 5
+        },
+        {
+            "kelime": "NABIZ",
+            "tanim": "Kalp atış hızı.",
+            "harf": 5
+        },
+        {
+            "kelime": "NADİR",
+            "tanim": "Ender.",
+            "harf": 5
+        },
+        {
+            "kelime": "NAKİL",
+            "tanim": "Taşıma.",
+            "harf": 5
+        },
+        {
+            "kelime": "NAKİT",
+            "tanim": "Peşin para.",
+            "harf": 5
+        },
+        {
+            "kelime": "NAKIŞ",
+            "tanim": "Süsleme.",
+            "harf": 5
+        },
+        {
+            "kelime": "NAMAZ",
+            "tanim": "İbadet.",
+            "harf": 5
+        },
+        {
+            "kelime": "NASIL",
+            "tanim": "Soru kelimesi.",
+            "harf": 5
+        },
+        {
+            "kelime": "NASİP",
+            "tanim": "Pay, kısmet.",
+            "harf": 5
+        },
+        {
+            "kelime": "NAZİK",
+            "tanim": "Kibar.",
+            "harf": 5
+        },
+        {
+            "kelime": "NEFES",
+            "tanim": "Soluk.",
+            "harf": 5
+        },
+        {
+            "kelime": "NEHİR",
+            "tanim": "Irmak.",
+            "harf": 5
+        },
+        {
+            "kelime": "NESİL",
+            "tanim": "Kuşak.",
+            "harf": 5
+        },
+        {
+            "kelime": "NESNE",
+            "tanim": "Eşya.",
+            "harf": 5
+        },
+        {
+            "kelime": "NEZİH",
+            "tanim": "Temiz, seçkin.",
+            "harf": 5
+        },
+        {
+            "kelime": "NİÇİN",
+            "tanim": "Neden.",
+            "harf": 5
+        },
+        {
+            "kelime": "NİMET",
+            "tanim": "Lütuf, rızık.",
+            "harf": 5
+        },
+        {
+            "kelime": "NİNNİ",
+            "tanim": "Bebek türküsü.",
+            "harf": 5
+        },
+        {
+            "kelime": "NİSAN",
+            "tanim": "Yılın dördüncü ayı.",
+            "harf": 5
+        },
+        {
+            "kelime": "NİYET",
+            "tanim": "Maksat.",
+            "harf": 5
+        },
+        {
+            "kelime": "NOKTA",
+            "tanim": "Benek; işaret.",
+            "harf": 5
+        },
+        {
+            "kelime": "NORMU",
+            "tanim": "Kuralı.",
+            "harf": 5
+        },
+        {
+            "kelime": "NOTER",
+            "tanim": "Resmi onay makamı.",
+            "harf": 5
+        },
+        {
+            "kelime": "NÜFUS",
+            "tanim": "Kişi sayısı.",
+            "harf": 5
+        },
+        {
+            "kelime": "NÜFUZ",
+            "tanim": "Etki.",
+            "harf": 5
+        },
+        {
+            "kelime": "NÜKTE",
+            "tanim": "İnce şaka.",
+            "harf": 5
+        },
+        {
+            "kelime": "OĞLAN",
+            "tanim": "Erkek çocuk.",
+            "harf": 5
+        },
+        {
+            "kelime": "ONLAR",
+            "tanim": "Çoğul zamir.",
+            "harf": 5
+        },
+        {
+            "kelime": "ONLUK",
+            "tanim": "On birimlik.",
+            "harf": 5
+        },
+        {
+            "kelime": "OPERA",
+            "tanim": "Müzikli oyun.",
+            "harf": 5
+        },
+        {
+            "kelime": "OPTİK",
+            "tanim": "Işık bilimi.",
+            "harf": 5
+        },
+        {
+            "kelime": "ORADA",
+            "tanim": "İşaret edilen yerde.",
+            "harf": 5
+        },
+        {
+            "kelime": "ORGAN",
+            "tanim": "Vücut parçası.",
+            "harf": 5
+        },
+        {
+            "kelime": "ORTAK",
+            "tanim": "Paydaş.",
+            "harf": 5
+        },
+        {
+            "kelime": "ORTAM",
+            "tanim": "Çevre.",
+            "harf": 5
+        },
+        {
+            "kelime": "OTLAK",
+            "tanim": "Mera.",
+            "harf": 5
+        },
+        {
+            "kelime": "OYACI",
+            "tanim": "Oya yapan.",
+            "harf": 5
+        },
+        {
+            "kelime": "OYALI",
+            "tanim": "Süslü.",
+            "harf": 5
+        },
+        {
+            "kelime": "OYNAK",
+            "tanim": "Hareketli.",
+            "harf": 5
+        },
+        {
+            "kelime": "OYUNA",
+            "tanim": "Etkinliğe.",
+            "harf": 5
+        },
+        {
+            "kelime": "OZANI",
+            "tanim": "Şairi.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖDÜNÇ",
+            "tanim": "Geri verilmek üzere alınan.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖĞRET",
+            "tanim": "Bilgi kazandır.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖLÇEK",
+            "tanim": "Ölçü birimi.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖLÇME",
+            "tanim": "Boyut belirleme.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖLÇÜM",
+            "tanim": "Sonuç.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖLÇÜT",
+            "tanim": "Kriter.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖNCEL",
+            "tanim": "Önce gelen.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖNLEM",
+            "tanim": "Tedbir.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖRNEK",
+            "tanim": "Numune.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖRTME",
+            "tanim": "Kapatma.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖRTÜK",
+            "tanim": "Gizli.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖRTÜŞ",
+            "tanim": "Benzeşme.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖTEKİ",
+            "tanim": "Diğeri.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖVÜNÇ",
+            "tanim": "Gurur.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖZGÜN",
+            "tanim": "Orijinal.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖZLEM",
+            "tanim": "Hasret.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÖZLÜK",
+            "tanim": "Şahsi.",
+            "harf": 5
+        },
+        {
+            "kelime": "PABUÇ",
+            "tanim": "Ayakkabı.",
+            "harf": 5
+        },
+        {
+            "kelime": "PAKET",
+            "tanim": "Ambalaj.",
+            "harf": 5
+        },
+        {
+            "kelime": "PALTO",
+            "tanim": "Kalın giysi.",
+            "harf": 5
+        },
+        {
+            "kelime": "PANEL",
+            "tanim": "Tartışma grubu.",
+            "harf": 5
+        },
+        {
+            "kelime": "PANİK",
+            "tanim": "Ani korku.",
+            "harf": 5
+        },
+        {
+            "kelime": "PARÇA",
+            "tanim": "Kısım.",
+            "harf": 5
+        },
+        {
+            "kelime": "PARKE",
+            "tanim": "Yer döşemesi.",
+            "harf": 5
+        },
+        {
+            "kelime": "PAZAR",
+            "tanim": "Alışveriş yeri.",
+            "harf": 5
+        },
+        {
+            "kelime": "PEDAL",
+            "tanim": "Ayakça.",
+            "harf": 5
+        },
+        {
+            "kelime": "PELİT",
+            "tanim": "Meşe palamudu.",
+            "harf": 5
+        },
+        {
+            "kelime": "PENÇE",
+            "tanim": "Hayvan tırnağı.",
+            "harf": 5
+        },
+        {
+            "kelime": "PERDE",
+            "tanim": "Örtü; bölüm.",
+            "harf": 5
+        },
+        {
+            "kelime": "PERON",
+            "tanim": "Yolcu platformu.",
+            "harf": 5
+        },
+        {
+            "kelime": "PETEK",
+            "tanim": "Bal yuvası.",
+            "harf": 5
+        },
+        {
+            "kelime": "PİLOT",
+            "tanim": "Uçak sürücüsü.",
+            "harf": 5
+        },
+        {
+            "kelime": "PİPET",
+            "tanim": "Kamış.",
+            "harf": 5
+        },
+        {
+            "kelime": "PROJE",
+            "tanim": "Tasarı.",
+            "harf": 5
+        },
+        {
+            "kelime": "PUDRA",
+            "tanim": "Toz madde.",
+            "harf": 5
+        },
+        {
+            "kelime": "PUNTO",
+            "tanim": "Yazı boyutu.",
+            "harf": 5
+        },
+        {
+            "kelime": "RADYO",
+            "tanim": "Sesli yayın aracı.",
+            "harf": 5
+        },
+        {
+            "kelime": "RAKAM",
+            "tanim": "Sayı işareti.",
+            "harf": 5
+        },
+        {
+            "kelime": "RAPOR",
+            "tanim": "Bildirim yazısı.",
+            "harf": 5
+        },
+        {
+            "kelime": "REÇEL",
+            "tanim": "Tatlı meyve ezmesi.",
+            "harf": 5
+        },
+        {
+            "kelime": "REKOR",
+            "tanim": "En üst derece.",
+            "harf": 5
+        },
+        {
+            "kelime": "RESİM",
+            "tanim": "Görsel eser.",
+            "harf": 5
+        },
+        {
+            "kelime": "RESMİ",
+            "tanim": "Devlete ait.",
+            "harf": 5
+        },
+        {
+            "kelime": "RİTİM",
+            "tanim": "Tartım.",
+            "harf": 5
+        },
+        {
+            "kelime": "ROBOT",
+            "tanim": "Otomatik aygıt.",
+            "harf": 5
+        },
+        {
+            "kelime": "ROMAN",
+            "tanim": "Uzun edebi tür.",
+            "harf": 5
+        },
+        {
+            "kelime": "ROKET",
+            "tanim": "Füze.",
+            "harf": 5
+        },
+        {
+            "kelime": "RUBAI",
+            "tanim": "Dörtlük.",
+            "harf": 5
+        },
+        {
+            "kelime": "RÜTBE",
+            "tanim": "Makam derecesi.",
+            "harf": 5
+        },
+        {
+            "kelime": "SABAH",
+            "tanim": "Günün başlangıcı.",
+            "harf": 5
+        },
+        {
+            "kelime": "SABIR",
+            "tanim": "Dayanma gücü.",
+            "harf": 5
+        },
+        {
+            "kelime": "SAHNE",
+            "tanim": "Oyun alanı.",
+            "harf": 5
+        },
+        {
+            "kelime": "SAHRA",
+            "tanim": "Çöl.",
+            "harf": 5
+        },
+        {
+            "kelime": "SAHTE",
+            "tanim": "Gerçek olmayan.",
+            "harf": 5
+        },
+        {
+            "kelime": "SAKİN",
+            "tanim": "Durgun.",
+            "harf": 5
+        },
+        {
+            "kelime": "SALGI",
+            "tanim": "Sıvı üretimi.",
+            "harf": 5
+        },
+        {
+            "kelime": "SALON",
+            "tanim": "Geniş oda.",
+            "harf": 5
+        },
+        {
+            "kelime": "SAMAN",
+            "tanim": "Kuru ot.",
+            "harf": 5
+        },
+        {
+            "kelime": "SANAT",
+            "tanim": "Yaratıcılık.",
+            "harf": 5
+        },
+        {
+            "kelime": "SANAL",
+            "tanim": "Gerçekte olmayan.",
+            "harf": 5
+        },
+        {
+            "kelime": "SARAY",
+            "tanim": "Görkemli yapı.",
+            "harf": 5
+        },
+        {
+            "kelime": "SARGI",
+            "tanim": "Bağ.",
+            "harf": 5
+        },
+        {
+            "kelime": "SATIR",
+            "tanim": "Yazı sırası.",
+            "harf": 5
+        },
+        {
+            "kelime": "SATIŞ",
+            "tanim": "Pazarlama.",
+            "harf": 5
+        },
+        {
+            "kelime": "SAVAŞ",
+            "tanim": "Harp.",
+            "harf": 5
+        },
+        {
+            "kelime": "SAYFA",
+            "tanim": "Yaprak.",
+            "harf": 5
+        },
+        {
+            "kelime": "SAYGI",
+            "tanim": "Hürmet.",
+            "harf": 5
+        },
+        {
+            "kelime": "SEÇİM",
+            "tanim": "Tercih.",
+            "harf": 5
+        },
+        {
+            "kelime": "SEDİR",
+            "tanim": "Koltuk türü.",
+            "harf": 5
+        },
+        {
+            "kelime": "SEFER",
+            "tanim": "Yolculuk.",
+            "harf": 5
+        },
+        {
+            "kelime": "SEHPA",
+            "tanim": "Küçük masa.",
+            "harf": 5
+        },
+        {
+            "kelime": "SEPET",
+            "tanim": "Taşıma kabı.",
+            "harf": 5
+        },
+        {
+            "kelime": "SERGİ",
+            "tanim": "Tanıtım alanı.",
+            "harf": 5
+        },
+        {
+            "kelime": "SERİN",
+            "tanim": "Hafif soğuk.",
+            "harf": 5
+        },
+        {
+            "kelime": "SESLİ",
+            "tanim": "Sesi olan.",
+            "harf": 5
+        },
+        {
+            "kelime": "SEVGİ",
+            "tanim": "Aşk, bağlılık.",
+            "harf": 5
+        },
+        {
+            "kelime": "SEYİR",
+            "tanim": "İzleme.",
+            "harf": 5
+        },
+        {
+            "kelime": "SICAK",
+            "tanim": "Isılı.",
+            "harf": 5
+        },
+        {
+            "kelime": "SINAV",
+            "tanim": "İmtihan.",
+            "harf": 5
+        },
+        {
+            "kelime": "SINIF",
+            "tanim": "Derslik.",
+            "harf": 5
+        },
+        {
+            "kelime": "SINIR",
+            "tanim": "Hudut.",
+            "harf": 5
+        },
+        {
+            "kelime": "SIRAL",
+            "tanim": "Sıralı.",
+            "harf": 5
+        },
+        {
+            "kelime": "SIVIK",
+            "tanim": "Akışkan.",
+            "harf": 5
+        },
+        {
+            "kelime": "SIYAH",
+            "tanim": "Kara.",
+            "harf": 5
+        },
+        {
+            "kelime": "SOFRA",
+            "tanim": "Yemek yeri.",
+            "harf": 5
+        },
+        {
+            "kelime": "SOĞUK",
+            "tanim": "Isısız.",
+            "harf": 5
+        },
+        {
+            "kelime": "SOKAK",
+            "tanim": "Yol.",
+            "harf": 5
+        },
+        {
+            "kelime": "SOLUK",
+            "tanim": "Nefes.",
+            "harf": 5
+        },
+        {
+            "kelime": "SONRA",
+            "tanim": "Ardından.",
+            "harf": 5
+        },
+        {
+            "kelime": "SONUÇ",
+            "tanim": "Netice.",
+            "harf": 5
+        },
+        {
+            "kelime": "SORGU",
+            "tanim": "Sual.",
+            "harf": 5
+        },
+        {
+            "kelime": "SORUN",
+            "tanim": "Mesele.",
+            "harf": 5
+        },
+        {
+            "kelime": "SOYLU",
+            "tanim": "Asil.",
+            "harf": 5
+        },
+        {
+            "kelime": "SÖZEL",
+            "tanim": "Sözle ilgili.",
+            "harf": 5
+        },
+        {
+            "kelime": "SPORC",
+            "tanim": "Sporcu (kısaltılmış).",
+            "harf": 5
+        },
+        {
+            "kelime": "STRES",
+            "tanim": "Gerginlik.",
+            "harf": 5
+        },
+        {
+            "kelime": "SUNAK",
+            "tanim": "Adak yeri.",
+            "harf": 5
+        },
+        {
+            "kelime": "SUNUM",
+            "tanim": "Takdim.",
+            "harf": 5
+        },
+        {
+            "kelime": "SURET",
+            "tanim": "Görünüş.",
+            "harf": 5
+        },
+        {
+            "kelime": "SÜPER",
+            "tanim": "Üstün.",
+            "harf": 5
+        },
+        {
+            "kelime": "SÜREÇ",
+            "tanim": "Proses.",
+            "harf": 5
+        },
+        {
+            "kelime": "SÜRGÜ",
+            "tanim": "Kilit.",
+            "harf": 5
+        },
+        {
+            "kelime": "ŞAFAK",
+            "tanim": "Tan vakti.",
+            "harf": 5
+        },
+        {
+            "kelime": "ŞAHIS",
+            "tanim": "Kişi.",
+            "harf": 5
+        },
+        {
+            "kelime": "ŞAHİT",
+            "tanim": "Tanık.",
+            "harf": 5
+        },
+        {
+            "kelime": "ŞEHİR",
+            "tanim": "Kent.",
+            "harf": 5
+        },
+        {
+            "kelime": "ŞEHİT",
+            "tanim": "Kutsal ölü.",
+            "harf": 5
+        },
+        {
+            "kelime": "ŞEKER",
+            "tanim": "Tatlı madde.",
+            "harf": 5
+        },
+        {
+            "kelime": "ŞOFÖR",
+            "tanim": "Sürücü.",
+            "harf": 5
+        },
+        {
+            "kelime": "ŞÖLEN",
+            "tanim": "Ziyafet.",
+            "harf": 5
+        },
+        {
+            "kelime": "ŞÜPHE",
+            "tanim": "Kuşku.",
+            "harf": 5
+        },
+        {
+            "kelime": "TABAK",
+            "tanim": "Kap.",
+            "harf": 5
+        },
+        {
+            "kelime": "TABLO",
+            "tanim": "Resim.",
+            "harf": 5
+        },
+        {
+            "kelime": "TAHIL",
+            "tanim": "Hububat.",
+            "harf": 5
+        },
+        {
+            "kelime": "TAHİN",
+            "tanim": "Susam ezmesi.",
+            "harf": 5
+        },
+        {
+            "kelime": "TAKIM",
+            "tanim": "Ekip.",
+            "harf": 5
+        },
+        {
+            "kelime": "TAKİP",
+            "tanim": "İzleme.",
+            "harf": 5
+        },
+        {
+            "kelime": "TALEP",
+            "tanim": "İstek.",
+            "harf": 5
+        },
+        {
+            "kelime": "TAMAM",
+            "tanim": "Bitti.",
+            "harf": 5
+        },
+        {
+            "kelime": "TAMİR",
+            "tanim": "Onarım.",
+            "harf": 5
+        },
+        {
+            "kelime": "TANIK",
+            "tanim": "Şahit.",
+            "harf": 5
+        },
+        {
+            "kelime": "TANIM",
+            "tanim": "Tarif.",
+            "harf": 5
+        },
+        {
+            "kelime": "TARAF",
+            "tanim": "Yan.",
+            "harf": 5
+        },
+        {
+            "kelime": "TARİH",
+            "tanim": "Vakit.",
+            "harf": 5
+        },
+        {
+            "kelime": "TARLA",
+            "tanim": "Ekin yeri.",
+            "harf": 5
+        },
+        {
+            "kelime": "TASAR",
+            "tanim": "Plan.",
+            "harf": 5
+        },
+        {
+            "kelime": "TAVAN",
+            "tanim": "Üst kısım.",
+            "harf": 5
+        },
+        {
+            "kelime": "TAVIR",
+            "tanim": "Eda.",
+            "harf": 5
+        },
+        {
+            "kelime": "TAVUK",
+            "tanim": "Kanatlı hayvan.",
+            "harf": 5
+        },
+        {
+            "kelime": "TEKER",
+            "tanim": "Çark.",
+            "harf": 5
+        },
+        {
+            "kelime": "TEKLİ",
+            "tanim": "Bir adet.",
+            "harf": 5
+        },
+        {
+            "kelime": "TEKNE",
+            "tanim": "Kap; gemi.",
+            "harf": 5
+        },
+        {
+            "kelime": "TELAF",
+            "tanim": "Telafi.",
+            "harf": 5
+        },
+        {
+            "kelime": "TEMAS",
+            "tanim": "Dokunma.",
+            "harf": 5
+        },
+        {
+            "kelime": "TEMEL",
+            "tanim": "Esas.",
+            "harf": 5
+        },
+        {
+            "kelime": "TEMIZ",
+            "tanim": "Pak.",
+            "harf": 5
+        },
+        {
+            "kelime": "TEORI",
+            "tanim": "Kuram.",
+            "harf": 5
+        },
+        {
+            "kelime": "TEPSI",
+            "tanim": "Servis kabı.",
+            "harf": 5
+        },
+        {
+            "kelime": "TERİM",
+            "tanim": "Özel anlamlı kelime.",
+            "harf": 5
+        },
+        {
+            "kelime": "TERZİ",
+            "tanim": "Dikici.",
+            "harf": 5
+        },
+        {
+            "kelime": "TESİR",
+            "tanim": "Etki.",
+            "harf": 5
+        },
+        {
+            "kelime": "TESTİ",
+            "tanim": "Su kabı.",
+            "harf": 5
+        },
+        {
+            "kelime": "TEYZE",
+            "tanim": "Anne yarısı.",
+            "harf": 5
+        },
+        {
+            "kelime": "TEŞNE",
+            "tanim": "Susamiş.",
+            "harf": 5
+        },
+        {
+            "kelime": "TIBBİ",
+            "tanim": "Tıpla ilgili.",
+            "harf": 5
+        },
+        {
+            "kelime": "TOKAT",
+            "tanim": "Sille.",
+            "harf": 5
+        },
+        {
+            "kelime": "TOPAÇ",
+            "tanim": "Oyuncak.",
+            "harf": 5
+        },
+        {
+            "kelime": "TOPAL",
+            "tanim": "Aksak.",
+            "harf": 5
+        },
+        {
+            "kelime": "TOPAZ",
+            "tanim": "Değerli taş.",
+            "harf": 5
+        },
+        {
+            "kelime": "TOPLU",
+            "tanim": "Birlikte.",
+            "harf": 5
+        },
+        {
+            "kelime": "TORUN",
+            "tanim": "Evlat çocuğu.",
+            "harf": 5
+        },
+        {
+            "kelime": "TÖREN",
+            "tanim": "Merasim.",
+            "harf": 5
+        },
+        {
+            "kelime": "TRAFO",
+            "tanim": "Dönüştürücü.",
+            "harf": 5
+        },
+        {
+            "kelime": "TÜFEK",
+            "tanim": "Ateşli silah.",
+            "harf": 5
+        },
+        {
+            "kelime": "TÜMCE",
+            "tanim": "Cümle.",
+            "harf": 5
+        },
+        {
+            "kelime": "TÜREV",
+            "tanim": "Alt ürün.",
+            "harf": 5
+        },
+        {
+            "kelime": "TÜRKÜ",
+            "tanim": "Halk şarkısı.",
+            "harf": 5
+        },
+        {
+            "kelime": "TÜRLÜ",
+            "tanim": "Çeşitli.",
+            "harf": 5
+        },
+        {
+            "kelime": "TÜTÜN",
+            "tanim": "Duman; bitki.",
+            "harf": 5
+        },
+        {
+            "kelime": "UÇURT",
+            "tanim": "Uçurtma (kısaltılmış).",
+            "harf": 5
+        },
+        {
+            "kelime": "ULUMA",
+            "tanim": "Kurt sesi.",
+            "harf": 5
+        },
+        {
+            "kelime": "UMACI",
+            "tanim": "Hayali canavar.",
+            "harf": 5
+        },
+        {
+            "kelime": "UNSUR",
+            "tanim": "Öge.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÜNVAN",
+            "tanim": "Sıfat.",
+            "harf": 5
+        },
+        {
+            "kelime": "UYGAR",
+            "tanim": "Medeni.",
+            "harf": 5
+        },
+        {
+            "kelime": "UYGUN",
+            "tanim": "Münasip.",
+            "harf": 5
+        },
+        {
+            "kelime": "UYARI",
+            "tanim": "İkaz.",
+            "harf": 5
+        },
+        {
+            "kelime": "UYSAL",
+            "tanim": "Yumuşak huylu.",
+            "harf": 5
+        },
+        {
+            "kelime": "UZMAN",
+            "tanim": "Ehil.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÜCRET",
+            "tanim": "Bedel.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÜLKER",
+            "tanim": "Yıldız kümesi.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÜNLEM",
+            "tanim": "Nida.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÜNSÜZ",
+            "tanim": "Sessiz harf.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÜRETMEK",
+            "tanim": "Üretim.",
+            "harf": 7
+        },
+        {
+            "kelime": "ÜSTAD",
+            "tanim": "Usta.",
+            "harf": 5
+        },
+        {
+            "kelime": "ÜSTÜN",
+            "tanim": "Daha iyi.",
+            "harf": 5
+        },
+        {
+            "kelime": "VAGON",
+            "tanim": "Tren arabası.",
+            "harf": 5
+        },
+        {
+            "kelime": "VAHİT",
+            "tanim": "Tek.",
+            "harf": 5
+        },
+        {
+            "kelime": "VAKİT",
+            "tanim": "Zaman.",
+            "harf": 5
+        },
+        {
+            "kelime": "VALİZ",
+            "tanim": "Bavul.",
+            "harf": 5
+        },
+        {
+            "kelime": "VARİS",
+            "tanim": "Mirasçı.",
+            "harf": 5
+        },
+        {
+            "kelime": "VATAN",
+            "tanim": "Yurt.",
+            "harf": 5
+        },
+        {
+            "kelime": "VEBAL",
+            "tanim": "Günah, sorumluluk.",
+            "harf": 5
+        },
+        {
+            "kelime": "VEFAT",
+            "tanim": "Ölüm.",
+            "harf": 5
+        },
+        {
+            "kelime": "VERGİ",
+            "tanim": "Devlet payı.",
+            "harf": 5
+        },
+        {
+            "kelime": "VEZNE",
+            "tanim": "Para yeri.",
+            "harf": 5
+        },
+        {
+            "kelime": "VİDEO",
+            "tanim": "Görüntü kaydı.",
+            "harf": 5
+        },
+        {
+            "kelime": "VİRAJ",
+            "tanim": "Büküm.",
+            "harf": 5
+        },
+        {
+            "kelime": "VÜCUT",
+            "tanim": "Beden.",
+            "harf": 5
+        },
+        {
+            "kelime": "YAĞIZ",
+            "tanim": "Esmer.",
+            "harf": 5
+        },
+        {
+            "kelime": "YAKIN",
+            "tanim": "Irak olmayan.",
+            "harf": 5
+        },
+        {
+            "kelime": "YALAN",
+            "tanim": "Gerçek dışı.",
+            "harf": 5
+        },
+        {
+            "kelime": "YALIN",
+            "tanim": "Sade.",
+            "harf": 5
+        },
+        {
+            "kelime": "YANAK",
+            "tanim": "Yüzün yanı.",
+            "harf": 5
+        },
+        {
+            "kelime": "YANLI",
+            "tanim": "Taraf tutan.",
+            "harf": 5
+        },
+        {
+            "kelime": "YANIT",
+            "tanim": "Cevap.",
+            "harf": 5
+        },
+        {
+            "kelime": "YAPIT",
+            "tanim": "Eser.",
+            "harf": 5
+        },
+        {
+            "kelime": "YARAR",
+            "tanim": "Fayda.",
+            "harf": 5
+        },
+        {
+            "kelime": "YETMEK",
+            "tanim": "Yeterli olmak.",
+            "harf": 6
+        },
+        {
+            "kelime": "YARKA",
+            "tanim": "Piliç.",
+            "harf": 5
+        },
+        {
+            "kelime": "YARMA",
+            "tanim": "Büyük parça.",
+            "harf": 5
+        },
+        {
+            "kelime": "YASAL",
+            "tanim": "Kanuni.",
+            "harf": 5
+        },
+        {
+            "kelime": "YATIK",
+            "tanim": "Yassı.",
+            "harf": 5
+        },
+        {
+            "kelime": "YATAK",
+            "tanim": "Yatılan yer.",
+            "harf": 5
+        },
+        {
+            "kelime": "YATSI",
+            "tanim": "Gece vakti.",
+            "harf": 5
+        },
+        {
+            "kelime": "YAVAŞ",
+            "tanim": "Hızlı olmayan.",
+            "harf": 5
+        },
+        {
+            "kelime": "YAVRU",
+            "tanim": "Bala.",
+            "harf": 5
+        },
+        {
+            "kelime": "YAYAN",
+            "tanim": "Yürüyerek.",
+            "harf": 5
+        },
+        {
+            "kelime": "YAYLA",
+            "tanim": "Yüksek düzlük.",
+            "harf": 5
+        },
+        {
+            "kelime": "YAZGI",
+            "tanim": "Kader.",
+            "harf": 5
+        },
+        {
+            "kelime": "YAZIM",
+            "tanim": "İmla.",
+            "harf": 5
+        },
+        {
+            "kelime": "YAZIT",
+            "tanim": "Kitabe.",
+            "harf": 5
+        },
+        {
+            "kelime": "YAZMA",
+            "tanim": "El işi örtü.",
+            "harf": 5
+        },
+        {
+            "kelime": "YEDEK",
+            "tanim": "Ek.",
+            "harf": 5
+        },
+        {
+            "kelime": "YEMEK",
+            "tanim": "Aş.",
+            "harf": 5
+        },
+        {
+            "kelime": "YEREL",
+            "tanim": "Mahalli.",
+            "harf": 5
+        },
+        {
+            "kelime": "YEŞİL",
+            "tanim": "Renk.",
+            "harf": 5
+        },
+        {
+            "kelime": "YETER",
+            "tanim": "Kafi.",
+            "harf": 5
+        },
+        {
+            "kelime": "YETİM",
+            "tanim": "Babasız.",
+            "harf": 5
+        },
+        {
+            "kelime": "YIKIM",
+            "tanim": "Tahribat.",
+            "harf": 5
+        },
+        {
+            "kelime": "YILKI",
+            "tanim": "Başıboş at.",
+            "harf": 5
+        },
+        {
+            "kelime": "YİĞİT",
+            "tanim": "Mert.",
+            "harf": 5
+        },
+        {
+            "kelime": "YOLCU",
+            "tanim": "Seyyah.",
+            "harf": 5
+        },
+        {
+            "kelime": "YOKUŞ",
+            "tanim": "Rampa.",
+            "harf": 5
+        },
+        {
+            "kelime": "YORUM",
+            "tanim": "Değerlendirme.",
+            "harf": 5
+        },
+        {
+            "kelime": "YÖNEM",
+            "tanim": "Yönelim.",
+            "harf": 5
+        },
+        {
+            "kelime": "YUMAK",
+            "tanim": "İp topu.",
+            "harf": 5
+        },
+        {
+            "kelime": "YUTAK",
+            "tanim": "Boğaz boşluğu.",
+            "harf": 5
+        },
+        {
+            "kelime": "YUVAK",
+            "tanim": "Silindir taş.",
+            "harf": 5
+        },
+        {
+            "kelime": "YÜCEK",
+            "tanim": "Küçük yüce yer.",
+            "harf": 5
+        },
+        {
+            "kelime": "YÜREK",
+            "tanim": "Kalp.",
+            "harf": 5
+        },
+        {
+            "kelime": "YÜZEY",
+            "tanim": "Satıh.",
+            "harf": 5
+        },
+        {
+            "kelime": "YÜZLÜ",
+            "tanim": "Çehreli.",
+            "harf": 5
+        },
+        {
+            "kelime": "YÜZÜK",
+            "tanim": "Takı.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZABIT",
+            "tanim": "Tutanak.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZAFER",
+            "tanim": "Utku.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZALİM",
+            "tanim": "Acımasız.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZAMAN",
+            "tanim": "Vakit.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZAMİR",
+            "tanim": "Adıl.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZAYIF",
+            "tanim": "Cılız.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZEBRA",
+            "tanim": "Çizgili hayvan.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZEMİN",
+            "tanim": "Yer, taban.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZİHİN",
+            "tanim": "Bellek.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZİNDE",
+            "tanim": "Diri.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZİRVE",
+            "tanim": "Doruk.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZİYAN",
+            "tanim": "Zarar.",
+            "harf": 5
+        },
+        {
+            "kelime": "ZORLU",
+            "tanim": "Güç.",
+            "harf": 5
+        }
+    ],
+    "6_harf": [
+        {
+            "kelime": "ALETLİ",
+            "tanim": "Araç kullanılarak yapılan.",
+            "harf": 6
+        },
+        {
+            "kelime": "BLOKAJ",
+            "tanim": "Durdurma, engelleme.",
+            "harf": 6
+        },
+        {
+            "kelime": "DESTAN",
+            "tanim": "Kahramanlık anlatan uzun şiir.",
+            "harf": 6
+        },
+        {
+            "kelime": "DESTEK",
+            "tanim": "Yardım, dayanak.",
+            "harf": 6
+        },
+        {
+            "kelime": "DİKKAT",
+            "tanim": "İlginin bir noktada toplanması.",
+            "harf": 6
+        },
+        {
+            "kelime": "ENERJİ",
+            "tanim": "İş yapabilme gücü.",
+            "harf": 6
+        },
+        {
+            "kelime": "GÖRSEL",
+            "tanim": "Görme ile ilgili.",
+            "harf": 6
+        },
+        {
+            "kelime": "İCRAAT",
+            "tanim": "Yapılan işler.",
+            "harf": 6
+        },
+        {
+            "kelime": "İLGİLİ",
+            "tanim": "Alakalı.",
+            "harf": 6
+        },
+        {
+            "kelime": "KAZANÇ",
+            "tanim": "Kar, gelir.",
+            "harf": 6
+        },
+        {
+            "kelime": "KITLIK",
+            "tanim": "Yokluk.",
+            "harf": 6
+        },
+        {
+            "kelime": "KRİTİK",
+            "tanim": "Eleştiri; önemli.",
+            "harf": 6
+        },
+        {
+            "kelime": "KÜLTÜR",
+            "tanim": "Hars, değerler bütünü.",
+            "harf": 6
+        },
+        {
+            "kelime": "OLANAK",
+            "tanim": "İmkan.",
+            "harf": 6
+        },
+        {
+            "kelime": "POYRAZ",
+            "tanim": "Kuzeydoğu rüzgarı.",
+            "harf": 6
+        },
+        {
+            "kelime": "REHBER",
+            "tanim": "Kılavuz.",
+            "harf": 6
+        },
+        {
+            "kelime": "TEKLİF",
+            "tanim": "Öneri.",
+            "harf": 6
+        },
+        {
+            "kelime": "TRAFİK",
+            "tanim": "Araç akışı.",
+            "harf": 6
+        },
+        {
+            "kelime": "YILDIZ",
+            "tanim": "Gök cismi.",
+            "harf": 6
+        },
+        {
+            "kelime": "YÖNTEM",
+            "tanim": "Metot.",
+            "harf": 6
+        },
+        {
+            "kelime": "PÜSKÜL",
+            "tanim": "Turuncu renkli ve dünyanın en güzel kedisinin adı.",
+            "harf": 6
+        },
+        {
+            "kelime": "ADALET",
+            "tanim": "Hakkaniyet, doğruluk. Herkese hakkı olanı verme.",
+            "harf": 6
+        },
+        {
+            "kelime": "CÖMERT",
+            "tanim": "Eli açık, ikramı seven. Sahip olduğu imkânları başkalarıyla paylaşmaktan mutluluk duyan kişi.",
+            "harf": 6
+        },
+        {
+            "kelime": "GURBET",
+            "tanim": "Doğup doyduğu yerden uzak olma. Kişinin ailesinden ve vatanından uzakta yaşadığı yer.",
+            "harf": 6
+        },
+        {
+            "kelime": "HASRET",
+            "tanim": "Özlem, iç çekme. Uzakta olan birine veya bir şeye kavuşma isteği.",
+            "harf": 6
+        },
+        {
+            "kelime": "HİCRAN",
+            "tanim": "Ayrılık, onulmaz acı. Unutulması zor, çok derin bir ayrılık üzüntüsü.",
+            "harf": 6
+        },
+        {
+            "kelime": "KUDRET",
+            "tanim": "Güç, kuvvet, iktidar. Bir işi yapabilme gücü veya doğuştan gelen yetenek.",
+            "harf": 6
+        },
+        {
+            "kelime": "MEHTAP",
+            "tanim": "Ay ışığı, dolunay. Geceleri ayın yeryüzüne yaydığı yumuşak ve gümüşi ışık.",
+            "harf": 6
+        },
+        {
+            "kelime": "NADİDE",
+            "tanim": "Az görülen, çok değerli. Eşi benzeri az bulunan, çok kıymetli ve özel parça.",
+            "harf": 6
+        },
+        {
+            "kelime": "AŞİKAR",
+            "tanim": "Belli, açık, meydanda. Hiçbir gizli tarafı kalmamış, apaçık görünen gerçek.",
+            "harf": 6
+        },
+        {
+            "kelime": "BEDBİN",
+            "tanim": "Kötümser. Olaylara hep olumsuz taraftan bakan, umutsuz kimse.",
+            "harf": 6
+        },
+        {
+            "kelime": "BERRAK",
+            "tanim": "Duru, temiz, aydınlık. İçinde hiçbir bulanıklık olmayan, tertemiz ve aydınlık.",
+            "harf": 6
+        },
+        {
+            "kelime": "GAFLET",
+            "tanim": "Dalgınlık, aymazlık. Çevredeki gerçekleri fark edememe hali.",
+            "harf": 6
+        },
+        {
+            "kelime": "HİKMET",
+            "tanim": "Gizli sebep, bilgelik. Olayların arkasındaki derin ve gizli anlam.",
+            "harf": 6
+        },
+        {
+            "kelime": "HÜRMET",
+            "tanim": "Saygı. Başkalarına gösterilen sevgi dolu ve nazik saygı.",
+            "harf": 6
+        },
+        {
+            "kelime": "İNAYET",
+            "tanim": "İyilik, lütuf, yardım. Zor zamanlarda gelen beklenmedik destek veya lütuf.",
+            "harf": 6
+        },
+        {
+            "kelime": "MECLİS",
+            "tanim": "Toplanılan yer, topluluk. Bir konuyu görüşmek için bir araya gelenler.",
+            "harf": 6
+        },
+        {
+            "kelime": "MUAMMA",
+            "tanim": "Bilinmeyen, sır, bilmece. Çözülmesi güç olan gizemli durum veya bilmece.",
+            "harf": 6
+        },
+        {
+            "kelime": "TEMAŞA",
+            "tanim": "Hoşlanarak bakma, seyretme. Güzel bir manzarayı keyif alarak izleme hali.",
+            "harf": 6
+        },
+        {
+            "kelime": "ALAMET",
+            "tanim": "Belirti, işaret. Bir olayın gerçekleşeceğini gösteren ön belirti.",
+            "harf": 6
+        },
+        {
+            "kelime": "BİNAEN",
+            "tanim": "-e dayanarak, -den ötürü. Bir sebep veya karara bağlı kalarak yapılan iş.",
+            "harf": 6
+        },
+        {
+            "kelime": "CEVVAL",
+            "tanim": "Hareketli, canlı. Yerinde duramayan, atılgan ve enerjik kişi.",
+            "harf": 6
+        },
+        {
+            "kelime": "DESTUR",
+            "tanim": "İzin, müsaade. Bir yere girmek veya bir işe başlamak için alınan izin.",
+            "harf": 6
+        },
+        {
+            "kelime": "DEVASA",
+            "tanim": "Çok büyük, dev gibi. Görenleri şaşırtacak kadar büyük boyutlu yapı veya nesne.",
+            "harf": 6
+        },
+        {
+            "kelime": "EFSANE",
+            "tanim": "Söylence. Gerçekle hayalin karıştığı, dilden dile anlatılan öykü.",
+            "harf": 6
+        },
+        {
+            "kelime": "EKSERİ",
+            "tanim": "Çoğunlukla, genellikle. Bir durumun genelde nasıl gerçekleştiğini anlatır.",
+            "harf": 6
+        },
+        {
+            "kelime": "GİRİFT",
+            "tanim": "Karmaşık, iç içe geçmiş. Çözülmesi zor, birbirine dolanmış desen veya olay.",
+            "harf": 6
+        },
+        {
+            "kelime": "KANAAT",
+            "tanim": "Elindekiyle yetinme, doyum. Eldekiyle yetinmeyi bilme ve açgözlü olmama durumu.",
+            "harf": 6
+        },
+        {
+            "kelime": "KIVANÇ",
+            "tanim": "Övünç, sevinç, iftihar. Başarılan bir işten dolayı duyulan büyük mutluluk ve gurur.",
+            "harf": 6
+        },
+        {
+            "kelime": "VUSLAT",
+            "tanim": "Kavuşma, erişme. Özlemle beklenen birine veya bir şeye kavuşma anı.",
+            "harf": 6
+        },
+        {
+            "kelime": "AFİTAP",
+            "tanim": "Güneş, çok güzel yüz. Hem gökyüzünü aydınlatan ışık hem de parlayan güzellik.",
+            "harf": 6
+        },
+        {
+            "kelime": "BİÇARE",
+            "tanim": "Çaresiz. Çözüm yolu bulamayan, elinden bir şey gelmeyen kimse.",
+            "harf": 6
+        },
+        {
+            "kelime": "DEFİNE",
+            "tanim": "Gömülü hazine. Toprağın altında gizlenmiş değerli eşyalar veya altınlar.",
+            "harf": 6
+        },
+        {
+            "kelime": "MAHCUP",
+            "tanim": "Utangaç, sıkılgan. Yaptığı bir işten veya durumdan dolayı yüzü kızaran, utanan.",
+            "harf": 6
+        },
+        {
+            "kelime": "DAHİVE",
+            "tanim": "Büyük felaket, bela. Çok büyük sarsıntı yaratan kötü ve beklenmedik olay.",
+            "harf": 6
+        },
+        {
+            "kelime": "DUAYEN",
+            "tanim": "Bir işin en kıdemlisi. Bir meslekte veya alanda en tecrübeli ve saygın olan kişi.",
+            "harf": 6
+        },
+        {
+            "kelime": "GALEBE",
+            "tanim": "Üstün gelme, yenme. Bir mücadelede rakibi alt etme ve galip gelme durumu.",
+            "harf": 6
+        },
+        {
+            "kelime": "HAŞMET",
+            "tanim": "Görkem, büyüklük. Duruşuyla ve büyüklüğüyle insanda saygı uyandıran görkem.",
+            "harf": 6
+        },
+        {
+            "kelime": "HİLKAT",
+            "tanim": "Yaratılış. Doğuştan gelen özelliklerin bütünü, yaratılma hali.",
+            "harf": 6
+        },
+        {
+            "kelime": "HODBİN",
+            "tanim": "Bencil. Sadece kendi çıkarlarını düşünen, bencil kimse.",
+            "harf": 6
+        },
+        {
+            "kelime": "HÜSRAN",
+            "tanim": "Büyük hayal kırıklığı. Umutların boşa çıkmasıyla duyulan derin üzüntü.",
+            "harf": 6
+        },
+        {
+            "kelime": "İMTİNA",
+            "tanim": "Çekinme, yapmama. Bir işi yapmaktan özellikle kaçınma veya sakınma.",
+            "harf": 6
+        },
+        {
+            "kelime": "ADAPTE",
+            "tanim": "Uyarlanmış. Bir ortama veya yeni şartlara göre düzenlenmiş olan.",
+            "harf": 6
+        },
+        {
+            "kelime": "ADAVET",
+            "tanim": "Düşmanlık. Kişiler veya topluluklar arasındaki kin ve düşmanlık duygusu.",
+            "harf": 6
+        },
+        {
+            "kelime": "AĞDALI",
+            "tanim": "Anlaşılması güç, karmaşık. Süslü ve karışık olduğu için anlaşılması zor olan anlatım.",
+            "harf": 6
+        },
+        {
+            "kelime": "AKTÜEL",
+            "tanim": "Güncel, edimsel. Şu an içinde bulunulan zamanı ve gelişmeleri ilgilendiren.",
+            "harf": 6
+        },
+        {
+            "kelime": "ANLATI",
+            "tanim": "Hikâye etme. Olayların bir kurgu çerçevesinde aktarılması yolu.",
+            "harf": 6
+        },
+        {
+            "kelime": "BAĞLAM",
+            "tanim": "Anlam. Bir kelimenin cümle içindeki yerine göre kazandığı anlam bütünü.",
+            "harf": 6
+        },
+        {
+            "kelime": "BAYGIN",
+            "tanim": "Bayılmış, kendinden geçmiş. Bilinci yerinde olmayan veya bir şeye aşırı hayranlık duyan.",
+            "harf": 6
+        },
+        {
+            "kelime": "BAYRAK",
+            "tanim": "Bir milletin simgesi olan sancak. Vatanın ve bağımsızlığın sembolü olan renkli kumaş.",
+            "harf": 6
+        },
+        {
+            "kelime": "BİRLİK",
+            "tanim": "Tek, bir olma durumu. Aynı amaç etrafında toplanarak tek bir vücut olma hali.",
+            "harf": 6
+        },
+        {
+            "kelime": "MECAZİ",
+            "tanim": "Simgesel. Bir kelimenin gerçek anlamı dışında, başka bir kavramı karşılaması.",
+            "harf": 6
+        },
+        {
+            "kelime": "BELLEK",
+            "tanim": "Yaşananları, öğrenilen konuları ve geçmişi zihinde saklama, gerektiğinde hatırlama gücü; zihnin depolama kapasitesi, hafıza.",
+            "harf": 6
+        },
+        {
+            "kelime": "BENLİK",
+            "tanim": "Bir kimsenin kendi kişiliği, özü; insanı başkalarından ayıran temel özelliklerin bütünü ve bireyin kendi varlığına ilişkin farkındalığı.",
+            "harf": 6
+        },
+        {
+            "kelime": "BİLGİN",
+            "tanim": "Belirli bir bilim dalında derinlemesine bilgi sahibi olan, çok okumuş ve uzmanlaşmış kimse; bilim insanı, alim.",
+            "harf": 6
+        },
+        {
+            "kelime": "BOYLAM",
+            "tanim": "Yeryüzündeki bir noktanın başlangıç meridyeninden olan açısal uzaklığı; yer belirlemede kullanılan dikey hayali çizgilerden her biri.",
+            "harf": 6
+        },
+        {
+            "kelime": "DUYURU",
+            "tanim": "Herhangi bir haberi veya durumu topluma bildirmek amacıyla yapılan açıklama; ilan, anons veya bildiri.",
+            "harf": 6
+        },
+        {
+            "kelime": "EĞİTİM",
+            "tanim": "Belli bir konuda bilgi ve beceri kazandırma, yetiştirme ve geliştirme işi; okullarda veya ailede verilen terbiye ve öğretim süreci.",
+            "harf": 6
+        },
+        {
+            "kelime": "FARKLI",
+            "tanim": "Aynı türden olmayan, aralarında benzerlik bulunmayan; nitelik veya özellik bakımından birbirinden ayrılan, özge.",
+            "harf": 6
+        },
+        {
+            "kelime": "GAYRET",
+            "tanim": "Bir işi başarmak için harcanan yoğun emek, çalışma arzusu ve istekle gösterilen büyük çaba; çalışma şevki.",
+            "harf": 6
+        },
+        {
+            "kelime": "GÖZLEM",
+            "tanim": "Bir nesnenin veya olayın özelliklerini öğrenmek amacıyla dikkatle incelenmesi; bilimsel bir sonuca ulaşmak için yapılan izleme işi.",
+            "harf": 6
+        },
+        {
+            "kelime": "GÜNLÜK",
+            "tanim": "Yaşanan olayların tarih atılarak günbegün yazıldığı yazı türü; günce. Ayrıca her gün yapılan veya bir güne sığan iş.",
+            "harf": 6
+        },
+        {
+            "kelime": "HAZİNE",
+            "tanim": "Değerli madenlerden, paradan veya eşyalardan oluşan büyük birikim; devletin maddi varlıklarının saklandığı yer.",
+            "harf": 6
+        },
+        {
+            "kelime": "HİKÂYE",
+            "tanim": "Olmuş veya olması muhtemel olayların kişi, yer ve zamana bağlı olarak anlatıldığı kısa edebi tür; öykü.",
+            "harf": 6
+        },
+        {
+            "kelime": "KAVRAM",
+            "tanim": "Bir nesnenin veya düşüncenin zihindeki genel tasarımı; benzer varlıkları ortak özellikleriyle kapsayan soyut fikir, mefhum.",
+            "harf": 6
+        },
+        {
+            "kelime": "KAYNAK",
+            "tanim": "Bir şeyin çıktığı yer, köken; araştırma yaparken başvurulan yazılı belge veya bilginin dayandığı temel.",
+            "harf": 6
+        },
+        {
+            "kelime": "KELİME",
+            "tanim": "Anlamı veya görevi olan, tek başına kullanılan en küçük ses birliği; sözcük.",
+            "harf": 6
+        },
+        {
+            "kelime": "KİMLİK",
+            "tanim": "Bir kimsenin kim olduğunu belirleyen özelliklerin bütünü; kişinin toplumsal statüsünü ve şahsiyetini gösteren belge.",
+            "harf": 6
+        },
+        {
+            "kelime": "KOMEDİ",
+            "tanim": "İnsanların veya olayların gülünç ve eksik yanlarını göstererek seyirciyi eğlendirmeyi ve düşündürmeyi amaçlayan tiyatro türü.",
+            "harf": 6
+        },
+        {
+            "kelime": "KUVVET",
+            "tanim": "Fiziksel güç; bir şeyi hareket ettiren veya durduran etki; zorlayıcı güç, iktidar veya takat.",
+            "harf": 6
+        },
+        {
+            "kelime": "MERKEZ",
+            "tanim": "Bir şeyin tam ortası; yönetim işlerinin yürütüldüğü ana yer veya bir olayın odağını oluşturan nokta.",
+            "harf": 6
+        },
+        {
+            "kelime": "MESAFE",
+            "tanim": "İki nokta veya iki kişi arasındaki uzaklık; aralık veya iki kişi arasındaki resmiyet/soğukluk.",
+            "harf": 6
+        },
+        {
+            "kelime": "MİLLET",
+            "tanim": "Aynı topraklar üzerinde yaşayan; dil, tarih, ülkü ve kültür birliği olan insan topluluğu; ulus.",
+            "harf": 6
+        },
+        {
+            "kelime": "MİSKİN",
+            "tanim": "Çok tembel, uyuşuk ve hareketsiz olan kimse; hiçbir şeye isteği ve enerjisi olmayan kişi.",
+            "harf": 6
+        },
+        {
+            "kelime": "MODERN",
+            "tanim": "İçinde bulunulan zamana uygun olan, çağdaş; geleneksel yöntemlerin dışındaki yeni ve güncel olan.",
+            "harf": 6
+        },
+        {
+            "kelime": "NESNEL",
+            "tanim": "Kişisel duygulardan bağımsız, herkes için geçerli ve kanıtlanabilir olan gerçeklik; objektif, tarafsız.",
+            "harf": 6
+        },
+        {
+            "kelime": "ÖZVERİ",
+            "tanim": "Bir amaç uğruna veya bir başkası için kendi çıkarlarından vazgeçme; fedakârlık etme durumu.",
+            "harf": 6
+        },
+        {
+            "kelime": "PARLAK",
+            "tanim": "Işığı güçlü bir şekilde yansıtan; çok temiz, ışıl ışıl veya başarılarla dolu, göz alıcı.",
+            "harf": 6
+        },
+        {
+            "kelime": "SAĞLIK",
+            "tanim": "Vücudun ve zihnin hastalıksız, iyi olma durumu; kişinin bedenen ve ruhen esenlik içinde bulunması, sıhhat.",
+            "harf": 6
+        },
+        {
+            "kelime": "SAMİMİ",
+            "tanim": "İçten, yapmacıksız, dürüst ve olduğu gibi davranan; sıcakkanlı, güvenilir ve özü sözü bir olan.",
+            "harf": 6
+        },
+        {
+            "kelime": "SİSTEM",
+            "tanim": "Bir bütün oluşturacak biçimde birbirine bağlı parçaların düzenli bütünü; belirli bir yöntem veya düzen.",
+            "harf": 6
+        },
+        {
+            "kelime": "ŞEFKAT",
+            "tanim": "İçten gelen, karşılıksız sevgi ve koruma duygusu; merhametli, sevecen ve yumuşak bir yaklaşımla sevme.",
+            "harf": 6
+        },
+        {
+            "kelime": "TEŞHİS",
+            "tanim": "Bir hastalığı veya durumu belirtilerine bakarak tanıma; edebi sanatlarda cansız varlıkları kişileştirme.",
+            "harf": 6
+        },
+        {
+            "kelime": "TOPLUM",
+            "tanim": "Aynı ülkede yaşayan, benzer kültür ve kuralları paylaşan insan topluluğu; cemiyet, halk bütünü.",
+            "harf": 6
+        },
+        {
+            "kelime": "ULUSAL",
+            "tanim": "Sadece bir millete ait olan, o milleti temsil eden ve tüm ulusu kapsayan; milli.",
+            "harf": 6
+        },
+        {
+            "kelime": "ÜRETİM",
+            "tanim": "Belirli aşamalardan geçirilerek yeni bir mal veya hizmet meydana getirme işi; ham maddelerin işlenerek mahsul oluşturulması.",
+            "harf": 6
+        },
+        {
+            "kelime": "VİCDAN",
+            "tanim": "İnsanın kendi davranışlarını iyilik ve kötülük bakımından yargılamasını sağlayan içsel güç; ahlaki sorumluluk bilinci.",
+            "harf": 6
+        }
+    ],
+    "7_harf": [
+        {
+            "kelime": "TİYATRO",
+            "tanim": "Sahne sanatı (kısaltılmış).",
+            "harf": 7
+        },
+        {
+            "kelime": "YÖRESEL",
+            "tanim": "Bölgesel (kısaltılmış).",
+            "harf": 7
+        },
+        {
+            "kelime": "YADİGAR",
+            "tanim": "Hatıra, anı olarak kalan. Geçmişten veya sevilen birinden kalan değerli anı.",
+            "harf": 7
+        },
+        {
+            "kelime": "NASİHAT",
+            "tanim": "Öğüt. Tecrübeye dayalı olarak verilen yol gösterici bilgi.",
+            "harf": 7
+        },
+        {
+            "kelime": "FERASET",
+            "tanim": "Anlayış, çabuk seziş, zihin uyanıklığı. Olayların arkasındaki gerçeği çabuk kavrama yeteneği.",
+            "harf": 7
+        },
+        {
+            "kelime": "BASİRET",
+            "tanim": "Doğru görüş, uzağı görme, sezgi. Geleceği sezme, bir işin sonunu önceden kestirme gücü.",
+            "harf": 7
+        },
+        {
+            "kelime": "ESENLİK",
+            "tanim": "Sağlık, selamet, huzur. Ruhsal ve bedensel rahatlık, tam bir huzur hali.",
+            "harf": 7
+        },
+        {
+            "kelime": "IZDIRAP",
+            "tanim": "Acı, eziyet, sıkıntı. Hem bedensel hem ruhsal olarak duyulan büyük acı.",
+            "harf": 7
+        },
+        {
+            "kelime": "PAYİDAR",
+            "tanim": "Kalıcı, sonsuza kadar yaşayacak. Yok olmayan, varlığını sonsuza dek sürdüren.",
+            "harf": 7
+        },
+        {
+            "kelime": "SADAKAT",
+            "tanim": "Doğruluk, içten bağlılık. Dostluğa ve verilen söze sonuna kadar bağlı kalma.",
+            "harf": 7
+        },
+        {
+            "kelime": "ZARAFET",
+            "tanim": "İncelik, naziklik, güzellik. Davranışlardaki naziklik ve estetik duruş.",
+            "harf": 7
+        },
+        {
+            "kelime": "BEREKET",
+            "tanim": "Bolluk, gürlük. Bir şeyin miktar olarak artması ve verimli olması.",
+            "harf": 7
+        },
+        {
+            "kelime": "BEYHUDE",
+            "tanim": "Boşuna, yararsız. Hiçbir sonuç vermeyen, gereksiz yere yapılan çaba.",
+            "harf": 7
+        },
+        {
+            "kelime": "İHTİŞAM",
+            "tanim": "Görkem, büyüklük. Görenleri etkileyen büyük ve göz alıcı parlaklık.",
+            "harf": 7
+        },
+        {
+            "kelime": "MARİFET",
+            "tanim": "Ustalık, yetenek, bilgi. Bir işi ustalıkla yapabilme becerisi.",
+            "harf": 7
+        },
+        {
+            "kelime": "NEZAKET",
+            "tanim": "İncelik, naziklik. Başkalarına karşı gösterilen ince ve kibar davranış.",
+            "harf": 7
+        },
+        {
+            "kelime": "PERİŞAN",
+            "tanim": "Dağınık, acınacak halde. Düzeni bozulmuş, çok kötü ve dağınık durumda olan.",
+            "harf": 7
+        },
+        {
+            "kelime": "RİVAYET",
+            "tanim": "SÖYLENTİ, anlatı. Dilden dile dolaşan, kesinliği olmayan anlatı.",
+            "harf": 7
+        },
+        {
+            "kelime": "SEFALET",
+            "tanim": "Yoksulluk, sıkıntı. Çok büyük geçim sıkıntısı ve yoksulluk içinde olma.",
+            "harf": 7
+        },
+        {
+            "kelime": "AMANSIZ",
+            "tanim": "Acımasız, hoşgörüsüz. Hiç kimseye acımayan, aman vermeyen sert tutum.",
+            "harf": 7
+        },
+        {
+            "kelime": "ANEKDOT",
+            "tanim": "Kısa hikaye, fıkra. Önemli bir kişinin hayatından anlatılan kısa ve öz hikaye.",
+            "harf": 7
+        },
+        {
+            "kelime": "BELAGAT",
+            "tanim": "Güzel ve etkili söz söyleme. Sözü etkileyici, düzgün ve yerinde kullanma sanatı.",
+            "harf": 7
+        },
+        {
+            "kelime": "BİHABER",
+            "tanim": "Habersiz. Etrafında olup bitenlerden bilgisi olmayan.",
+            "harf": 7
+        },
+        {
+            "kelime": "BİLAKİS",
+            "tanim": "Tam tersine. Söylenenin tam aksini ifade etmek için kullanılan kelime.",
+            "harf": 7
+        },
+        {
+            "kelime": "CELASUN",
+            "tanim": "Kahraman, yiğit. Yürekli, korkusuz ve atak olan genç yiğit.",
+            "harf": 7
+        },
+        {
+            "kelime": "CERBEZE",
+            "tanim": "Dil çabukluğu, beceriklilik. Konuşma yeteneği ve ikna gücü yüksek olma durumu.",
+            "harf": 7
+        },
+        {
+            "kelime": "DEBDEBE",
+            "tanim": "Gösteriş, şatafat. Göz kamaştıran görkem ve gösterişli yaşam.",
+            "harf": 7
+        },
+        {
+            "kelime": "DİRAYET",
+            "tanim": "Kavrayış, beceri. Zorluklara karşı dayanma ve işi bitirme gücü.",
+            "harf": 7
+        },
+        {
+            "kelime": "DİYALOG",
+            "tanim": "Karşılıklı konuşma. İki veya daha fazla kişi arasındaki fikir alışverişi.",
+            "harf": 7
+        },
+        {
+            "kelime": "ERGUVAN",
+            "tanim": "Eflatunla kırmızı arası renk. Özellikle baharda İstanbul Boğazı'nı süsleyen çiçek rengi.",
+            "harf": 7
+        },
+        {
+            "kelime": "HAKİKAT",
+            "tanim": "Gerçek. Yalan olmayan, doğruluğu kesin olan şey.",
+            "harf": 7
+        },
+        {
+            "kelime": "HAMİYET",
+            "tanim": "Milli onur, koruma duygusu. Ülkesini ve halkını koruma çabası, onur duygusu.",
+            "harf": 7
+        },
+        {
+            "kelime": "HAZİRUN",
+            "tanim": "Orada bulunanlar. Bir toplantıda veya toplulukta o an orada olan kişiler.",
+            "harf": 7
+        },
+        {
+            "kelime": "HİTABET",
+            "tanim": "Güzel konuşma sanatı. Topluluk önünde etkili konuşma yapabilme yeteneği.",
+            "harf": 7
+        },
+        {
+            "kelime": "İHTİMAM",
+            "tanim": "Özen. Bir işi yaparken gösterilen büyük titizlik ve dikkat.",
+            "harf": 7
+        },
+        {
+            "kelime": "İLTİFAT",
+            "tanim": "Güzel söz, ilgi. Birini mutlu etmek için söylenen övgü dolu söz.",
+            "harf": 7
+        },
+        {
+            "kelime": "CESARET",
+            "tanim": "Yüreklilik, korkusuzluk. Tehlike karşısında geri adım atmama gücü.",
+            "harf": 7
+        },
+        {
+            "kelime": "HOŞGÖRÜ",
+            "tanim": "Her şeyi anlayışla karşılama durumu. Farklılıklara karşı gösterilen sabır ve anlayış.",
+            "harf": 7
+        },
+        {
+            "kelime": "ABARTMA",
+            "tanim": "Mübalağa. Bir durumu olduğundan çok daha büyük veya küçük gösterme.",
+            "harf": 7
+        },
+        {
+            "kelime": "AKUSTİK",
+            "tanim": "Yankı bilimi. Seslerin bir mekan içindeki yayılımını inceleyen alan.",
+            "harf": 7
+        },
+        {
+            "kelime": "ANADOLU",
+            "tanim": "Asya kıtasındaki topraklarımız. Ülkemizin büyük bir bölümünü oluşturan tarihi yarımada.",
+            "harf": 7
+        },
+        {
+            "kelime": "ARKADAŞ",
+            "tanim": "Dost, yaren. Sevgi ve güven üzerine kurulan yakın bağ kurulan kişi.",
+            "harf": 7
+        },
+        {
+            "kelime": "ATASÖZÜ",
+            "tanim": "Halka mal olmuş öğüt. Geçmişten gelen, anonim ve ders verici kısa söz.",
+            "harf": 7
+        },
+        {
+            "kelime": "ÇİLEKEŞ",
+            "tanim": "Sıkıntı çekmiş kimse. Hayatı boyunca pek çok zorlukla mücadele etmiş kişi.",
+            "harf": 7
+        },
+        {
+            "kelime": "DİNLETİ",
+            "tanim": "Konser. Müzik veya şiir gibi eserlerin sunulduğu etkinlik.",
+            "harf": 7
+        },
+        {
+            "kelime": "DÜZYAZI",
+            "tanim": "Nesir. Şiirsel ölçüsü olmayan, cümlelerden oluşan yazı türü.",
+            "harf": 7
+        },
+        {
+            "kelime": "FEDAKAR",
+            "tanim": "Özverili. Kendi çıkarından vazgeçip başkası için çalışan.",
+            "harf": 7
+        },
+        {
+            "kelime": "HİPOTEZ",
+            "tanim": "Varsayım. Bilimsel bir araştırmanın başlangıcında öne sürülen iddia.",
+            "harf": 7
+        },
+        {
+            "kelime": "İHTİYAÇ",
+            "tanim": "Gereksinim. Yaşamı sürdürmek için gerekli olan eksiklik duygusu.",
+            "harf": 7
+        },
+        {
+            "kelime": "İYİMSER",
+            "tanim": "Kötümser karşıtı. Olaylara hep iyi ve umutlu pencereden bakan.",
+            "harf": 7
+        },
+        {
+            "kelime": "İZLENİM",
+            "tanim": "Etki, intiba. Bir kişi veya olayla karşılaşıldığında edinilen ilk duygu.",
+            "harf": 7
+        },
+        {
+            "kelime": "KİŞİSEL",
+            "tanim": "Şahsi. Doğrudan bir bireye ait olan veya onunla ilgili olan.",
+            "harf": 7
+        },
+        {
+            "kelime": "YÜCELİK",
+            "tanim": "Ulviyet, büyüklük. Erdem bakımından ulaşılan en yüksek ve asil mertebe.",
+            "harf": 7
+        },
+        {
+            "kelime": "ADAYLIK",
+            "tanim": "Bir görev, bir iş veya bir makam için kendini ileri sürme veya başkaları tarafından seçilmek üzere gösterilme durumu; aday olma vasfı.",
+            "harf": 7
+        },
+        {
+            "kelime": "BAĞLAMA",
+            "tanim": "Türk halk müziğinde yaygın olarak kullanılan, telli ve tezeneli bir çalgı türü. Ayrıca bir şeyi birbirine tutturma veya ilişkilendirme işi.",
+            "harf": 7
+        },
+        {
+            "kelime": "BELİRTİ",
+            "tanim": "Bir durumun, bir olayın veya bir hastalığın varlığını gösteren işaret; bir şeyin olup bittiğini veya olacağını önceden haber veren iz, emare.",
+            "harf": 7
+        },
+        {
+            "kelime": "BİRİKİM",
+            "tanim": "Zamanla toplanıp yığılan şeylerin bütünü; özellikle bilgi, deneyim veya maddi değerlerin uzun sürede bir araya gelmesiyle oluşan zenginlik.",
+            "harf": 7
+        },
+        {
+            "kelime": "ÇALIŞMA",
+            "tanim": "Bir amaca ulaşmak, bir ürün ortaya koymak veya bir sorunu çözmek için harcanan fiziksel ve zihinsel çabanın bütünü; mesai.",
+            "harf": 7
+        },
+        {
+            "kelime": "ÇATIŞMA",
+            "tanim": "Fikirlerin, isteklerin veya güçlerin birbirine ters düşmesi durumu; edebi eserlerde olay örgüsünü sürükleyen zıt güçlerin mücadelesi.",
+            "harf": 7
+        },
+        {
+            "kelime": "DEĞİŞİM",
+            "tanim": "Bir durumdan başka bir duruma geçme; bir şeyin zaman içindeki niteliksel veya niceliksel başkalaşımı, dönüşüm süreci.",
+            "harf": 7
+        },
+        {
+            "kelime": "DENEYİM",
+            "tanim": "Bir kimsenin belli bir sürede, bir işi yaparak veya yaşayarak elde ettiği bilgi, beceri ve görgülerin bütünü; tecrübe.",
+            "harf": 7
+        },
+        {
+            "kelime": "DİNLEME",
+            "tanim": "İşitilen sesleri anlamlandırma, dikkati bir söze veya sese verme eylemi; iletişimin en temel ve aktif öğrenme aşamalarından biri.",
+            "harf": 7
+        },
+        {
+            "kelime": "DÜŞÜNCE",
+            "tanim": "Zihinsel bir çaba sonucu ulaşılan fikir; bir konu hakkındaki görüş, mütalaa veya insan zihninin dış dünyaya ilişkin ürettiği kavramlar.",
+            "harf": 7
+        },
+        {
+            "kelime": "GELECEK",
+            "tanim": "Henüz yaşanmamış, ileride yaşanacak olan zaman dilimi; istikbal. Ayrıca bir sonraki adım veya dönem.",
+            "harf": 7
+        },
+        {
+            "kelime": "GELENEK",
+            "tanim": "Bir toplumda köklü geçmişi olan, kuşaktan kuşağa aktarılarak yaşatılan kültürel değerler, töreler ve alışkanlıklar bütünlüğü.",
+            "harf": 7
+        },
+        {
+            "kelime": "GELİŞİM",
+            "tanim": "Sürekli ilerleme, büyüme ve daha yetkin bir duruma gelme süreci; bir organizmanın veya fikrin basitten karmaşığa doğru evrilmesi.",
+            "harf": 7
+        },
+        {
+            "kelime": "İSTEKLİ",
+            "tanim": "Bir şeyi yapmaya, öğrenmeye veya elde etmeye karşı güçlü bir arzu duyan; hevesli ve gönüllü olan kimse.",
+            "harf": 7
+        },
+        {
+            "kelime": "İŞLEYİŞ",
+            "tanim": "Bir mekanizmanın, sistemin veya sürecin belirli kurallar dahilinde yürüme biçimi; çalışma tarzı ve performans süreci.",
+            "harf": 7
+        },
+        {
+            "kelime": "KURULUŞ",
+            "tanim": "Bir kurumun veya yapının oluşturulma aşaması; bir amaca hizmet etmek üzere kurulan müessese veya teşkilat.",
+            "harf": 7
+        },
+        {
+            "kelime": "OKUNUŞU",
+            "tanim": "Bir kelimenin veya metnin seslendirilme biçimi; yazıdaki işaretlerin sese dönüştürülme tarzı ve telaffuzu.",
+            "harf": 7
+        },
+        {
+            "kelime": "ÖĞRENCİ",
+            "tanim": "Bir eğitim kurumunda bilgi edinmek ve yetişmek üzere ders gören kimse; talebe veya eğitim alan birey.",
+            "harf": 7
+        },
+        {
+            "kelime": "ÖĞRETİM",
+            "tanim": "Belli bir amaca göre gereken bilgileri verme işi; eğitim sürecinin bilgi aktarımı ve derslerle ilgili olan teknik kısmı.",
+            "harf": 7
+        },
+        {
+            "kelime": "ÖZELLİK",
+            "tanim": "Bir şeyi benzerlerinden ayıran, ona has olan nitelik; bir varlığın kendine özgü yapısını belirleyen temel unsur.",
+            "harf": 7
+        },
+        {
+            "kelime": "SÜREÇLİ",
+            "tanim": "Belli bir zaman dilimine yayılan, devamlılığı olan; bir akış içerisinde sürüp giden durum veya eylem.",
+            "harf": 7
+        },
+        {
+            "kelime": "TASARIM",
+            "tanim": "Bir şeyin zihinde oluşturulan ilk biçimi; bir ürünün veya yapının gerçekleşmeden önceki planlanmış şekli, dizayn.",
+            "harf": 7
+        },
+        {
+            "kelime": "TUTARLI",
+            "tanim": "Kendi içinde çelişki barındırmayan, mantıklı ve birbirine bağlı olan düşünce veya davranış biçimi.",
+            "harf": 7
+        },
+        {
+            "kelime": "YETENEK",
+            "tanim": "Bir kimsenin bir şeyi anlama veya yapabilme konusundaki doğuştan gelen gücü; beceriye dönüşebilecek potansiyel, kabiliyet.",
+            "harf": 7
+        },
+        {
+            "kelime": "ÖĞRENME",
+            "tanim": "Bilgiyi özümseme, yeni bir beceri kazanma veya tecrübe edinme sürecinin bireye yönelik gerçekleşme hali; zihinsel kapasitenin yeni verilerle genişletilmesi eyleminin kişisel boyutu.",
+            "harf": 7
+        },
+        {
+            "kelime": "BİLGİLİ",
+            "tanim": "Belirli bir konuda veya genel olarak kapsamlı verilere, gerçeklere ve deneyimlere sahip olan kimseyi niteleyen durum. Öğrenilenleri özümsemiş ve bunları yerinde kullanma becerisi kazanmış olma halidir.",
+            "harf": 7
+        }
+    ],
+    "8_harf": [
+        {
+            "kelime": "MERHAMET",
+            "tanim": "Acıma, şefkat gösterme. Başkalarının dertlerine üzülüp onlara yardım etme duygusu.",
+            "harf": 8
+        },
+        {
+            "kelime": "MUHABBET",
+            "tanim": "Sevgi, dostça konuşma. Dostlar arasında kurulan sevgi dolu ve samimi söyleşi.",
+            "harf": 8
+        },
+        {
+            "kelime": "MÜSAMAHA",
+            "tanim": "Hoşgörü. Kusurları görmezden gelme, başkalarının fikirlerine saygı duyma.",
+            "harf": 8
+        },
+        {
+            "kelime": "TEVEKKÜL",
+            "tanim": "İşi Allah'a bırakma, güvenme. Elinden geleni yaptıktan sonra sonucu kadere bırakma hali.",
+            "harf": 8
+        },
+        {
+            "kelime": "HAYSİYET",
+            "tanim": "Onur, saygınlık. İnsanın kendine duyduğu saygı ve toplumdaki onuru.",
+            "harf": 8
+        },
+        {
+            "kelime": "MÜNEVVER",
+            "tanim": "Aydın, ışıklı. Bilgili, okumuş ve çevresini fikirleriyle aydınlatan kişi.",
+            "harf": 8
+        },
+        {
+            "kelime": "MÜTEVAZI",
+            "tanim": "Alçakgönüllü. Kendi başarılarını öne çıkarmayan, gösterişten uzak duran.",
+            "harf": 8
+        },
+        {
+            "kelime": "VELHASIL",
+            "tanim": "Sözün kısası. Uzun bir anlatımı tek bir cümlede özetlerken kullanılan söz.",
+            "harf": 8
+        },
+        {
+            "kelime": "ALİCENAP",
+            "tanim": "Yüce gönüllü, cömert. Başkalarına karşı çok yardımsever ve asil davranan kimse.",
+            "harf": 8
+        },
+        {
+            "kelime": "CANHIRAŞ",
+            "tanim": "Yürek paralayan. Duyulduğunda insanın içini acıtan, çok yüksek ve acı ses.",
+            "harf": 8
+        },
+        {
+            "kelime": "CENGAVER",
+            "tanim": "Savaşçı. Gözü pek, cesur ve mücadeleci kahraman.",
+            "harf": 8
+        },
+        {
+            "kelime": "ÇETREFİL",
+            "tanim": "Karışık, anlaşılması güç. İçinden çıkılması zor olan, karmaşık ve zor mesele.",
+            "harf": 8
+        },
+        {
+            "kelime": "DERKENAR",
+            "tanim": "Sayfa kenarına yazılan not. Bir kitabın veya belgenin kenar boşluğuna düşülen yazı.",
+            "harf": 8
+        },
+        {
+            "kelime": "DİĞERKAM",
+            "tanim": "Başkalarını düşünen. Kendi çıkarından önce başkalarının iyiliğini önemseyen.",
+            "harf": 8
+        },
+        {
+            "kelime": "FÜTURSUZ",
+            "tanim": "Aldırışsız, çekinmesiz. Kimseden çekinmeden, korkusuzca ve bazen saygısızca davranan.",
+            "harf": 8
+        },
+        {
+            "kelime": "HASBİHAL",
+            "tanim": "Sohbet, dertleşme. Karşılıklı olarak yapılan samimi ve derin söyleşi.",
+            "harf": 8
+        },
+        {
+            "kelime": "TEBESSÜM",
+            "tanim": "Gülümseme. Sessizce ve dudak ucuyla yapılan nazik gülüş.",
+            "harf": 8
+        },
+        {
+            "kelime": "İSTİKLAL",
+            "tanim": "Bağımsızlık. Bir milletin veya kişinin kimseden emir almadan hür yaşaması.",
+            "harf": 8
+        },
+        {
+            "kelime": "AÇIKLAMA",
+            "tanim": "İzah. Bir konuyu daha anlaşılır hale getirmek için yapılan konuşma.",
+            "harf": 8
+        },
+        {
+            "kelime": "AFORİZMA",
+            "tanim": "Özdeyiş. Kısa ama içinde derin bir ders barındıran bilgece söz.",
+            "harf": 8
+        },
+        {
+            "kelime": "AKABİNDE",
+            "tanim": "Hemen arkasından. Bir olayın bitişinin hemen peşinden gelen zaman.",
+            "harf": 8
+        },
+        {
+            "kelime": "AKICILIK",
+            "tanim": "Sürükleyici olma. Bir yazının veya konuşmanın pürüzsüzce, sıkmadan ilerlemesi.",
+            "harf": 8
+        },
+        {
+            "kelime": "AKTİVİTE",
+            "tanim": "Etkinlik. Boş zamanları değerlendirmek için yapılan her türlü faaliyet.",
+            "harf": 8
+        },
+        {
+            "kelime": "ALATURKA",
+            "tanim": "Türk geleneklerine uygun. Eski Türk yaşam tarzını ve geleneklerini yansıtan tarz.",
+            "harf": 8
+        },
+        {
+            "kelime": "BAŞKATİP",
+            "tanim": "Kâtiplerin başı. Yazı işlerini yürüten görevlilerin en üstünde olan yetkili.",
+            "harf": 8
+        },
+        {
+            "kelime": "BİLHASSA",
+            "tanim": "Özellikle. Bir şeyi diğerlerinden ayırıp vurgulamak için kullanılır.",
+            "harf": 8
+        },
+        {
+            "kelime": "BİLİNÇLİ",
+            "tanim": "Şuurlu. Ne yaptığının ve sonuçlarının farkında olarak davranan.",
+            "harf": 8
+        },
+        {
+            "kelime": "DAVRANIŞ",
+            "tanim": "Tutum, hareket. Kişinin başkalarına karşı sergilediği her türlü hareket.",
+            "harf": 8
+        },
+        {
+            "kelime": "DEJENERE",
+            "tanim": "Yozlaşmış. Özünü ve iyi özelliklerini kaybedip bozulmuş olan.",
+            "harf": 8
+        },
+        {
+            "kelime": "DİKSİYON",
+            "tanim": "Güzel konuşma. Kelimeleri doğru seslendirerek etkili konuşma sanatı.",
+            "harf": 8
+        },
+        {
+            "kelime": "DOĞALLIK",
+            "tanim": "Yapmacıksız olma. İçten geldiği gibi, gösterişten uzak davranma hali.",
+            "harf": 8
+        },
+        {
+            "kelime": "DOĞAÜSTÜ",
+            "tanim": "Tabiatüstü. Doğa yasalarıyla açıklanamayan, mucizevi olaylar.",
+            "harf": 8
+        },
+        {
+            "kelime": "DRAMATİK",
+            "tanim": "Acıklı. İnsanda hüzün ve heyecan uyandıran etkileyici olay.",
+            "harf": 8
+        },
+        {
+            "kelime": "DÜŞÜNSEL",
+            "tanim": "Fikrî. Doğrudan akıl ve düşünceyle ilgili olan süreç.",
+            "harf": 8
+        },
+        {
+            "kelime": "ELEŞTİRİ",
+            "tanim": "Tenkit. Bir eserin veya davranışın iyi ve kötü yanlarını belirtme.",
+            "harf": 8
+        },
+        {
+            "kelime": "GARANTÖR",
+            "tanim": "Güvence veren. Bir anlaşmanın uygulanması için söz veren ve kefil olan.",
+            "harf": 8
+        },
+        {
+            "kelime": "GÖRECELİ",
+            "tanim": "Kişiden kişiye değişen. Kesin olmayan, bakış açısına göre farklılık gösteren.",
+            "harf": 8
+        },
+        {
+            "kelime": "HANDİKAP",
+            "tanim": "Engel. Başarıya ulaşmayı zorlaştıran olumsuz durum.",
+            "harf": 8
+        },
+        {
+            "kelime": "İLETİŞİM",
+            "tanim": "Haberleşme. Duygu ve düşüncelerin farklı yollarla başkasına aktarılması.",
+            "harf": 8
+        },
+        {
+            "kelime": "KARAKTER",
+            "tanim": "Kişilik. İnsanın iç dünyasını ve ahlaki özelliklerini belirleyen yapı.",
+            "harf": 8
+        },
+        {
+            "kelime": "KEYFİYET",
+            "tanim": "Nitelik. Bir işin nasıl olduğu, kalitesi ve özelliği.",
+            "harf": 8
+        },
+        {
+            "kelime": "KÖTÜMSER",
+            "tanim": "Pesimist. Her olayda en kötü sonucu bekleyen, umutsuz bakış açısı.",
+            "harf": 8
+        },
+        {
+            "kelime": "KÜLTÜREL",
+            "tanim": "Kültürle ilgili. Bir toplumun gelenekleri, sanatı ve yaşam tarzına dair.",
+            "harf": 8
+        },
+        {
+            "kelime": "MÜNFERİT",
+            "tanim": "Bireysel, tekil. Geneli ilgilendirmeyen, tek başına gerçekleşen olay.",
+            "harf": 8
+        },
+        {
+            "kelime": "MÜNHASIR",
+            "tanim": "Özel, mahsus. Sadece birine veya bir şeye ait olan, sınırlı.",
+            "harf": 8
+        },
+        {
+            "kelime": "MÜSTESNA",
+            "tanim": "Biricik, sıra dışı. Benzerlerinden çok farklı olan, kuralların dışında kalan.",
+            "harf": 8
+        },
+        {
+            "kelime": "NAÇİZANE",
+            "tanim": "Alçakgönüllülükle. Bir şeyi sunarken 'benimki çok önemli değil' anlamında kullanılır.",
+            "harf": 8
+        },
+        {
+            "kelime": "ÖYKÜLEME",
+            "tanim": "Anlatı. Bir olayı yer, zaman ve kişi belirterek anlatma yöntemi.",
+            "harf": 8
+        },
+        {
+            "kelime": "ÖZGÜNLÜK",
+            "tanim": "Orijinallik. Kimseye benzememe, tamamen kendine has olma özelliği.",
+            "harf": 8
+        },
+        {
+            "kelime": "ÖZGÜRLÜK",
+            "tanim": "Hürriyet. Kimsenin baskısı altında kalmadan kendi kararlarını verebilme.",
+            "harf": 8
+        },
+        {
+            "kelime": "BARIŞÇIL",
+            "tanim": "Huzur yanlısı. Kavga ve çatışmadan uzak duran, her şeyi huzurla çözen.",
+            "harf": 8
+        },
+        {
+            "kelime": "BİLGELİK",
+            "tanim": "Derin bilgi. Bilginin hayat tecrübesiyle harmanlanmış en olgun hali.",
+            "harf": 8
+        },
+        {
+            "kelime": "CİDDİYET",
+            "tanim": "Ağırbaşlılık. Bir işi yaparken gösterilen disiplin ve resmi tutum.",
+            "harf": 8
+        },
+        {
+            "kelime": "İDEALİST",
+            "tanim": "Ülkücü. Büyük hedefleri olan ve hayalleri için durmadan çalışan.",
+            "harf": 8
+        },
+        {
+            "kelime": "KAVRAYIŞ",
+            "tanim": "Anlama gücü. Bir konuyu zihinsel olarak hızla çözme ve idrak etme.",
+            "harf": 8
+        },
+        {
+            "kelime": "KÜLTÜRLÜ",
+            "tanim": "Bilgili, görgülü. Çok okuyan, sanat ve bilimle ilgilenen donanımlı kişi.",
+            "harf": 8
+        },
+        {
+            "kelime": "AKVARYUM",
+            "tanim": "Tatlı veya tuzlu su hayvanlarının ve bitkilerinin, doğal yaşam koşullarına uygun bir biçimde içinde yaşatıldığı camdan veya şeffaf plastikten yapılmış kap ya da özel mekan.",
+            "harf": 8
+        },
+        {
+            "kelime": "AKTARMAK",
+            "tanim": "Bir şeyi bir yerden başka bir yere taşımak; bir bilgiyi, duyguyu veya sözü olduğu gibi ya da değiştirerek başkalarına ulaştırmak, iletmek.",
+            "harf": 8
+        },
+        {
+            "kelime": "ANLATMAK",
+            "tanim": "Bir konu, olay veya düşünceyi söz ya da yazı ile başkalarına bildirmek; bir durumu açıklığa kavuşturmak veya öğretmek amacıyla bilgi vermek.",
+            "harf": 8
+        },
+        {
+            "kelime": "ASKERLİK",
+            "tanim": "Asker olma durumu veya askerlik görevi; vatan savunması amacıyla silahlı kuvvetlerde yürütülen resmi hizmet süreci ve bu alandaki mesleki faaliyetler.",
+            "harf": 8
+        },
+        {
+            "kelime": "ATLATMAK",
+            "tanim": "Bir tehlikeyi, zorluğu veya kötü bir durumu zarar görmeden geride bırakmak; birini savuşturmak veya bekletmek yoluyla işinden alıkoymak.",
+            "harf": 8
+        },
+        {
+            "kelime": "AYÇİÇEĞİ",
+            "tanim": "Bileşikgiller familyasından, sarı renkli büyük çiçekleri olan ve tohumlarından yağ elde edilen, güneşe yönelme özelliğiyle bilinen tarım bitkisi; günebakan.",
+            "harf": 8
+        },
+        {
+            "kelime": "BAŞARMAK",
+            "tanim": "Bir işi istenilen biçimde sonuçlandırmak; gösterilen çaba sonucunda hedeflenen amaca ulaşmak ve bir engeli galibiyetle aşmak.",
+            "harf": 8
+        },
+        {
+            "kelime": "BELEDİYE",
+            "tanim": "İl, ilçe veya kasaba gibi yerleşim yerlerinin temizlik, aydınlatma ve su gibi ortak ihtiyaçlarını karşılamakla görevli, seçimle gelinen kamu kuruluşu.",
+            "harf": 8
+        },
+        {
+            "kelime": "BELİRTME",
+            "tanim": "Bir şeyi açıkça gösterme, vurgulama veya işaret etme eylemi; dil bilgisinde bir nesneyi veya kavramı belirli kılan ek veya tamlamaların işlevi.",
+            "harf": 8
+        },
+        {
+            "kelime": "BİLGİLER",
+            "tanim": "Öğrenme, araştırma veya gözlem yoluyla elde edilen gerçeklerin, verilerin veya ilkelerin bütünü; bir konu hakkında sahip olunan donanımlar.",
+            "harf": 8
+        },
+        {
+            "kelime": "BİLİMSEL",
+            "tanim": "Bilime dayanan, bilimsel yöntemlerle elde edilmiş olan; rastlantısal değil, kanıta, deneye ve gözleme dayalı olan nitelik.",
+            "harf": 8
+        },
+        {
+            "kelime": "BİRLEŞME",
+            "tanim": "Ayrı olan parçaların bir araya gelerek tek bir bütün oluşturması; fikir veya amaç birliği içinde ortak bir noktada toplanma durumu.",
+            "harf": 8
+        },
+        {
+            "kelime": "BOYUNLUK",
+            "tanim": "Boyuna takılan, genellikle soğuktan korunmak amacıyla kullanılan giysi parçası veya tıbbi amaçla boynu sabit tutmaya yarayan araç.",
+            "harf": 8
+        },
+        {
+            "kelime": "BOZULMAK",
+            "tanim": "Bir şeyin eski düzenini veya işleyişini kaybetmesi; mekanik bir aracın çalışmaması veya bir besinin tazeliğini yitirerek yenilemeyecek hale gelmesi.",
+            "harf": 8
+        },
+        {
+            "kelime": "BÖLÜMLER",
+            "tanim": "Bir bütünün ayrıldığı parçalardan her biri; bir kitabın, bir dersin veya bir kurumun farklı işlevlere sahip olan alt birimleri.",
+            "harf": 8
+        },
+        {
+            "kelime": "BULUNMAK",
+            "tanim": "Bir yerde var olmak veya o yerde yer almak; bir durumun içinde olmak veya aranan bir şeyin elde edilmesi, ortaya çıkması.",
+            "harf": 8
+        },
+        {
+            "kelime": "BÜYÜTMEK",
+            "tanim": "Bir şeyi hacimce daha geniş hale getirmek; bir çocuğu yetiştirip geliştirmek veya bir sorunu olduğundan daha önemli ve büyük göstermek.",
+            "harf": 8
+        },
+        {
+            "kelime": "COĞRAFYA",
+            "tanim": "Yeryüzünü, iklimi, yer şekillerini ve insanların bu çevreyle olan ilişkilerini inceleyen bilim dalı; bir yerin fiziki ve ekonomik özellikleri.",
+            "harf": 8
+        },
+        {
+            "kelime": "ÇALIŞKAN",
+            "tanim": "Gayretli, işini severek ve titizlikle yapan, boş durmaktan hoşlanmayan; öğrenme veya üretim sürecinde sürekli çaba gösteren kimse.",
+            "harf": 8
+        },
+        {
+            "kelime": "ÇEKİRDEK",
+            "tanim": "Meyvelerin içinde bulunan ve bitkinin üremesini sağlayan sert kabuklu tohum; bir şeyin merkezi, özü veya başlangıç noktası.",
+            "harf": 8
+        },
+        {
+            "kelime": "ÇEŞİTLER",
+            "tanim": "Bir türün içinde nitelikleri bakımından birbirinden ayrılan her bir grup; farklılık gösteren seçeneklerin veya türlerin bütünü.",
+            "harf": 8
+        },
+        {
+            "kelime": "ÇEVİRMEK",
+            "tanim": "Bir şeyin yönünü değiştirmek veya kendi ekseni etrafında döndürmek; bir metni bir dilden başka bir dile aktarmak (tercüme etmek).",
+            "harf": 8
+        },
+        {
+            "kelime": "ÇEVRESEL",
+            "tanim": "Çevre ile ilgili olan, çevreyi kuşatan veya çevre üzerinde etkisi bulunan unsurların bütününe dair nitelik.",
+            "harf": 8
+        },
+        {
+            "kelime": "ÇİZGİLER",
+            "tanim": "Yüzey üzerine kalem vb. araçlarla çizilen ince uzun işaretler; bir sınır belirleyen veya bir şekli oluşturan geometrik ve sanatsal hatlar.",
+            "harf": 8
+        },
+        {
+            "kelime": "ÇÖZÜMLER",
+            "tanim": "Bir sorunu veya güçlüğü ortadan kaldırmak için bulunan yollar; matematiksel bir işlemin sonucuna ulaştıran yöntemlerin bütünü.",
+            "harf": 8
+        },
+        {
+            "kelime": "DEĞERLER",
+            "tanim": "Bir toplumun veya bireyin sahip olduğu ahlaki, kültürel ve toplumsal kıymetler; bir şeyin önemini veya karşılığını belirleyen ölçütler.",
+            "harf": 8
+        },
+        {
+            "kelime": "DEĞİŞMEK",
+            "tanim": "Başka bir duruma veya biçime girmek; bir şeyi verip yerine başkasını almak; zamanla farklı bir nitelik kazanmak.",
+            "harf": 8
+        },
+        {
+            "kelime": "DERİNLİK",
+            "tanim": "Bir şeyin yüzeyi ile dibi arasındaki uzaklık; bir konunun veya duygunun yüzeysel olmayan, karmaşık ve yoğun olan niteliği.",
+            "harf": 8
+        },
+        {
+            "kelime": "DİNLEMEK",
+            "tanim": "İşitilen seslere bilinçli bir biçimde kulak vermek; birinin öğüdüne veya sözüne uymak; müzik, konuşma vb. sesleri anlamlandırmaya çalışmak.",
+            "harf": 8
+        },
+        {
+            "kelime": "DOĞRULUK",
+            "tanim": "Düşüncenin gerçeğe uygun olması; yalan söylememe, dürüstlük ve hakkaniyetten ayrılmama durumu; eğri olmama niteliği.",
+            "harf": 8
+        },
+        {
+            "kelime": "DÖNÜŞMEK",
+            "tanim": "Bir halden başka bir hale geçmek; nitelik veya biçim bakımından başkalaşmak; bir sürecin sonunda farklı bir yapıya evrilmek.",
+            "harf": 8
+        },
+        {
+            "kelime": "DUYGULAR",
+            "tanim": "Bir olay veya kimse karşısında iç dünyamızda uyanan izlenimler; sevgi, korku, öfke gibi ruhsal tepkilerin ve hislerin bütünü.",
+            "harf": 8
+        },
+        {
+            "kelime": "DÜŞÜNMEK",
+            "tanim": "Zihinsel bir çaba harcayarak fikir üretmek; bir durumu incelemek, değerlendirmek veya bir şeyi akıldan geçirmek.",
+            "harf": 8
+        },
+        {
+            "kelime": "EĞLENMEK",
+            "tanim": "Hoşça vakit geçirmek, neşelenmek; bir şeye gülerek veya oyun oynayarak vakit geçirmek; bir durumdan keyif almak.",
+            "harf": 8
+        },
+        {
+            "kelime": "ELEŞTİRİ",
+            "tanim": "Bir eserin veya bir durumun iyi ve kötü yanlarını ortaya koyarak değerlendirme işi; tarafsız bir gözle yapılan analiz, tenkit.",
+            "harf": 8
+        },
+        {
+            "kelime": "ETKİNLİK",
+            "tanim": "Belli bir amaca yönelik olarak yapılan faaliyet; bir kişinin veya kurumun aktif olarak yürüttüğü iş, organizasyon veya hareketlilik.",
+            "harf": 8
+        },
+        {
+            "kelime": "EVRENSEL",
+            "tanim": "Bütün insanlığı ilgilendiren, tüm dünya için geçerli olan; yerel sınırları aşarak her zaman ve her yerdeki insana hitap eden nitelik.",
+            "harf": 8
+        },
+        {
+            "kelime": "GELİŞMEK",
+            "tanim": "İlerlemek, daha yetkin ve verimli bir duruma gelmek; bir canlının veya bir fikrin büyümesi ve olgunlaşması süreci.",
+            "harf": 8
+        },
+        {
+            "kelime": "GERÇEKÇİ",
+            "tanim": "Olayları hayallerin dışına çıkarak olduğu gibi gören ve yansıtan; nesnel verilere ve hayatın doğal akışına uygun davranan, realist.",
+            "harf": 8
+        },
+        {
+            "kelime": "GÖREVLER",
+            "tanim": "Bir kimsenin veya bir kurumun yapmakla yükümlü olduğu işler; bir sistemin içinde bir parçanın yerine getirmesi gereken işleyiş, vazife.",
+            "harf": 8
+        },
+        {
+            "kelime": "GÖRÜNMEK",
+            "tanim": "Göze çarpmak, görünür hale gelmek; bir şeyin belli bir izlenim uyandırması veya bir durumun ortaya çıkması.",
+            "harf": 8
+        },
+        {
+            "kelime": "GÖSTERGE",
+            "tanim": "Bir şeyi işaret eden, belirten işaret veya sembol; bir durumun derecesini veya gelişimini gösteren ölçülebilir veri.",
+            "harf": 8
+        },
+        {
+            "kelime": "HAZIRLIK",
+            "tanim": "Bir işin başlamasından önce yapılan ön çalışmaların bütünü; bir duruma karşı önceden tedbir alma veya donanım kazanma süreci.",
+            "harf": 8
+        },
+        {
+            "kelime": "HİKÂYECİ",
+            "tanim": "Hikâye yazan veya anlatan kimse; edebi bir tür olarak öykü sanatıyla uğraşan sanatçı; olayları kurgulayarak aktaran kişi.",
+            "harf": 8
+        },
+        {
+            "kelime": "HÜRRİYET",
+            "tanim": "Hiçbir dış baskı ve zorlama olmaksızın insanın kendi iradesine göre karar verebilmesi ve yaşayabilmesi; özgürlük, istiklal.",
+            "harf": 8
+        },
+        {
+            "kelime": "İLERLEME",
+            "tanim": "Daha iyi, daha ileri bir düzeye geçme; bir işte başarı kazanarak yol alma; zamansal veya niteliksel olarak gelişme gösterme.",
+            "harf": 8
+        },
+        {
+            "kelime": "İNCELEME",
+            "tanim": "Bir konuyu, bir nesneyi veya bir durumu ayrıntılarıyla gözden geçirme; bilimsel bir amaçla derinlemesine yapılan araştırma ve analiz.",
+            "harf": 8
+        },
+        {
+            "kelime": "İNTERNET",
+            "tanim": "Dünya üzerindeki bilgisayar ağlarının birbirine bağlanmasıyla oluşan, geniş bir bilgi ve iletişim ağını sağlayan küresel sistem.",
+            "harf": 8
+        },
+        {
+            "kelime": "KAYNAKÇA",
+            "tanim": "Bir araştırma veya kitap hazırlanırken yararlanılan eserlerin ve belgelerin listenin sonunda gösterildiği dizin; bibliyografya.",
+            "harf": 8
+        },
+        {
+            "kelime": "KESİNLİK",
+            "tanim": "Şüpheye yer bırakmayan, net ve açık olan durum; bir bilginin doğruluğunun veya sonucunun tam olması niteliği.",
+            "harf": 8
+        },
+        {
+            "kelime": "KISALTMA",
+            "tanim": "Bir kelimenin veya kelime grubunun zaman ve yer tasarrufu sağlamak amacıyla bazı harfleriyle sembolleştirilmiş hali.",
+            "harf": 8
+        },
+        {
+            "kelime": "KONUŞMAK",
+            "tanim": "Düşüncelerini sözle ifade etmek; bir dilin seslerini kullanarak iletişim kurmak; belli bir konuda görüş alışverişinde bulunmak.",
+            "harf": 8
+        },
+        {
+            "kelime": "KURTULUŞ",
+            "tanim": "Tehlikeli veya kötü bir durumdan kurtulma; bir milletin bağımsızlığını kazanması; sıkıntıların sona erip esenliğe kavuşulması.",
+            "harf": 8
+        },
+        {
+            "kelime": "MUTLULUK",
+            "tanim": "Bütün özlemlere ve isteklere eksiksiz ulaşmaktan doğan ruhsal dinginlik ve sevinç hali; hayattan duyulan derin memnuniyet.",
+            "harf": 8
+        },
+        {
+            "kelime": "MÜCADELE",
+            "tanim": "Bir amaca ulaşmak için karşılaşılan zorluklarla yapılan savaş, uğraş; engelleri aşmak için gösterilen sürekli ve kararlı çaba.",
+            "harf": 8
+        },
+        {
+            "kelime": "ÖĞRENMEK",
+            "tanim": "Bilgi edinmek, bir işi yapabilir duruma gelmek; bir yeteneği veya gerçeği çalışma, gözlem ya da eğitim yoluyla kazanmak.",
+            "harf": 8
+        },
+        {
+            "kelime": "ÖĞRETMEK",
+            "tanim": "Bilgi ve becerileri başkalarına aktarmak; birinin bir konuyu anlamasını veya bir işi yapabilmesini sağlamak, ders vermek.",
+            "harf": 8
+        },
+        {
+            "kelime": "PAYLAŞIM",
+            "tanim": "Bir şeyi bölüşme, ortaklaşa kullanma veya bir bilgiyi/duyguyu başkalarıyla bölüşme eylemi; katılım sağlama durumu.",
+            "harf": 8
+        },
+        {
+            "kelime": "PLANLAMA",
+            "tanim": "Bir işin nasıl yapılacağını, hangi aşamalardan geçeceğini önceden belirleme ve düzenleme işi; programlama.",
+            "harf": 8
+        },
+        {
+            "kelime": "SAĞLIKLI",
+            "tanim": "Vücut ve zihin sağlığı yerinde olan; sağlığa yararlı olan veya güvenilir ve doğru bir temel üzerine kurulu olan durum.",
+            "harf": 8
+        },
+        {
+            "kelime": "TEMİZLİK",
+            "tanim": "Kirli olmama durumu; bir yerin veya bir şeyin kirden arındırılması işi; ahlaki açıdan dürüst ve lekesiz olma hali.",
+            "harf": 8
+        },
+        {
+            "kelime": "TOPLAMAK",
+            "tanim": "Dağınık olan şeyleri bir araya getirmek; biriktirmek veya matematiksel olarak sayıları birbirine ekleyerek toplamını bulmak.",
+            "harf": 8
+        },
+        {
+            "kelime": "UYGULAMA",
+            "tanim": "Bir bilgiyi veya kuralı fiilen hayata geçirme, tatbik etme; pratik yapma veya bir yazılımın sunduğu işlevsel araç.",
+            "harf": 8
+        },
+        {
+            "kelime": "UZMANLIK",
+            "tanim": "Belli bir bilim dalında veya iş alanında derin bilgi ve beceri sahibi olma durumu; ustalık ve yetkinlik düzeyi.",
+            "harf": 8
+        },
+        {
+            "kelime": "VATANDAŞ",
+            "tanim": "Aynı devlete bağlı olan ve o devletin yasaları önünde eşit hak ve sorumluluklara sahip olan her bir birey; yurttaş.",
+            "harf": 8
+        },
+        {
+            "kelime": "YAZARLIK",
+            "tanim": "Edebi veya bilimsel eserler kaleme alma mesleği; bir yazarın sahip olduğu yetkinlik ve unvan.",
+            "harf": 8
+        },
+        {
+            "kelime": "HAYALLER",
+            "tanim": "Zihinde canlandırılan, gerçekte var olmayan ancak gerçekleşmesi arzulanan imge ve düşüncelerin bireye ait olan kısmı. Yaratıcılığın kaynağı ve geleceğe dair kurulan umut dolu tasarımlar.",
+            "harf": 8
+        },
+        {
+            "kelime": "YAZARLAR",
+            "tanim": "Edebi veya bilimsel eserler üreten, düşüncelerini kağıda dökerek kalıcı hale getiren kişilerin bütünü; bir toplumun fikir dünyasını şekillendiren ve dili ustalıkla kullanan sanatçı grubu.",
+            "harf": 8
+        },
+        {
+            "kelime": "TÜKETİCİ",
+            "tanim": "Mal veya hizmetleri kendi ihtiyacı için kullanan, piyasadaki arzın hedef kitlesini oluşturan birey veya grubun nesne hali. Ekonomik döngünün son aşamasını temsil eden aktif öznedir.",
+            "harf": 8
+        }
+    ],
+    "9_harf": [
+        {
+            "kelime": "BASİRETLİ",
+            "tanim": "Gerçeği görebilen, uzağı sezen. Olayların sonucunu önceden kestirip ona göre önlem alan kişi.",
+            "harf": 9
+        },
+        {
+            "kelime": "MÜTEESSİR",
+            "tanim": "Üzgün, etkilenmiş. Üzücü bir olay karşısında derinden etkilenen ve kederlenen kimse.",
+            "harf": 9
+        },
+        {
+            "kelime": "İHTİŞAMLI",
+            "tanim": "Görkemli, göz alıcı. Büyüklüğü ve parlaklığıyla insanı etkileyen, çok görkemli olan.",
+            "harf": 9
+        },
+        {
+            "kelime": "MARİFETLİ",
+            "tanim": "Becerikli, usta. Elinden her iş gelen, bir işi büyük bir ustalıkla yapan.",
+            "harf": 9
+        },
+        {
+            "kelime": "DİRAYETLİ",
+            "tanim": "Güçlü kavrayışa sahip. Zorluklar karşısında yılmayan ve meseleleri akıllıca çözen.",
+            "harf": 9
+        },
+        {
+            "kelime": "FEDAKARCA",
+            "tanim": "Özverili bir şekilde. Kendi çıkarını hiç düşünmeden, başkası için yapılan büyük iyilik.",
+            "harf": 9
+        },
+        {
+            "kelime": "İNSANİYET",
+            "tanim": "İnsanlık, merhamet. İnsana yakışan erdemli davranışların bütünü, acıma duygusu.",
+            "harf": 9
+        },
+        {
+            "kelime": "ZARAFETLİ",
+            "tanim": "Nazik, estetik. Duruşunda ve konuşmasında büyük bir incelik barındıran.",
+            "harf": 9
+        },
+        {
+            "kelime": "BENZERSİZ",
+            "tanim": "Eşsiz, yegâne. Eşi ve benzeri olmayan, kendi türünde tek olan.",
+            "harf": 9
+        },
+        {
+            "kelime": "ÇAĞDAŞLIK",
+            "tanim": "Modernlik. Yaşanılan zamanın değerlerine ve yeniliklerine uygun olma.",
+            "harf": 9
+        },
+        {
+            "kelime": "DÜŞÜNCELİ",
+            "tanim": "Nazik, ince. Başkalarının ihtiyaçlarını önceden fark edip ona göre davranan.",
+            "harf": 9
+        },
+        {
+            "kelime": "EĞLENCELİ",
+            "tanim": "Keyif verici. Vakit geçirirken insanı güldüren ve neşelendiren.",
+            "harf": 9
+        },
+        {
+            "kelime": "GERÇEKLİK",
+            "tanim": "Realite. Hayal olmayan, doğruluğu herkesçe kabul edilen varlık hali.",
+            "harf": 9
+        },
+        {
+            "kelime": "HOŞGÖRÜLÜ",
+            "tanim": "Toleranslı. Farklı düşünce ve inançları anlayışla karşılayan kişi.",
+            "harf": 9
+        },
+        {
+            "kelime": "İNCELİKLİ",
+            "tanim": "Nazik, detaylı. Üzerinde çok düşünülmüş ve kibarlıkla işlenmiş durum.",
+            "harf": 9
+        },
+        {
+            "kelime": "MESULİYET",
+            "tanim": "Sorumluluk. Üstlenilen görevlerin yerine getirilmesi zorunluluğu.",
+            "harf": 9
+        },
+        {
+            "kelime": "NEZAKETLİ",
+            "tanim": "Kibar, ince davranışlı. Başkalarına karşı çok nazik ve saygılı davranan kişi.",
+            "harf": 9
+        },
+        {
+            "kelime": "HAKİKATLİ",
+            "tanim": "Doğru, vefalı. Dostluğuna güvenilen, sözünde duran ve yalan söylemeyen.",
+            "harf": 9
+        },
+        {
+            "kelime": "ARAŞTIRMA",
+            "tanim": "Bir gerçeği ortaya çıkarmak, bir soruna çözüm bulmak veya mevcut bilgileri genişletmek amacıyla bilimsel yöntemler kullanarak yapılan sistemli ve derinlemesine inceleme süreci. Bilginin kökenine inme ve verileri analiz etme eylemidir.",
+            "harf": 9
+        },
+        {
+            "kelime": "ANLAYIŞLI",
+            "tanim": "Karşısındaki kişinin duygu, düşünce ve durumlarını hoşgörüyle karşılayabilen; olaylara empati yeteneğiyle yaklaşan ve çevresindeki değişimleri sezgi gücüyle kavrayabilen kimse. Esneklik ve nezaket barındıran bir kişilik özelliğidir.",
+            "harf": 9
+        },
+        {
+            "kelime": "ETKİLEŞİM",
+            "tanim": "İki veya daha fazla nesnenin, olayın ya da kişinin birbirini karşılıklı olarak etkilemesi; bir sistem içindeki unsurların birbiriyle kurduğu dinamik bağ. İletişimin ötesinde, tarafların birbirinde değişim yaratması durumudur.",
+            "harf": 9
+        },
+        {
+            "kelime": "ALIŞVERİŞ",
+            "tanim": "İhtiyaç duyulan bir mal veya hizmetin bedeli karşılığında alınması ve verilmesi eylemi; sadece maddi bir takas değil, aynı zamanda toplum içindeki ekonomik ve sosyal sirkülasyonun temelini oluşturan beşerî münasebet.",
+            "harf": 9
+        },
+        {
+            "kelime": "BENZETMEK",
+            "tanim": "Bir varlığın veya kavramın niteliklerini, aralarındaki ortak yönlerden yola çıkarak başka bir varlığa yaklaştırmak; somutlaştırma veya anlatımı güçlendirmek amacıyla kurulan zihinsel ve edebi köprü, teşbih etme.",
+            "harf": 9
+        },
+        {
+            "kelime": "TOPLUMSAL",
+            "tanim": "Bireyi aşan, toplumu oluşturan tüm katmanları ve bu katmanlar arasındaki ilişkileri kapsayan; ortak değerlere, kurallara ve kolektif bilince dayalı olan olgu. Sosyal yapının işleyişiyle ilgili her türlü unsur.",
+            "harf": 9
+        },
+        {
+            "kelime": "PAYLAŞMAK",
+            "tanim": "Sahip olunan somut bir nesneyi veya soyut bir değeri (bilgi, duygu, zaman vb.) başkalarıyla bölüşmek; bir bütünü parçalara ayırarak başkalarının da istifadesine sunmak ve bu yolla sosyal bağı güçlendirmek.",
+            "harf": 9
+        },
+        {
+            "kelime": "TARTIŞMAK",
+            "tanim": "Bir konu üzerinde farklı görüşleri karşılıklı olarak ileri sürmek; bir gerçeği bulmak veya bir karara varmak amacıyla fikirlerin çatıştırılması süreci. Sadece zıtlık değil, akıl yürütme yoluyla gerçeğe ulaşma çabasıdır.",
+            "harf": 9
+        },
+        {
+            "kelime": "KELİMELER",
+            "tanim": "Düşüncelerin, duyguların ve nesnelerin dildeki ses sembolleri; bir dilin anlam taşıyan en küçük yapı taşlarının çoğulu. İnsan zihnindeki dünyayı dış dünyaya aktaran ve kültürü kuşaktan kuşağa taşıyan temel araçlar.",
+            "harf": 9
+        },
+        {
+            "kelime": "HAZIRLAMA",
+            "tanim": "Bir işin, bir durumun veya bir sürecin başarılı olabilmesi için önceden yapılması gereken planlı çalışmaların bütünü; bir şeyi kullanılır veya yapılır duruma getirme evresi, ön çalışma.",
+            "harf": 9
+        },
+        {
+            "kelime": "PSİKOLOJİ",
+            "tanim": "İnsan davranışlarını, zihinsel süreçleri ve duyguların altında yatan nedenleri bilimsel yöntemlerle inceleyen bilim dalı; bireyin ruhsal yapısının ve çevreyle olan etkileşiminin analiz edilmesi süreci.",
+            "harf": 9
+        },
+        {
+            "kelime": "TEKNOLOJİ",
+            "tanim": "Bilimsel bilgilerin pratik amaçlarla, özellikle endüstri ve günlük yaşamda uygulanması; insanın doğayı denetim altına almak ve hayatını kolaylaştırmak için geliştirdiği araç, gereç ve yöntemlerin bütünü.",
+            "harf": 9
+        },
+        {
+            "kelime": "KÜTÜPHANE",
+            "tanim": "Bilgi kaynaklarının, kitapların ve her türlü dokümanın sistemli bir biçimde toplandığı, korunduğu ve toplumun istifadesine sunulduğu kurum. İnsanlığın kolektif hafızasının saklandığı kültür ve bilgi merkezi.",
+            "harf": 9
+        },
+        {
+            "kelime": "PLANLAMAK",
+            "tanim": "Gelecekte yapılacak bir işin aşamalarını, kullanılacak araçları ve zamanlamasını önceden tasarlamak; belirsizliği azaltmak ve verimliliği artırmak amacıyla zihinsel bir düzen kurma eylemi.",
+            "harf": 9
+        },
+        {
+            "kelime": "BİLİNÇSİZ",
+            "tanim": "Bir eylemi yaparken onun nedenlerini, sonuçlarını veya anlamını tam olarak kavramamış olma durumu; farkındalıktan yoksun, içgüdüsel veya düşünmeksizin yapılan hareketleri niteleyen kavram.",
+            "harf": 9
+        },
+        {
+            "kelime": "ANLATILAN",
+            "tanim": "Bir sözcü, yazar veya sanatçı tarafından dile getirilen konu, olay veya durum; alıcının zihninde canlanması beklenen hikâyeleştirilmiş veya nesnelleştirilmiş bilgi bütünü.",
+            "harf": 9
+        },
+        {
+            "kelime": "KAVRAMLAR",
+            "tanim": "Nesnelerin veya olayların ortak özelliklerini kapsayan, zihindeki soyut ve genel tasarımların çoğulu; düşünme eyleminin temel birimleri ve bilginin sınıflandırılmasını sağlayan zihinsel kategoriler.",
+            "harf": 9
+        },
+        {
+            "kelime": "FARKLILIK",
+            "tanim": "İki varlık veya durum arasındaki nitelik ve özellik ayrılığı; tekdüzeliği kıran, çeşitliliği sağlayan ve her bir unsuru kendine özgü kılan ayırt edici niteliklerin varlığı.",
+            "harf": 9
+        },
+        {
+            "kelime": "GÖRÜNTÜLÜ",
+            "tanim": "Sadece sesle değil, aynı zamanda optik veya dijital yollarla elde edilen görsellerin de aktarıldığı iletişim veya kayıt biçimi. Somutlaştırmayı artıran ve görsel algıya hitap eden teknolojik özellik.",
+            "harf": 9
+        },
+        {
+            "kelime": "YETENEKLİ",
+            "tanim": "Bir işi başarma, bir konuyu kavrama veya sanatsal bir üretim yapma konusunda doğuştan gelen ve sonradan geliştirilebilen yüksek potansiyeli olan kimse; kabiliyetli ve becerikli olma durumu.",
+            "harf": 9
+        },
+        {
+            "kelime": "ETKİLEMEK",
+            "tanim": "Bir kişinin veya nesnenin, başka bir varlık üzerinde fiziksel veya ruhsal bir değişim yaratması; iz bırakmak, yönlendirmek veya duygusal bir tepki uyandırmak eylemi.",
+            "harf": 9
+        },
+        {
+            "kelime": "PROGRAMLI",
+            "tanim": "Belli bir düzene, sıraya ve plana göre hareket eden; tesadüflere yer bırakmayan ve zamanı verimli kullanmayı amaçlayan sistemli yaklaşım biçimi.",
+            "harf": 9
+        },
+        {
+            "kelime": "UYGULANIŞ",
+            "tanim": "Bir kuralın, bir kuramın veya bir yöntemin fiilen hayata geçirilme ve tatbik edilme biçimi. Teorinin pratiğe döküldüğü andaki işleyiş tarzı ve yöntemsel süreci.",
+            "harf": 9
+        }
+    ],
+    "10_harf": [
+        {
+            "kelime": "MÜSAMAHALI",
+            "tanim": "Hoşgörülü. Hatalara karşı anlayış gösteren, geniş gönüllü kimse.",
+            "harf": 10
+        },
+        {
+            "kelime": "HAYSİYETLİ",
+            "tanim": "Onurlu, saygın. Kendi onurunu ve gururunu her şeyin üstünde tutan.",
+            "harf": 10
+        },
+        {
+            "kelime": "KARARLILIK",
+            "tanim": "Azim, sebat. Bir işi bitirmekte veya bir yolda gitmekte kesin niyetli olma.",
+            "harf": 10
+        },
+        {
+            "kelime": "SORUMLULUK",
+            "tanim": "Mesuliyet, ödev. Kişinin kendi davranışlarının sonuçlarını üstlenmesi.",
+            "harf": 10
+        },
+        {
+            "kelime": "SÜREKLİLİK",
+            "tanim": "Devamlılık. Bir durumun kesintiye uğramadan hep devam etmesi hali.",
+            "harf": 10
+        },
+        {
+            "kelime": "TAHAMMÜLLÜ",
+            "tanim": "Sabırlı, dayanıklı. Zor durumlara veya acılara karşı sabırla direnebilen.",
+            "harf": 10
+        },
+        {
+            "kelime": "TEVEKKÜLLÜ",
+            "tanim": "Kadere güvenen. Elinden geleni yaptıktan sonra gerisini akışına bırakan.",
+            "harf": 10
+        },
+        {
+            "kelime": "TUTARLILIK",
+            "tanim": "Çelişmezlik. Düşüncelerin ve davranışların birbiriyle uyum içinde olması.",
+            "harf": 10
+        },
+        {
+            "kelime": "AÇIKLAYICI",
+            "tanim": "İzah edici. Bir konuyu herkesin anlayabileceği şekilde netleştiren.",
+            "harf": 10
+        },
+        {
+            "kelime": "BİLİNÇALTI",
+            "tanim": "Şuuraltı. Zihnimizin farkında olmadığımız ama bizi etkileyen derin kısmı.",
+            "harf": 10
+        },
+        {
+            "kelime": "BÜTÜNLEŞİK",
+            "tanim": "Entegre olmuş. Parçaların bir araya gelerek tek bir sistem oluşturması.",
+            "harf": 10
+        },
+        {
+            "kelime": "ÇEŞİTLİLİK",
+            "tanim": "Varyasyon. Bir bütünün içinde farklı türlerin veya özelliklerin olması.",
+            "harf": 10
+        },
+        {
+            "kelime": "DUYARLILIK",
+            "tanim": "Hassasiyet. Çevredeki olaylara karşı kayıtsız kalmama, hemen hissetme.",
+            "harf": 10
+        },
+        {
+            "kelime": "DÜZENLİLİK",
+            "tanim": "İntizam. Her şeyin yerli yerinde ve belli bir sistemde olması.",
+            "harf": 10
+        },
+        {
+            "kelime": "ETKİLEYİCİ",
+            "tanim": "Tesirli. İnsanlar üzerinde derin ve kalıcı iz bırakan durum veya söz.",
+            "harf": 10
+        },
+        {
+            "kelime": "KILAVUZLUK",
+            "tanim": "Rehberlik. Bilmeyen birine yol gösterme ve ona yardımcı olma işi.",
+            "harf": 10
+        },
+        {
+            "kelime": "ARKADAŞLIK",
+            "tanim": "Birbirine karşı sevgi, saygı ve güven besleyen kişilerin kurduğu toplumsal bağ. Sadece ortak vakit geçirmek değil, zor anlarda dayanışma göstermek ve paylaşılan değerler etrafında samimi bir gönül birliği oluşturma sürecidir.",
+            "harf": 10
+        },
+        {
+            "kelime": "BİÇİMSELCİ",
+            "tanim": "Bir eserin veya düşüncenin içeriğinden ziyade dış görünüşüne, yapısına ve kurallarına odaklanan yaklaşım. Estetik veya teknik kuralların, özden daha ön planda tutulduğu değerlendirme biçimidir.",
+            "harf": 10
+        },
+        {
+            "kelime": "ÇÖZÜMLEMEK",
+            "tanim": "Karmaşık bir konuyu, bir metni veya bir sorunu temel parçalarına ayırarak her birinin işlevini ve birbiriyle olan ilişkisini derinlemesine incelemek; analiz ederek belirsizlikleri ortadan kaldırmak.",
+            "harf": 10
+        },
+        {
+            "kelime": "KARŞILAŞMA",
+            "tanim": "İki kişinin, grubun veya düşüncenin beklenmedik bir şekilde ya da planlı olarak bir araya gelmesi; müsabaka veya yüzleşme. Olay örgüsünde düğümün atıldığı veya çözüldüğü kritik temas anıdır.",
+            "harf": 10
+        },
+        {
+            "kelime": "KULLANIŞLI",
+            "tanim": "Amacına uygun olan, iş görme kapasitesi yüksek ve kullanımı kolay olan nesne veya yöntem. Pratikliği ve verimliliği ile hayatı kolaylaştıran her türlü aracın niteliğidir.",
+            "harf": 10
+        },
+        {
+            "kelime": "OLGUNLAŞMA",
+            "tanim": "Bir canlının fiziksel gelişimini tamamlaması veya bir fikrin/karakterin tam ve verimli bir düzeye erişmesi süreci. Deneyimlerin süzgecinden geçerek daha dengeli ve yetkin bir yapıya kavuşmadır.",
+            "harf": 10
+        },
+        {
+            "kelime": "PLANLANMIŞ",
+            "tanim": "Önceden tasarlanan, aşamaları belirlenen ve tesadüflere yer bırakılmadan bir düzen dahilinde yürütülen iş. Hedefe odaklı, disiplinli ve sonuçları öngörülmüş bir hareket biçimidir.",
+            "harf": 10
+        }
+    ]
+}

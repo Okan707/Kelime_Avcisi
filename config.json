@@ -1,0 +1,123 @@
+{
+  "version": "1.5",
+  "colors_dark": {
+    "bg_color": "#1e293b",
+    "card_color": "#0f172a",
+    "accent_color": "#2dd4bf",
+    "text_color": "#f8fafc",
+    "input_bg": "#334155",
+    "button_color": "#0ea5e9",
+    "sub_text_color": "#94a3b8",
+    "pink_accent": "#2dd4bf",
+    "entry_title_color": "#2dd4bf",
+    "definition_card_bg": "#e619e5",
+    "red_button": "#ef4444",
+    "green_button": "#22c55e"
+  },
+  "colors_light": {
+    "bg_color": "#f1f5f9",
+    "card_color": "#ffffff",
+    "accent_color": "#0d9488",
+    "text_color": "#1e293b",
+    "input_bg": "#e2e8f0",
+    "button_color": "#0284c7",
+    "sub_text_color": "#64748b",
+    "pink_accent": "#0d9488",
+    "entry_title_color": "#0d9488",
+    "definition_card_bg": "#db2777",
+    "red_button": "#dc2626",
+    "green_button": "#16a34a"
+  },
+  "colors": {
+    "bg_color": "#1e293b",
+    "card_color": "#0f172a",
+    "accent_color": "#2dd4bf",
+    "text_color": "#f8fafc",
+    "input_bg": "#334155",
+    "button_color": "#0ea5e9",
+    "sub_text_color": "#94a3b8",
+    "pink_accent": "#2dd4bf",
+    "entry_title_color": "#2dd4bf",
+    "definition_card_bg": "#e619e5",
+    "red_button": "#ef4444",
+    "green_button": "#22c55e"
+  },
+  "sounds": {
+    "enabled": true,
+    "correct": "button-pressed-38129.mp3",
+    "wrong": "click-buttons-ui-menu-sounds-effects-button-7-203601.mp3",
+    "next": "mech-keyboard-02-102918.mp3",
+    "volume_correct": 1.0,
+    "volume_wrong": 1.0,
+    "volume_next": 0.5
+  },
+  "fonts": {
+    "main_font_family": "Benz Grotesk Heavy",
+    "fallback_font": "Segoe UI",
+    "font_file_path": "benz/Benz Grotesk.ttf"
+  },
+  "game_settings": {
+    "timer_duration": 60,
+    "levels": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "score_per_word": 10,
+    "hint_penalty": 1,
+    "max_daily_scores": 20,
+    "max_weekly_scores": 15,
+    "max_monthly_scores": 15,
+    "max_alltime_scores": 15
+  },
+  "ui_text": {
+    "app_title": "Kelime Avcısı",
+    "welcome_title": "KELİME AVCISI",
+    "name_placeholder": "ADINIZ - SOYADINIZ",
+    "start_button": "OYUNA BAŞLA",
+    "hint_button": "HARF İSTE",
+    "submit_button": "CEVAPLA",
+    "next_button": "SIRADAKİ KELİME",
+    "finish_button": "OYUNU BİTİR",
+    "back_button": "GERİ DÖN",
+    "leaderboard_title": "Puan Durumu",
+    "contact_title": "İletişim",
+    "about_title": "Hakkında"
+  },
+  "ui_design": {
+    "entry_title_font_size": 144,
+    "card_height": 180,
+    "stats_bar_padding": 15,
+    "button_width": 200,
+    "button_height": 50,
+    "rounded_radius": 25
+  },
+  "update_check": {
+    "enabled": true,
+    "config_url": "https://raw.githubusercontent.com/Okan707/Kelime_Oyunu/main/config.json",
+    "main_py_url": "https://raw.githubusercontent.com/Okan707/Kelime_Oyunu/main/main.py",
+    "sozluk_url": "https://raw.githubusercontent.com/Okan707/Kelime_Oyunu/main/sozluk.json",
+    "release_url": "https://api.github.com/repos/Okan707/Kelime_Oyunu/releases/latest"
+  },
+  "network": {
+    "api_url": "http://localhost:5000"
+  },
+  "features": {
+    "sound_enabled": true,
+    "auto_update_check": true,
+    "score_cleanup_on_start": true,
+    "show_leaderboard_link": true,
+    "show_contact_link": true,
+    "show_about_link": true
+  },
+  "display_settings": {
+    "custom_scale": null,
+    "resolution": "fullscreen",
+    "fullscreen": true,
+    "theme": "dark"
+  }
+}
